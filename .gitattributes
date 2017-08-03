@@ -1,2 +1,2 @@
-$ cat .gitattributes
-*.rb linguist-language=R
+README.html linguist-documentation
+Test_Rmd.html linguist-documentation
