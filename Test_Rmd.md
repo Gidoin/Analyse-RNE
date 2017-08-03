@@ -1,34 +1,55 @@
 # Test Rmd
 Gidoin  
 3 août 2017  
-
-
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+This rmd document is awesome
 
 ```r
-summary(cars)
+getwd()
 ```
 
 ```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
+## [1] "C:/Users/timot/Documents/Datactivist/Mission HCE/Analyse RNE/Analyse-RNE"
 ```
 
-## Including Plots
+```r
+library(readr)
+```
 
-You can also embed plots, for example:
+```
+## Warning: package 'readr' was built under R version 3.3.3
+```
 
-![](Test_Rmd_files/figure-html/pressure-1.png)<!-- -->
+```r
+read_csv("CSVtest.csv")
+```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```
+## Parsed with column specification:
+## cols(
+##   url = col_character(),
+##   Organismes = col_character(),
+##   Organismes_link = col_character(),
+##   `Nom contact` = col_character(),
+##   `Statut & Adresse` = col_character(),
+##   `Statut & Adresse_link` = col_character()
+## )
+```
+
+```
+## # A tibble: 1,631 x 6
+##                                                                            url
+##                                                                          <chr>
+##  1 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  2 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  3 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  4 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  5 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  6 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  7 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  8 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+##  9 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+## 10 http://www.cada.fr/personnes-responsables,6059.html?id_article=6059&page=ar
+## # ... with 1,621 more rows, and 5 more variables: Organismes <chr>,
+## #   Organismes_link <chr>, `Nom contact` <chr>, `Statut & Adresse` <chr>,
+## #   `Statut & Adresse_link` <chr>
+```
