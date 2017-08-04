@@ -8,7 +8,6 @@ output:
 ---
 This rmd document is awesome
 ```{r}
-getwd()
 library(readr)
 read_csv("CSVtest.csv")
 ```
