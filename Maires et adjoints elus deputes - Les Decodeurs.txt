@@ -1,0 +1,187 @@
+NOM DU DÉPUTÉ	FONCTIONS MUNICIPALES	COMMUNE	POPULATION
+Béatrice Descamps	Adjoint	Thivencelle (Nord)	2000 et -
+Philippe Dunoyer	Adjoint	Nouméa (Nouvelle-Calédonie)	50000 à 100000
+David Lorion	Adjoint	Saint-Pierre (La Réunion)	50000 à 100000
+Gérard Menuel	Adjoint	Troyes (Aube)	50000 à 100000
+Jean-François Parigi	Adjoint	Meaux (Seine-et-Marne)	50000 à 100000
+Eric Pauget	Adjoint	Antibes (Alpes-Maritimes)	50000 à 100000
+Alain Ramadier	Adjoint	Aulnay-sous-Bois (Seine-Saint-Denis)	50000 à 100000
+Danièle Herin	Adjoint	Carcassonne (Aude)	50000 à 100000
+Isabelle Florennes	Adjoint	Suresnes (Hauts-de-Seine)	50000 à 100000
+Josy Poueyto	Adjoint	Pau (Pyrénées-Atlantiques)	50000 à 100000
+Philippe Folliot	Adjoint	Saint-Pierre-de-Trivisy (Tarn)	2000 et -
+Emilie Bonnivard	Adjoint	Montaimont (Savoie)	2000 et -
+Emmanuelle Anthoine	Adjoint	Hauterives (Drome)	2000 et -
+Olivier Gaillard	Adjoint	Sauve (Gard)	2000 et -
+Olivier Damaisin	Adjoint	Beauville (Lot-et-Garonne)	2000 et -
+Philippe Bolo	Adjoint	Avrillé (Vendée)	2000 et -
+Dominique Da Silva	Adjoint	Moisselles (Val-d'Oise)	2000 et -
+Michèle Crouzet	Adjoint	Evry (Yonne)	2000 et -
+José Evrard	Adjoint	Billy-Montigny (Hauts-de-France)	2000 à 10000
+Christophe Blanchet	Adjoint	Merville-Franceville-Plage (Calvados)	2000 à 10000
+Nicole Le Peih	Adjoint	Baud (Morbihan)	2000 à 10000
+Blandine Brocard	Adjoint	Saint-Germain-au-Mont-d'Or (métropole de Lyon)	2000 à 10000
+Stéphane Teste	Adjoint	Clichy-sous-Bois (Seine-Saint-Denis)	2000 à 10000
+Isabelle Muller-Quoy	Adjoint	Champagne-sur-Oise (Val-d'Oise)	2000 à 10000
+Nathalie Elimas	Adjoint	Margency (Val-d'Oise)	2000 à 10000
+Marine Brenier	Adjoint	Nice (Alpes-Maritimes)	100000 et +
+Eric Alauzet	Adjoint	Besançon (Doubs)	100000 et +
+Agnès Firmin Le Bodo	Adjoint	Le Havre (Seine-Maritime)	100000 et +
+Stéphane Peu	Adjoint	Saint-Denis (Seine-Saint-Denis)	100000 et +
+Valérie Beauvais	Adjoint	Reims (Marne)	100000 et +
+Geneviève Levy	Adjoint	Toulon (Var)	100000 et +
+Élisabeth Toutut-Picard	Adjoint	Toulouse (Haute-Garonne)	100000 et +
+Jean-Luc Lagleize	Adjoint	Toulouse (Haute-Garonne)	100000 et +
+Belkhir Belhaddad	Adjoint	Metz (Moselle)	100000 et +
+Richard Lioger	Adjoint	Metz (Moselle)	100000 et +
+Romain Grau	Adjoint	Perpignan (Pyrénées-Orientales)	100000 et +
+Anne Brugnera	Adjoint	Lyon (métropole de Lyon)	100000 et +
+Pacôme Rupin	Adjoint	Paris (4e arrondissement)	100000 et +
+Saïd Ahamada	Adjoint	8e secteur de Marseille (Bouches-du-Rhône)	100000 et +
+Lise Magnier	Adjoint	Châlons-en-Champagne (Marne)	10000 à 50000
+Josette Manin	Adjoint	Le Lamentin (Martinique)	10000 à 50000
+Vincent Rolland	Adjoint	Albertville (Savoie)	10000 à 50000
+Michel Castellani	Adjoint	Bastia (Haute-Corse)	10000 à 50000
+Laurence Trastour-Isnart	Adjoint	Cagnes-sur-Mer (Alpes-Maritimes)	10000 à 50000
+Bruno Bilde	Adjoint	Hénin-Beaumont (Pas-de Calais)	10000 à 50000
+Stéphane Mazars	Adjoint	Rodez (Aveyron)	10000 à 50000
+Carole Bureau-Bonnard	Adjoint	Noyon (Oise)	10000 à 50000
+Florence Lasserre	Adjoint	Anglet (Pyrénées-Atlantiques)	10000 à 50000
+Michèle De Vaucouleurs	Adjoint	Poissy (Yvelines)	10000 à 50000
+Marguerite Drepez Audebert	Adjoint	Béthune (Pas-de-Calais)	10000 à 50000
+François Pupponi	Maire	Sarcelles (Val-d'Oise)	50000 à 100000
+Joaquim Pueyo	Maire	Alençon (Orne)	10000 à 50000
+Michel Herbillon	Maire	Maisons-Alfort (Val-de-Marne)	50000 à 100000
+Charles De Courson	Maire	Vanault-les-Dames (Marne)	2000 et -
+Julien Dive	Maire	Itancourt (Aisne)	2000 et -
+Jean-Pierre Vigier	Maire	Lavoûte-Chilhac Haute-Loire)	2000 et -
+Jean-Félix Acquaviva	Maire	Lozzi (Haute-Corse)	2000 et -
+Pierre Morel A L'Huissier	Maire	Fournels (Lozère)	2000 et -
+Jean-Yves Bony	Maire	Ally (Cantal)	2000 et -
+Guy Bricout	Maire	Caudry (Nord)	2000 et -
+Philippe Gosselin	Maire	Remilly-sur-Lozon (Manche)	2000 et -
+Jean Lassalle	Maire	Lourdios-Ichère (Pyrénées-Atlantiques)	2000 et -
+Laure De la Raudière	Maire	Saint-Denis-des-Puits (Eure-et-Loir)	2000 et -
+Pierre Cordier	Maire	Neufmanil (Ardennes)	2000 et -
+Arnaud Viala	Maire	Vézins-de-Lévézou (Aveyron)	2000 et -
+Maxime Minot	Maire	Etouy (Oise)	2000 et -
+Josiane Corneloup	Maire	Saint-Bonnet-de-Joux (Saône-et-Loire)	2000 et -
+Jacques Cattin	Maire	Voegtlinshoffen (Haut-Rhin)	2000 et -
+Raphaël Schellenberger	Maire	Wattwiller (Haut-Rhin)	2000 et -
+Marie-Noëlle Battistel	Maire	La Salle-en-Beaumont (Isère)	2000 et -
+Jean-Louis Masson	Maire	La Garde	2000 et -
+Joël Aviragnet	Maire	Encausse-les-Thermes (Haute-Garonne)	2000 et -
+Aurélien Pradié	Maire	Labastide-Murat (Midi-Pyrénées)	2000 et -
+Paul Christophe	Maire	Zuydcoote (Nord)	2000 et -
+Bruno Duvergé	Maire	Hamelincourt (Pas-de-Calais)	2000 et -
+Alain Perea	Maire	Villedaigne (Aude)	2000 et -
+Anne Blanc	Maire	Naucelle (Aveyron)	2000 et -
+Yolaine De Courson	Maire	Arrans (Côte-d'Or)	2000 et -
+Corinne Vignon	Maire	Flourens (Haute-Garonne)	2000 et -
+Philippe Huppé	Maire	Adissan (Hérault)	2000 et -
+Monique Limon	Maire	Bressieux (Isère)	2000 et -
+Yves Daniel	Maire	Mouais (Loire-Atlantique)	2000 et -
+Alexandre Freschi	Maire	Castelnau-sur-Gupie (Lot-et-Garonne)	2000 et -
+Xavier Paluszkiewicz	Maire	Villers-la-Montagne (Meurthe-et-Moselle)	2000 et -
+Jean-Michel Jacques	Maire	Brandérion (Morbihan)	2000 et -
+Jean-Claude Leclablart	Maire	La Faloise (Somme)	2000 et -
+Sylvain Waserman	Maire	Quatzenheim (Bas-Rhin)	2000 et -
+Jean-Pierre Cubertafon	Maire	Lanouaille (Dordogne)	2000 et -
+Christophe Lejeune	Maire	Baudoncourt (Haute-Saône)	2000 et -
+Marc Fesneau	Maire	Marchenoir (Loire-Atlantique)	2000 et -
+Géraldine Bannier	Maire	Courbeveille (Mayenne)	2000 et -
+Loïc Dombreval	Maire	Vence (Alpes-Maritimes)	2000 et -
+Philippe Vigier	Maire	Cloyes-les-Trois-Rivières (Eure-et-Loir)	2000 à 10000
+Hélène Vainqueur-Christophe	Maire	Trois-Rivières (Guadeloupe)	2000 à 10000
+Jean-Jacques Gaultier	Maire	Vittel (Vosges)	2000 à 10000
+Laurent Furst	Maire	Molsheim (Bas-Rhin)	2000 à 10000
+Annie Genevard	Maire	Morteau (Doubs)	2000 à 10000
+Véronique Louwagie	Maire	L'Aigle (Orne)	2000 à 10000
+Jérôme Nury	Maire	Tinchebray (Orne)	2000 à 10000
+Jean-Charles Taugourdeau	Maire	Beaufort-en-Vallée (Maine-et-Loire)	2000 à 10000
+Alain Bruneel	Maire	Lewarde (Nord)	2000 à 10000
+Daniel Fasquelle	Maire	Touquet-Paris-Plage (Pas-de-Calais)	2000 à 10000
+Emmanuel Maquet	Maire	Mers-les-Bains (Somme)	2000 à 10000
+Jean-Louis Bricout	Maire	Bohain-en-Vermandois (Aisne)	2000 à 10000
+Guillaume Peltier	Maire	Neung-sur-Beuvron (Loir-et-Cher)	2000 à 10000
+Nicolas Forissier	Maire	La Châtre (Indre)	2000 à 10000
+Sébastien Leclerc	Maire	Livarot-Pays-d'Auge (Calvados)	2000 à 10000
+Olivier Marleix	Maire	Anet (Eure-et-Loire)	2000 à 10000
+Michel Zumkeller	Maire	Valdoie (Territoire de Belfort)	2000 à 10000
+Jean-Luc Reitzer	Maire	Altkirch (Haut-Rhin)	2000 à 10000
+Rémi Delatte	Maire	Saint-Apollinaire (Côte-d'Or)	2000 à 10000
+Jean-Carles Grelier	Maire	La Ferté-Bernard (Sarthe)	2000 à 10000
+Jean-Paul Lecoq	Maire	Gonfreville-l'Orcher (Seine-Maritime)	2000 à 10000
+Eric Diard	Maire	Sausset-les-Pins (Bouches-du-Rhône)	2000 à 10000
+Frédérique Meunier	Maire	Malemort (Corrèze)	2000 à 10000
+Jean-Pierre Pont	Maire	Neufchâtel-Herdelot (Pas-de-Calais)	2000 à 10000
+Christophe Castaner	Maire	Forcalquier (Alpes-de-Haute-Provence)	2000 à 10000
+Alain Tourret	Maire	Moult (Calvados)	2000 à 10000
+Christophe Jerretie	Maire	Naves (Corrèze)	2000 à 10000
+Denis Sommer	Maire	Grand-Charmont (Doubs)	2000 à 10000
+Bruno Questel	Maire	Grand Bourgtheroulde (Eure)	2000 à 10000
+Didier Le Gac	Maire	Lampaul-Plouarzel (Finistère)	2000 à 10000
+Benoit Simian	Maire	Ludon-Médoc (Gironde)	2000 à 10000
+Xavier Roseren	Maire	Les Houches (Haute-Savoie)	2000 à 10000
+Jean-Bernard Sempastous	Maire	Bagnères-de-Bigorre (Hautes-Pyrénées)	2000 à 10000
+Daniel Labaronne	Maire	Bléré (Indre-et-Loire)	2000 à 10000
+Lionel Causse	Maire	Saint-Martin-de-Seignanx (Landes)	2000 à 10000
+Michel Lauzzana	Maire	Bon-Encontre (Lot-et-Garonne)	2000 à 10000
+Stella Dupont	Maire	Chalonnes-sur-Loire (Maine-et-Loire)	2000 à 10000
+Bertrand Sorre	Maire	Saint-Pair-sur-Mer (Normandie)	2000 à 10000
+Thomas Gassilloud	Maire	Saint-Symphorien-sur-Coise (Rhône)	2000 à 10000
+Yves Blein	Maire	Feyzin (métropole de Lyon)	2000 à 10000
+Patrick Mignola	Maire	La Ravoire (Savoie)	2000 à 10000
+Fabien Matras	Maire	Flayosc (Var)	2000 à 10000
+Jean-Paul Mattei	Maire	Ger (Pyrénées-Atlantiques)	2000 à 10000
+Vincent Bru	Maire	Cambo-les-Bains (Pyrénées-Atlantiques)	2000 à 10000
+Joël Giraud	Maire	L'Argentière-la Bessée (Hautes-Alpes)	2000 à 10000
+François Jolivet	Maire	Saint-Maur (Indre)	2000 à 10000
+Thibault Bazin	Maire	Rosières-aux-Salines (Moselle)	2000 à 10000
+Claude Goasguen	Maire	Paris (16e arrondissement)	100000 et +
+Valérie Boyer	Maire	6e secteur de Marseille (Bouches-du-Rhône)	100000 et +
+Hubert Julien Lafferiere	Maire	9e arrondissement de Lyon (métropole de Lyon)	100000 et +
+Thomas Rudigoz	Maire	5e arrondissement de Lyon (métropole de Lyon)	100000 et +
+Stéphane Demilly	Maire	Albert (Somme)	10000 à 50000
+Yves Jégo	Maire	Montereau-Fault-Yonne (Seine-et-Marne)	10000 à 50000
+Franck Riester	Maire	Coulommiers (Seine-et-Marne)	10000 à 50000
+François Cornut-Gentille	Maire	Saint-Dizier (Haute-Marne)	10000 à 50000
+Bruno Nestor Azerot	Maire	Sainte-Marie (Martinique)	10000 à 50000
+Didier Quentin	Maire	Royan (Charente-Maritime)	10000 à 50000
+Christian Jacob	Maire	Provins (Seine-et-Marne)	10000 à 50000
+Jean-Marie Sermier	Maire	Dole (Jura)	10000 à 50000
+Gabriel Serville	Maire	Matoury (Guyane)	10000 à 50000
+Olivier Dussopt	Maire	Annonay (Ardèche)	10000 à 50000
+Bertrand Pancher	Maire	Bar-le-Duc (Meuse)	10000 à 50000
+Jacques Bompard	Maire	Orange (Vaucluse)	10000 à 50000
+Jean-Pierre Door	Maire	Montargis (Loiret)	10000 à 50000
+Francis Vercamer	Maire	Hem (Nord)	10000 à 50000
+Sébastien Jumel	Maire	Dieppe (Seine-Maritime)	10000 à 50000
+Pierre-Henri Dumont	Maire	Marck (Pas-de-Calais)	10000 à 50000
+Vincent Ledoux	Maire	Roncq (Nord)	10000 à 50000
+Eric Woerth	Maire	Chantilly (Oise)	10000 à 50000
+Valérie Lacroute	Maire	Nemours (Seine-et-Marne)	10000 à 50000
+Christian Hutin	Maire	Saint-Pol-sur-Mer (Nord)	10000 à 50000
+Nicolas Dupont-Aignan	Maire	Yerres (Essonne)	10000 à 50000
+Bernard Perrut	Maire	Villefranche-Sur-Saône (Rhône)	10000 à 50000
+Olivier Becht	Maire	Rixheim (Haut-Rhin)	10000 à 50000
+Bernard Reynès	Maire	Châteaurenard (Bouches-du-Rhône)	10000 à 50000
+Hubert Wulfranc	Maire	Saint-Etienne-du-Rouvray (Normandie)	10000 à 50000
+Michèle Tabarot	Maire	Le Cannet (Alpes-Maritimes)	10000 à 50000
+Franck Marlin	Maire	Etampes (Essonne)	10000 à 50000
+Jean-Claude Bouchet	Maire	Cavaillon (Vaucluse)	10000 à 50000
+Alain David	Maire	Cenon (Gironde)	10000 à 50000
+Luc Carvounas	Maire	Alforville (Val-de-Marne)	10000 à 50000
+Robin Reda	Maire	Juvisy-sur-Orge (Essonne)	10000 à 50000
+Bruno Joncour	Maire	Saint-Brieuc (Côtes-d'Armor)	10000 à 50000
+Catherine Kamowski	Maire	Saint Egrève (Isère)	10000 à 50000
+Geneviève Darrieussecq	Maire	Mont-de-Marsan (Landes)	10000 à 50000
+Rémy Rebeyrotte	Maire	Autun (Saône-et-Loire)	10000 à 50000
+Jean-Jacques Bridey	Maire	Fresnes (Val-de-Marne)	10000 à 50000
+Michel	Maire	Mantes-la-Jolie (Ile-de-France)	10000 à 50000
+Jacques Krabal	Maire	Château-Thierry (Aisne)	10000 à 50000
+Yannick Haury	Maire	Saint-Brevin-Les-Pins (Loire-Atlantique)	10000 à 50000
+Laurent Garcia	Maire	Laxou (Meurthe-et-Moselle)	10000 à 50000
+Thierry Robert	Maire	Saint-Leu (La Réunion)	10000 à 50000
+
+En savoir plus sur http://www.lemonde.fr/les-decodeurs/article/2017/06/25/non-cumul-au-moins-223-deputes-de-la-nouvelle-assemblee-vont-devoir-abandonner-un-mandat_5150843_4355770.html#02cok6RK861A2TST.99
