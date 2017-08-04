@@ -66,15 +66,26 @@ output:
 ### Méthodologie d'analyse sur R
 
 1. **Importer les données**
-```{r echo=TRUE}
+```{r 
 library(readr)
+read_csv()
 ```
 
 2. **Consolider le Registre National des Elus**
 - Consolider les données de 2008 à 2017
-- Consolider les différents fichiers (EPCI, maires, sénateurs...) dans un seul fichier
+- Consolider les différents fichiers textes (EPCI, maires, sénateurs...) dans un seul fichier
 
-2. **
+3. **Nettoyage des données**
+```{r 
+library(tidyverse)
+```
+
+4. **Traitement des données**
+- Cumul des mandats dans le temps
+    * Connaitre le nombre de parlementaires cumulant des mandats depuis 2008 (3 mandatures pour les députés)
+    * Si possible, cf données disponibles notamment via site AN, essayer de remonter avant 2008 pour les députés/sénateurs
+      
+
 
 
 
