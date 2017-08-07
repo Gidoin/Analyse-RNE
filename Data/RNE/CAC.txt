@@ -1,0 +1,62 @@
+Titre du rapport
+Code région	Libellé de la région	Nom de l'élu	Prénom de l'élu	Date de naissance	Civilité	Code profession	Libellé de la profession	Date de début du mandat	Libellé de fonction	Date de début de la fonction	N° Identification d'un élu	Nuance mandat
+94	Corse	ARMANET	Guy	27/10/1964	M	09	Commercants	13/12/2015			925266	DVG
+94	Corse	BARTOLI	Paul-Marie	16/2/1956	M	57	Sans profession déclarée	13/12/2015			1509964	DVG
+94	Corse	BIANCUCCI	Jean	8/5/1948	M	10	Artisans	13/12/2015			1254301	REG
+94	Corse	CANIONI	Christophe	27/9/1961	M	05	Industriels-Chefs entreprise	13/12/2015			1509966	FN
+94	Corse	CASALTA	Mattea	15/5/1958	Mme	09	Commercants	13/12/2015			1254825	REG
+94	Corse	CASANOVA-SERVAS	Marie Hélène	4/1/1969	Mme	29	Avocats	13/12/2015			1509967	REG
+94	Corse	CHINESI	Karine	13/7/1973	Mme	20	Employés (secteur privé)	13/12/2015			924260	LR
+94	Corse	COMBETTE	Christelle	16/3/1972	Mme	56	Autres professions	13/12/2015			1509968	DVD
+94	Corse	CORDOLIANI	René	2/4/1934	M	24	Médecins	13/12/2015			1509969	FN
+94	Corse	DE ROCCA SERRA	Camille	21/5/1954	M	57	Sans profession déclarée	13/12/2015			707	LR
+94	Corse	FAGNI	Muriel	12/9/1958	Mme	51	Cadres (entreprises publiques)	13/12/2015			1509970	REG
+94	Corse	FILIPPI	Marie-Xavière	8/5/1960	Mme	63	Retraités fonct.publique (sf enseig.)	13/12/2015			1509971	FN
+94	Corse	GIACOBBI	Paul	4/6/1957	M	46	Grands corps de l'état	13/12/2015			709	DVG
+94	Corse	GRIMALDI	Stéphanie	27/5/1968	Mme	56	Autres professions	13/12/2015			1181144	LR
+94	Corse	GUIDICELLI NEE MARI	Maria	17/1/1961	Mme	22	Assistantes sociales	13/12/2015			791905	DVG
+94	Corse	GUISEPPI	Julie	23/9/1966	Mme	56	Autres professions	13/12/2015			1254339	REG
+94	Corse	LACOMBE	Xavier	8/6/1965	M	51	Cadres (entreprises publiques)	13/12/2015			1509974	LR
+94	Corse	LEONETTI	Paul	30/7/1952	M	05	Industriels-Chefs entreprise	13/12/2015			1504387	REG
+94	Corse	MARIOTTI	Marie-Thérèse	17/9/1963	Mme	05	Industriels-Chefs entreprise	13/12/2015			1256293	LR
+94	Corse	NADIZI	Françoise	13/6/1955	Mme	23	Salariés du secteur médical	13/12/2015			1509979	FN
+94	Corse	OLIVESI	Marie-Thérèse	30/1/1959	Mme	57	Sans profession déclarée	13/12/2015			867539	DVG
+94	Corse	ORSONI	Delphine	4/6/1980	Mme	06	Administrateurs de sociétés	13/12/2015			1505060	DVG
+94	Corse	OTTAVI	Antoine	12/9/1949	M	61	Retraités salariés privés	13/12/2015			145596	DVG
+94	Corse	RISTERUCCI	Josette	12/5/1958	Mme	23	Salariés du secteur médical	13/12/2015			834332	COM
+94	Corse	ROSSI	José	18/6/1944	M	05	Industriels-Chefs entreprise	13/12/2015			1509982	LR
+94	Corse	SANTINI	Ange	10/6/1959	M	06	Administrateurs de sociétés	13/12/2015			145463	LR
+94	Corse	SANTUCCI	Anne-Laure	31/7/1965	Mme	43	Enseignants 1er deg.-directeurs école	13/12/2015			1509984	REG
+94	Corse	STEFANI	Michel	24/3/1960	M	21	Ouvriers (secteur privé)	13/1/2016			91141	COM
+94	Corse	TATTI	François	26/10/1960	M	47	Fonctionnaires de catégorie A	13/12/2015			698321	DVG
+94	Corse	TOMA	Jean	1/2/1954	M	60	Retraités des professions libérales	13/12/2015			1254684	UDI
+94	Corse	TOMASI	Petr'Antone	22/12/1987	M	44	Professions rattachées à enseignt.	13/12/2015			1509985	REG
+94	CORSE	ACQUAVIVA	Jean-Félix	19/3/1973	M	57	Sans profession déclarée	13/12/2015	Conseiller exécutif de Corse	17/12/2015	924279	REG
+94	CORSE	ANGELINI	Jean-Christophe	27/11/1975	M	05	Industriels-Chefs entreprise	13/12/2015	Conseiller exécutif de Corse	17/12/2015	69727	REG
+94	CORSE	BARTOLI	Marie-France	22/9/1971	Mme	47	Fonctionnaires de catégorie A	13/12/2015	Autre membre commission permanente	17/12/2015	924154	DVG
+94	CORSE	BENEDETTI	François	17/10/1947	M	24	Médecins	17/12/2015			924290	REG
+94	CORSE	BERNARDI	François	29/7/1958	M	39	Autres professions libérales	17/12/2015			923327	REG
+94	CORSE	BORROMEI	Vanina	10/8/1978	Mme	05	Industriels-Chefs entreprise	13/12/2015	Second vice-président de Assemblée de Corse	17/12/2015	1509965	REG
+94	CORSE	BUCCHINI	Dominique	24/1/1943	M	62	Retraités de l'enseignement	13/12/2015	Autre membre commission permanente	17/12/2015	834626	COM
+94	CORSE	CESARI	Marcel	9/11/1951	M	01	Agriculteurs propriétaires exploit.	17/12/2015			38139	REG
+94	CORSE	CHAUBON	Pierre	17/7/1953	M	46	Grands corps de l'état	13/12/2015	Autre membre commission permanente	17/12/2015	38485	DVG
+94	CORSE	COLOMBANI	Paul-André	17/8/1967	M	24	Médecins	17/12/2015			1509998	REG
+94	CORSE	GIACOMETTI	Josepha	5/8/1983	Mme	57	Sans profession déclarée	13/12/2015	Conseiller exécutif de Corse	17/12/2015	1181143	REG
+94	CORSE	GIOVANNINI	Fabienne	2/8/1962	Mme	37	Journalistes et autres médias	13/12/2015	Conseiller exécutif de Corse	17/12/2015	924205	REG
+94	CORSE	GUIDICELLI	Lauda	27/10/1985	Mme	39	Autres professions libérales	17/12/2015			1509994	REG
+94	CORSE	LUCIANI	Xavier	24/3/1958	M	42	Professeurs du secondaire et techn.	13/12/2015	Conseiller exécutif de Corse	17/12/2015	753822	REG
+94	CORSE	MAUPERTUIS	Marie-Antoinette	10/4/1967	Mme	41	Professeurs de faculté	13/12/2015	Conseiller exécutif de Corse	17/12/2015	1509976	REG
+94	CORSE	MONDOLONI	Jean-Martin	24/10/1968	M	44	Professions rattachées à enseignt.	13/12/2015	Autre membre commission permanente	17/12/2015	1509977	DVD
+94	CORSE	NIVAGGIONI	Nadine	13/2/1962	Mme	50	Cadres sup. (entreprises publiques)	13/12/2015	Autre membre commission permanente	17/12/2015	1509980	REG
+94	CORSE	PARIGI	Paul	7/4/1966	M	42	Professeurs du secondaire et techn.	13/12/2015	Autre membre commission permanente	17/12/2015	145306	REG
+94	CORSE	POLI	Laura Maria	2/9/1986	Mme	29	Avocats	13/12/2015	Autre membre commission permanente	17/12/2015	1509981	REG
+94	CORSE	PONZEVERA	Juliette	17/3/1982	Mme	15	Contremaitres	17/12/2015			1509997	REG
+94	CORSE	PROSPERI	Rosa	19/8/1960	Mme	29	Avocats	17/12/2015			1509993	REG
+94	CORSE	PUCCI	Joseph	1/1/1964	M	09	Commercants	17/12/2015			1254861	REG
+94	CORSE	SANTONI-BRUNELLI	Marie-Antoinette	24/11/1971	Mme	19	Autres cadres (secteur privé)	13/12/2015	Autre membre commission permanente	17/12/2015	1509983	DVD
+94	CORSE	SARGENTINI	François	16/8/1953	M	57	Sans profession déclarée	13/12/2015	Conseiller exécutif de Corse	17/12/2015	1256335	REG
+94	CORSE	SIMEONI	Gilles	20/4/1967	M	29	Avocats	13/12/2015	Président Conseil exécutif de Corse	17/12/2015	924204	REG
+94	CORSE	SIMEONI	Marie	27/8/1970	Mme	10	Artisans	17/12/2015			1509999	REG
+94	CORSE	SIMONPIETRI	Agnès	6/1/1954	Mme	20	Employés (secteur privé)	13/12/2015	Conseiller exécutif de Corse	17/12/2015	1181149	REG
+94	CORSE	TALAMONI	Jean-Guy	6/5/1960	M	29	Avocats	13/12/2015	Président de Assemblée de Corse	17/12/2015	91170	REG
+94	CORSE	VANNI	Hyacinthe	27/10/1968	M	48	Fonctionnaires de catégorie B	13/12/2015	Premier vice-président de Assemblée de Corse	17/12/2015	1181151	REG

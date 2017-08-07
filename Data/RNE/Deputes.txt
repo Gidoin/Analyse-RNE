@@ -1,0 +1,579 @@
+Titre du rapport
+Code du département	Libellé du département	Code de la cir.législative	Libellé de la cir.législative	Nom de l'élu	Prénom de l'élu	Date de naissance	Civilité	Code profession	Libellé de la profession	N° Identification d'un élu	Nuance politique (Député)	Date de début du mandat
+01	AIN	01	1ère circonscription	BRETON	Xavier	25/11/1962	M	56	Autres professions	693866	LR	18/6/2017
+01	AIN	02	2ème circonscription	DE LA VERPILLIERE	Charles	31/5/1954	M	46	Grands corps de l'état	106732	LR	18/6/2017
+01	AIN	03	3ème circonscription	GIVERNET	Olga	17/10/1981	Mme	13	Ingénieurs	1206091	REM	18/6/2017
+01	AIN	04	4ème circonscription	TROMPILLE	Stéphane	1/12/1982	M	20	Employés (secteur privé)	1519716	REM	18/6/2017
+01	AIN	05	5ème circonscription	ABAD	Damien	5/4/1980	M	57	Sans profession déclarée	957577	LR	18/6/2017
+02	AISNE	01	1ère circonscription	BONO-VANDORME	Aude	3/8/1962	Mme	44	Professions rattachées à enseignt.	876784	REM	18/6/2017
+02	AISNE	02	2ème circonscription	DIVE	Julien	21/5/1985	M	19	Autres cadres (secteur privé)	878996	LR	18/6/2017
+02	AISNE	03	3ème circonscription	BRICOUT	Jean-Louis	27/12/1957	M	51	Cadres (entreprises publiques)	664337	SOC	18/6/2017
+02	AISNE	04	4ème circonscription	DELATTE	Marc	24/5/1961	M	24	Médecins	1208575	REM	18/6/2017
+02	AISNE	05	5ème circonscription	KRABAL	Jacques	10/4/1948	M	62	Retraités de l'enseignement	3204	REM	18/6/2017
+03	ALLIER	01	1ère circonscription	DUFREGNE	Jean-Paul	28/3/1958	M	14	Agents technique et techniciens	7907	COM	18/6/2017
+03	ALLIER	02	2ème circonscription	VANCEUNEBROCK-MIALON	Laurence	6/5/1970	Mme	48	Fonctionnaires de catégorie B	1519717	REM	18/6/2017
+03	ALLIER	03	3ème circonscription	PEYROL	Bénédicte	23/3/1991	Mme	32	Conseillers juridiques	1519718	REM	18/6/2017
+04	ALPES DE HAUTE PROVENCE	01	1ère circonscription	BAGARRY	Delphine	9/1/1970	Mme	24	Médecins	884552	REM	18/6/2017
+04	ALPES DE HAUTE PROVENCE	02	2ème circonscription	CASTANER	Christophe	3/1/1966	M	56	Autres professions	20551	REM	18/6/2017
+05	HAUTES ALPES	01	1ère circonscription	BOYER	Pascale	28/9/1965	Mme	56	Autres professions	1517808	REM	18/6/2017
+05	HAUTES ALPES	02	2ème circonscription	GIRAUD	Joël	14/10/1959	M	46	Grands corps de l'état	781	REM	18/6/2017
+06	ALPES MARITIMES	01	1ère circonscription	CIOTTI	Eric	28/9/1965	M	56	Autres professions	867306	LR	18/6/2017
+06	ALPES MARITIMES	02	2ème circonscription	DOMBREVAL	Loïc	16/4/1966	M	05	Industriels-Chefs entreprise	887177	REM	18/6/2017
+06	ALPES MARITIMES	03	3ème circonscription	ROUSSEL	Cédric	10/10/1972	M	39	Autres professions libérales	1519719	REM	18/6/2017
+06	ALPES MARITIMES	04	4ème circonscription	VALETTA ARDISSON	Alexandra	7/6/1976	Mme	49	Fonctionnaires de catégorie C	1218216	REM	18/6/2017
+06	ALPES MARITIMES	05	5ème circonscription	BRENIER	Marine	11/8/1986	Mme	32	Conseillers juridiques	1175737	LR	18/6/2017
+06	ALPES MARITIMES	06	6ème circonscription	TRASTOUR-ISNART	Laurence	6/3/1972	Mme	48	Fonctionnaires de catégorie B	1217779	LR	18/6/2017
+06	ALPES MARITIMES	07	7ème circonscription	PAUGET	Eric	18/8/1970	M	19	Autres cadres (secteur privé)	51787	LR	18/6/2017
+06	ALPES MARITIMES	08	8ème circonscription	BROCHAND	Bernard	5/6/1938	M	59	Retr.artis.commerc.chefs d'entrep.	765	LR	18/6/2017
+06	ALPES MARITIMES	09	9ème circonscription	TABAROT	Michèle	13/10/1962	Mme	06	Administrateurs de sociétés	766	LR	18/6/2017
+07	ARDECHE	01	1ère circonscription	SAULIGNAC	Hervé	6/11/1970	M	51	Cadres (entreprises publiques)	23341	SOC	18/6/2017
+07	ARDECHE	02	2ème circonscription	DUSSOPT	Olivier	16/8/1978	M	56	Autres professions	858593	SOC	18/6/2017
+07	ARDECHE	03	3ème circonscription	BRUN	Fabrice	2/4/1968	M	05	Industriels-Chefs entreprise	1503263	LR	18/6/2017
+08	ARDENNES	01	1ère circonscription	POLETTI	Bérengère	14/10/1959	Mme	47	Fonctionnaires de catégorie A	770	LR	18/6/2017
+08	ARDENNES	02	2ème circonscription	CORDIER	Pierre	27/5/1972	M	47	Fonctionnaires de catégorie A	149299	LR	18/6/2017
+08	ARDENNES	03	3ème circonscription	WARSMANN	Jean-Luc	22/10/1965	M	54	Permanents politiques	772	LR	18/6/2017
+09	ARIEGE	01	1ère circonscription	TAURINE	Bénédicte	18/6/1976	Mme	42	Professeurs du secondaire et techn.	1519721	FI	18/6/2017
+09	ARIEGE	02	2ème circonscription	LARIVE	Michel	22/8/1966	M	44	Professions rattachées à enseignt.	894810	FI	18/6/2017
+10	AUBE	01	1ère circonscription	BESSON-MOREAU	Grégory	7/7/1982	M	35	Ingénieurs conseils	1519722	REM	18/6/2017
+10	AUBE	02	2ème circonscription	BAZIN-MALGRAS	Valérie	31/10/1969	Mme	09	Commercants	1228964	LR	18/6/2017
+10	AUBE	03	3ème circonscription	MENUEL	Gérard	7/5/1952	M	58	Retraités agricoles	23862	LR	18/6/2017
+11	AUDE	01	1ère circonscription	HERIN	Danièle	14/1/1947	Mme	62	Retraités de l'enseignement	1229756	REM	18/6/2017
+11	AUDE	02	2ème circonscription	PEREA	Alain	5/6/1971	M	47	Fonctionnaires de catégorie A	900931	REM	18/6/2017
+11	AUDE	03	3ème circonscription	ROBERT	Mireille	1/3/1962	Mme	43	Enseignants 1er deg.-directeurs école	1231246	REM	18/6/2017
+12	AVEYRON	01	1ère circonscription	MAZARS	Stéphane	25/3/1969	M	29	Avocats	902109	REM	18/6/2017
+12	AVEYRON	02	2ème circonscription	BLANC	Anne	20/7/1966	Mme	39	Autres professions libérales	147983	REM	18/6/2017
+12	AVEYRON	03	3ème circonscription	VIALA	Arnaud	4/12/1974	M	44	Professions rattachées à enseignt.	646812	LR	18/6/2017
+13	BOUCHES DU RHONE	01	1ère circonscription	BOYER	Valérie	11/6/1962	Mme	18	Cadres supérieurs (secteur privé)	335569	LR	18/6/2017
+13	BOUCHES DU RHONE	02	2ème circonscription	PITOLLAT	Claire	17/9/1979	Mme	13	Ingénieurs	1519723	REM	18/6/2017
+13	BOUCHES DU RHONE	03	3ème circonscription	LOUIS	Alexandra	17/9/1983	Mme	29	Avocats	1519724	REM	18/6/2017
+13	BOUCHES DU RHONE	04	4ème circonscription	MELENCHON	Jean-Luc	19/8/1951	M	57	Sans profession déclarée	837803	FI	18/6/2017
+13	BOUCHES DU RHONE	05	5ème circonscription	RACON-BOUZON	Cathy	22/11/1976	Mme	18	Cadres supérieurs (secteur privé)	1519725	REM	18/6/2017
+13	BOUCHES DU RHONE	06	6ème circonscription	TEISSIER	Guy	4/4/1945	M	56	Autres professions	739	LR	18/6/2017
+13	BOUCHES DU RHONE	07	7ème circonscription	AHAMADA	Saïd	7/11/1972	M	47	Fonctionnaires de catégorie A	1499457	REM	18/6/2017
+13	BOUCHES DU RHONE	08	8ème circonscription	ZULESI	Jean-Marc	6/6/1988	M	19	Autres cadres (secteur privé)	1519726	REM	18/6/2017
+13	BOUCHES DU RHONE	09	9ème circonscription	DEFLESSELLES	Bernard	16/10/1953	M	13	Ingénieurs	742	LR	18/6/2017
+13	BOUCHES DU RHONE	10	10ème circonscription	LAMBERT	François-Michel	24/8/1966	M	13	Ingénieurs	904512	REM	18/6/2017
+13	BOUCHES DU RHONE	11	11ème circonscription	LAQHILA	Mohamed	3/8/1959	M	34	Experts comptables	335594	MDM	18/6/2017
+13	BOUCHES DU RHONE	12	12ème circonscription	DIARD	Eric	21/7/1965	M	29	Avocats	745	LR	18/6/2017
+13	BOUCHES DU RHONE	13	13ème circonscription	DHARREVILLE	Pierre	15/6/1975	M	20	Employés (secteur privé)	905034	COM	18/6/2017
+13	BOUCHES DU RHONE	14	14ème circonscription	PETEL	Anne-Laurence	8/2/1970	Mme	19	Autres cadres (secteur privé)	1519727	REM	18/6/2017
+13	BOUCHES DU RHONE	15	15ème circonscription	REYNES	Bernard	18/10/1953	M	54	Permanents politiques	147820	LR	18/6/2017
+13	BOUCHES DU RHONE	16	16ème circonscription	MICHEL	Monica	16/4/1955	Mme	16	Représentants de commerce	1519728	REM	18/6/2017
+14	CALVADOS	01	1ère circonscription	LE VIGOUREUX	Fabrice	27/8/1969	M	41	Professeurs de faculté	906310	REM	18/6/2017
+14	CALVADOS	02	2ème circonscription	DUMONT	Laurence	2/6/1958	Mme	54	Permanents politiques	738537	SOC	18/6/2017
+14	CALVADOS	03	3ème circonscription	LECLERC	Sébastien	28/3/1970	M	39	Autres professions libérales	735148	LR	18/6/2017
+14	CALVADOS	04	4ème circonscription	BLANCHET	Christophe	9/4/1973	M	09	Commercants	1238945	REM	18/6/2017
+14	CALVADOS	05	5ème circonscription	BOUYX	Bertrand	26/5/1970	M	28	Pharmaciens	1519729	REM	18/6/2017
+14	CALVADOS	06	6ème circonscription	TOURRET	Alain	25/12/1947	M	29	Avocats	147357	REM	18/6/2017
+15	CANTAL	01	1ère circonscription	DESCOEUR	Vincent	13/12/1962	M	42	Professeurs du secondaire et techn.	44294	LR	18/6/2017
+15	CANTAL	02	2ème circonscription	BONY	Jean-Yves	11/3/1955	M	01	Agriculteurs propriétaires exploit.	44999	LR	18/6/2017
+16	CHARENTE	01	1ère circonscription	MESNIER	Thomas	4/3/1986	M	24	Médecins	1519730	REM	18/6/2017
+16	CHARENTE	02	2ème circonscription	MARSAUD	Sandra	2/1/1974	Mme	51	Cadres (entreprises publiques)	1245170	REM	18/6/2017
+16	CHARENTE	03	3ème circonscription	LAMBERT	Jérôme	7/6/1957	M	18	Cadres supérieurs (secteur privé)	726	SOC	18/6/2017
+17	CHARENTE MARITIME	01	1ère circonscription	FALORNI	Olivier	27/3/1972	M	42	Professeurs du secondaire et techn.	70074	DVG	18/6/2017
+17	CHARENTE MARITIME	02	2ème circonscription	TUFFNELL	Frédérique	29/6/1956	Mme	51	Cadres (entreprises publiques)	1248185	REM	18/6/2017
+17	CHARENTE MARITIME	03	3ème circonscription	ARDOUIN	Jean-Philippe	5/3/1964	M	01	Agriculteurs propriétaires exploit.	916135	REM	18/6/2017
+17	CHARENTE MARITIME	04	4ème circonscription	GÉRARD	Raphaël	11/1/1968	M	18	Cadres supérieurs (secteur privé)	1519731	REM	18/6/2017
+17	CHARENTE MARITIME	05	5ème circonscription	QUENTIN	Didier	23/12/1946	M	63	Retraités fonct.publique (sf enseig.)	720	LR	18/6/2017
+18	CHER	01	1ère circonscription	CORMIER-BOULIGEON	François	19/11/1972	M	56	Autres professions	1519732	REM	18/6/2017
+18	CHER	02	2ème circonscription	ESSAYAN	Nadia	6/6/1957	Mme	19	Autres cadres (secteur privé)	85627	MDM	18/6/2017
+18	CHER	03	3ème circonscription	KERVRAN	Loïc	11/2/1984	M	19	Autres cadres (secteur privé)	1519733	REM	18/6/2017
+19	CORREZE	01	1ère circonscription	JERRETIE	Christophe	31/8/1979	M	39	Autres professions libérales	1252968	REM	18/6/2017
+19	CORREZE	02	2ème circonscription	MEUNIER	Frédérique	8/12/1960	Mme	29	Avocats	921319	LR	18/6/2017
+21	COTE D'OR	01	1ère circonscription	MARTIN	Didier	20/8/1956	M	50	Cadres sup. (entreprises publiques)	432	REM	18/6/2017
+21	COTE D'OR	02	2ème circonscription	DELATTE	Rémi	9/6/1956	M	01	Agriculteurs propriétaires exploit.	426	LR	18/6/2017
+21	COTE D'OR	03	3ème circonscription	KHATTABI	Fadila	23/2/1962	Mme	42	Professeurs du secondaire et techn.	834111	REM	18/6/2017
+21	COTE D'OR	04	4ème circonscription	DE COURSON	Yolaine	14/7/1954	Mme	59	Retr.artis.commerc.chefs d'entrep.	1192944	REM	18/6/2017
+21	COTE D'OR	05	5ème circonscription	PARIS	Didier	14/2/1954	M	18	Cadres supérieurs (secteur privé)	1519734	REM	18/6/2017
+22	COTES D'ARMOR	01	1ère circonscription	JONCOUR	Bruno	25/11/1953	M	48	Fonctionnaires de catégorie B	62387	MDM	18/6/2017
+22	COTES D'ARMOR	02	2ème circonscription	BERVILLE	Hervé	15/1/1990	M	19	Autres cadres (secteur privé)	1519735	REM	18/6/2017
+22	COTES D'ARMOR	03	3ème circonscription	LE FUR	Marc	28/11/1956	M	46	Grands corps de l'état	695	LR	18/6/2017
+22	COTES D'ARMOR	04	4ème circonscription	KERLOGOT	Yannick	12/5/1970	M	43	Enseignants 1er deg.-directeurs école	930306	REM	18/6/2017
+22	COTES D'ARMOR	05	5ème circonscription	BOTHOREL	Eric	20/10/1966	M	18	Cadres supérieurs (secteur privé)	1185699	REM	18/6/2017
+23	CREUSE	01	1ère circonscription	MOREAU	Jean-Baptiste	14/2/1977	M	01	Agriculteurs propriétaires exploit.	1519736	REM	18/6/2017
+24	DORDOGNE	01	1ère circonscription	CHASSAING	Philippe	18/5/1972	M	42	Professeurs du secondaire et techn.	1519737	REM	18/6/2017
+24	DORDOGNE	02	2ème circonscription	DELPON	Michel	13/8/1949	M	61	Retraités salariés privés	804974	REM	18/6/2017
+24	DORDOGNE	03	3ème circonscription	CUBERTAFON	Jean-Pierre	5/2/1948	M	60	Retraités des professions libérales	143779	MDM	18/6/2017
+24	DORDOGNE	04	4ème circonscription	DUBOIS	Jacqueline	28/5/1957	Mme	62	Retraités de l'enseignement	1519738	REM	18/6/2017
+25	DOUBS	01	1ère circonscription	CHARVIER	Fannette	31/12/1984	Mme	52	Employés (autres entrep. publiques)	1519739	REM	18/6/2017
+25	DOUBS	02	2ème circonscription	ALAUZET	Eric	7/6/1958	M	24	Médecins	4659	ECO	18/6/2017
+25	DOUBS	03	3ème circonscription	SOMMER	Denis	23/9/1957	M	42	Professeurs du secondaire et techn.	143197	REM	18/6/2017
+25	DOUBS	04	4ème circonscription	BARBIER	Frédéric	30/8/1960	M	51	Cadres (entreprises publiques)	1162827	REM	18/6/2017
+25	DOUBS	05	5ème circonscription	GENEVARD	Annie	7/9/1956	Mme	42	Professeurs du secondaire et techn.	143092	LR	18/6/2017
+26	DROME	01	1ère circonscription	CLAPOT	Mireille	14/10/1963	Mme	50	Cadres sup. (entreprises publiques)	1519740	REM	18/6/2017
+26	DROME	02	2ème circonscription	THOUROT	Alice	12/10/1985	Mme	29	Avocats	1519741	REM	18/6/2017
+26	DROME	03	3ème circonscription	DE LAVERGNE	Célia	21/11/1979	Mme	13	Ingénieurs	1519742	REM	18/6/2017
+26	DROME	04	4ème circonscription	ANTHOINE	Emmanuelle	2/7/1964	Mme	29	Avocats	944054	LR	18/6/2017
+27	EURE	01	1ère circonscription	LE MAIRE	Bruno	15/4/1969	M	46	Grands corps de l'état	946592	REM	18/6/2017
+27	EURE	02	2ème circonscription	GOUTTEFARDE	Fabien	27/9/1978	M	47	Fonctionnaires de catégorie A	1519743	REM	18/6/2017
+27	EURE	03	3ème circonscription	TAMARELLE-VERHAEGHE	Marie	27/9/1962	Mme	24	Médecins	1505117	MDM	18/6/2017
+27	EURE	04	4ème circonscription	QUESTEL	Bruno	21/12/1966	M	29	Avocats	142421	REM	18/6/2017
+27	EURE	05	5ème circonscription	O'PETIT	Claire	15/10/1949	Mme	59	Retr.artis.commerc.chefs d'entrep.	350943	REM	18/6/2017
+28	EURE ET LOIR	01	1ère circonscription	KASBARIAN	Guillaume	28/2/1987	M	18	Cadres supérieurs (secteur privé)	1519744	REM	18/6/2017
+28	EURE ET LOIR	02	2ème circonscription	MARLEIX	Olivier	6/2/1971	M	47	Fonctionnaires de catégorie A	870046	LR	18/6/2017
+28	EURE ET LOIR	03	3ème circonscription	DE LA RAUDIERE	Laure	12/2/1965	Mme	05	Industriels-Chefs entreprise	344520	LR	18/6/2017
+28	EURE ET LOIR	04	4ème circonscription	VIGIER	Philippe	3/2/1958	M	24	Médecins	90869	UDI	18/6/2017
+29	FINISTERE	01	1ère circonscription	LE MEUR	Annaïg	29/4/1973	Mme	39	Autres professions libérales	1519745	REM	18/6/2017
+29	FINISTERE	02	2ème circonscription	LARSONNEUR	Jean-Charles	24/1/1984	M	47	Fonctionnaires de catégorie A	1519746	REM	18/6/2017
+29	FINISTERE	03	3ème circonscription	LE GAC	Didier	19/7/1965	M	44	Professions rattachées à enseignt.	545928	REM	18/6/2017
+29	FINISTERE	04	4ème circonscription	LE FEUR	Sandrine	18/3/1991	Mme	01	Agriculteurs propriétaires exploit.	1519747	REM	18/6/2017
+29	FINISTERE	05	5ème circonscription	MELCHIOR	Graziella	6/4/1960	Mme	41	Professeurs de faculté	1519748	REM	18/6/2017
+29	FINISTERE	06	6ème circonscription	FERRAND	Richard	1/7/1962	M	18	Cadres supérieurs (secteur privé)	2123	REM	18/6/2017
+29	FINISTERE	07	7ème circonscription	TANGUY	Liliane	12/3/1967	Mme	47	Fonctionnaires de catégorie A	1285873	REM	18/6/2017
+29	FINISTERE	08	8ème circonscription	BALANANT	Erwan	21/2/1971	M	38	Hommes de lettres et Artistes	954118	REM	18/6/2017
+2A	CORSE SUD	01	1ère circonscription	FERRARA	Jean-Jacques	16/6/1967	M	24	Médecins	1197819	LR	18/6/2017
+2A	CORSE SUD	02	2ème circonscription	COLOMBANI	Paul-André	17/8/1967	M	24	Médecins	1509998	REG	18/6/2017
+2B	HAUTE CORSE	01	1ère circonscription	CASTELLANI	Michel	28/9/1945	M	62	Retraités de l'enseignement	924206	REG	18/6/2017
+2B	HAUTE CORSE	02	2ème circonscription	ACQUAVIVA	Jean-Félix	19/3/1973	M	57	Sans profession déclarée	924279	REG	18/6/2017
+30	GARD	01	1ère circonscription	DUMAS	Françoise	12/4/1960	Mme	47	Fonctionnaires de catégorie A	1181086	REM	18/6/2017
+30	GARD	02	2ème circonscription	COLLARD	Gilbert	3/2/1948	M	29	Avocats	439931	FN	18/6/2017
+30	GARD	03	3ème circonscription	CELLIER	Anthony	1/6/1975	M	19	Autres cadres (secteur privé)	1503690	REM	18/6/2017
+30	GARD	04	4ème circonscription	CHAPELIER	Annie	7/11/1967	Mme	43	Enseignants 1er deg.-directeurs école	1519749	REM	18/6/2017
+30	GARD	05	5ème circonscription	GAILLARD	Olivier	28/2/1967	M	47	Fonctionnaires de catégorie A	862607	REM	18/6/2017
+30	GARD	06	6ème circonscription	BERTA	Philippe	11/4/1960	M	41	Professeurs de faculté	1519750	REM	18/6/2017
+31	HAUTE GARONNE	01	1ère circonscription	CABARE	Pierre	12/12/1957	M	10	Artisans	1519751	REM	18/6/2017
+31	HAUTE GARONNE	02	2ème circonscription	LAGLEIZE	Jean-Luc	9/9/1958	M	32	Conseillers juridiques	962251	MDM	18/6/2017
+31	HAUTE GARONNE	03	3ème circonscription	VIGNON	Corinne	10/6/1963	Mme	18	Cadres supérieurs (secteur privé)	1519752	REM	18/6/2017
+31	HAUTE GARONNE	04	4ème circonscription	NOGAL	Mickaël	26/11/1990	M	39	Autres professions libérales	1519753	REM	18/6/2017
+31	HAUTE GARONNE	05	5ème circonscription	PORTARRIEU	Jean-François	14/10/1965	M	47	Fonctionnaires de catégorie A	1519754	REM	18/6/2017
+31	HAUTE GARONNE	06	6ème circonscription	IBORRA	Monique	8/3/1945	Mme	63	Retraités fonct.publique (sf enseig.)	47099	REM	18/6/2017
+31	HAUTE GARONNE	07	7ème circonscription	TOUTUT-PICARD	Elisabeth	17/12/1954	Mme	47	Fonctionnaires de catégorie A	1296474	REM	18/6/2017
+31	HAUTE GARONNE	08	8ème circonscription	AVIRAGNET	Joël	16/6/1956	M	19	Autres cadres (secteur privé)	278051	SOC	18/6/2017
+31	HAUTE GARONNE	09	9ème circonscription	MORCH	Sandrine	13/11/1961	Mme	37	Journalistes et autres médias	572343	REM	18/6/2017
+31	HAUTE GARONNE	10	10ème circonscription	NADOT	Sébastien	8/7/1972	M	42	Professeurs du secondaire et techn.	1519755	REM	18/6/2017
+32	GERS	01	1ère circonscription	CAZENEUVE	Jean-René	9/6/1958	M	13	Ingénieurs	1296900	REM	18/6/2017
+32	GERS	02	2ème circonscription	BIEMOURET	Gisèle	16/6/1952	Mme	54	Permanents politiques	204080	SOC	18/6/2017
+33	GIRONDE	01	1ère circonscription	DAVID	Dominique	27/2/1963	Mme	18	Cadres supérieurs (secteur privé)	1519756	REM	18/6/2017
+33	GIRONDE	02	2ème circonscription	FABRE	Catherine	19/9/1978	Mme	48	Fonctionnaires de catégorie B	1519757	REM	18/6/2017
+33	GIRONDE	03	3ème circonscription	PRUD'HOMME	Loïc	19/8/1969	M	48	Fonctionnaires de catégorie B	1519758	FI	18/6/2017
+33	GIRONDE	04	4ème circonscription	DAVID	Alain	2/6/1949	M	64	Retraités des entreprises publiques	92869	SOC	18/6/2017
+33	GIRONDE	05	5ème circonscription	SIMIAN	Benoit	27/5/1983	M	51	Cadres (entreprises publiques)	970541	REM	18/6/2017
+33	GIRONDE	06	6ème circonscription	POULLIAT	Eric	9/7/1974	M	48	Fonctionnaires de catégorie B	1519759	REM	18/6/2017
+33	GIRONDE	07	7ème circonscription	COUILLARD	Bérangère	24/7/1986	Mme	19	Autres cadres (secteur privé)	1519760	REM	18/6/2017
+33	GIRONDE	08	8ème circonscription	PANONACLE	Sophie	16/12/1968	Mme	57	Sans profession déclarée	1519761	REM	18/6/2017
+33	GIRONDE	09	9ème circonscription	METTE	Sophie	13/9/1959	Mme	57	Sans profession déclarée	663349	MDM	18/6/2017
+33	GIRONDE	10	10ème circonscription	BOUDIE	Florent	22/9/1973	M	56	Autres professions	967790	REM	18/6/2017
+33	GIRONDE	11	11ème circonscription	HAMMERER	Véronique	4/11/1968	Mme	47	Fonctionnaires de catégorie A	1301085	REM	18/6/2017
+33	GIRONDE	12	12ème circonscription	DUBOS	Christelle	26/3/1976	Mme	47	Fonctionnaires de catégorie A	1303361	REM	18/6/2017
+34	HERAULT	01	1ère circonscription	MIRALLES	Patricia	22/8/1967	Mme	49	Fonctionnaires de catégorie C	1306919	REM	18/6/2017
+34	HERAULT	02	2ème circonscription	RESSIGUIER	Muriel	21/12/1977	Mme	52	Employés (autres entrep. publiques)	1509870	FI	18/6/2017
+34	HERAULT	03	3ème circonscription	DUBOST	Coralie	4/3/1983	Mme	32	Conseillers juridiques	1519762	REM	18/6/2017
+34	HERAULT	04	4ème circonscription	ELIAOU	Jean-François	13/8/1956	M	24	Médecins	1519763	REM	18/6/2017
+34	HERAULT	05	5ème circonscription	HUPPE	Philippe	12/2/1968	M	38	Hommes de lettres et Artistes	974597	REM	18/6/2017
+34	HERAULT	06	6ème circonscription	MÉNARD	Emmanuelle	15/8/1968	Mme	37	Journalistes et autres médias	1519764	FN	18/6/2017
+34	HERAULT	07	7ème circonscription	EUZET	Christophe	2/4/1967	M	41	Professeurs de faculté	1519765	REM	18/6/2017
+34	HERAULT	08	8ème circonscription	DÉMOULIN	Nicolas	22/7/1979	M	33	Agents généraux d'assurances	1519766	REM	18/6/2017
+34	HERAULT	09	9ème circonscription	VIGNAL	Patrick	22/1/1958	M	06	Administrateurs de sociétés	87623	REM	18/6/2017
+35	ILLE ET VILAINE	01	1ère circonscription	LAABID	Mostapha	29/3/1969	M	56	Autres professions	1519767	REM	18/6/2017
+35	ILLE ET VILAINE	02	2ème circonscription	MAILLART-MÉHAIGNERIE	Laurence	5/4/1967	Mme	05	Industriels-Chefs entreprise	1519768	MDM	18/6/2017
+35	ILLE ET VILAINE	03	3ème circonscription	ANDRE	François	19/7/1967	M	47	Fonctionnaires de catégorie A	641801	SOC	18/6/2017
+35	ILLE ET VILAINE	04	4ème circonscription	LE BOHEC	Gaël	4/11/1977	M	05	Industriels-Chefs entreprise	1519769	REM	18/6/2017
+35	ILLE ET VILAINE	05	5ème circonscription	CLOAREC	Christine	28/10/1964	Mme	20	Employés (secteur privé)	976757	REM	18/6/2017
+35	ILLE ET VILAINE	06	6ème circonscription	BENOIT	Thierry	13/9/1966	M	16	Représentants de commerce	833798	UDI	18/6/2017
+35	ILLE ET VILAINE	07	7ème circonscription	LURTON	Gilles	6/7/1963	M	56	Autres professions	647586	LR	18/6/2017
+35	ILLE ET VILAINE	08	8ème circonscription	BACHELIER	Florian	5/4/1979	M	29	Avocats	1519770	REM	18/6/2017
+36	INDRE	01	1ère circonscription	JOLIVET	François	21/3/1966	M	18	Cadres supérieurs (secteur privé)	160783	REM	18/6/2017
+36	INDRE	02	2ème circonscription	FORISSIER	Nicolas	17/2/1961	M	05	Industriels-Chefs entreprise	631	LR	18/6/2017
+37	INDRE ET LOIRE 	01	1ère circonscription	CHALUMEAU	Philippe	8/11/1963	M	24	Médecins	1177066	REM	18/6/2017
+37	INDRE ET LOIRE 	02	2ème circonscription	LABARONNE	Daniel	16/7/1955	M	41	Professeurs de faculté	1314876	REM	18/6/2017
+37	INDRE ET LOIRE 	03	3ème circonscription	AUCONIE	Sophie	19/8/1963	Mme	05	Industriels-Chefs entreprise	1317050	UDI	18/6/2017
+37	INDRE ET LOIRE 	04	4ème circonscription	COLBOC	Fabienne	9/8/1971	Mme	05	Industriels-Chefs entreprise	1519771	REM	18/6/2017
+37	INDRE ET LOIRE 	05	5ème circonscription	THILLAYE	Sabine	18/5/1959	Mme	05	Industriels-Chefs entreprise	1519772	REM	18/6/2017
+38	ISERE	01	1ère circonscription	VERAN	Olivier	22/4/1980	M	24	Médecins	1192382	REM	18/6/2017
+38	ISERE	02	2ème circonscription	COLAS-ROY	Jean-Charles	2/5/1978	M	13	Ingénieurs	1515889	REM	18/6/2017
+38	ISERE	03	3ème circonscription	CHALAS	Emilie	18/10/1977	Mme	47	Fonctionnaires de catégorie A	1519773	REM	18/6/2017
+38	ISERE	04	4ème circonscription	BATTISTEL	Marie-Noëlle	20/8/1956	Mme	19	Autres cadres (secteur privé)	160076	SOC	18/6/2017
+38	ISERE	05	5ème circonscription	KAMOWSKI	Catherine	8/4/1958	Mme	42	Professeurs du secondaire et techn.	160160	REM	18/6/2017
+38	ISERE	06	6ème circonscription	MOTIN	Cendra	29/1/1975	Mme	39	Autres professions libérales	1519774	REM	18/6/2017
+38	ISERE	07	7ème circonscription	LIMON	Monique	5/12/1953	Mme	61	Retraités salariés privés	1519775	REM	18/6/2017
+38	ISERE	08	8ème circonscription	ABADIE	Caroline	7/9/1976	Mme	05	Industriels-Chefs entreprise	1519776	REM	18/6/2017
+38	ISERE	09	9ème circonscription	JACQUIER-LAFORGE	Elodie	15/4/1978	Mme	18	Cadres supérieurs (secteur privé)	1519777	MDM	18/6/2017
+38	ISERE	10	10ème circonscription	MEYNIER-MILLEFERT	Marjolaine	30/9/1982	Mme	05	Industriels-Chefs entreprise	1519778	REM	18/6/2017
+39	JURA	01	1ère circonscription	BRULEBOIS	Danielle	4/7/1947	Mme	62	Retraités de l'enseignement	870000	REM	18/6/2017
+39	JURA	02	2ème circonscription	DALLOZ	Marie-Christine	10/1/1958	Mme	56	Autres professions	31128	LR	18/6/2017
+39	JURA	03	3ème circonscription	SERMIER	Jean-Marie	5/3/1961	M	01	Agriculteurs propriétaires exploit.	603	LR	18/6/2017
+40	LANDES	01	1ère circonscription	DARRIEUSSECQ	Geneviève	4/3/1956	Mme	24	Médecins	831521	MDM	18/6/2017
+40	LANDES	02	2ème circonscription	CAUSSE	Lionel	6/5/1971	M	19	Autres cadres (secteur privé)	620344	REM	18/6/2017
+40	LANDES	03	3ème circonscription	VALLAUD	Boris	25/7/1975	M	47	Fonctionnaires de catégorie A	1519779	SOC	18/6/2017
+41	LOIR ET CHER	01	1ère circonscription	FESNEAU	Marc	11/1/1971	M	11	Entrepreneurs en batiments	572623	MDM	18/6/2017
+41	LOIR ET CHER	02	2ème circonscription	PELTIER	Guillaume	27/8/1976	M	19	Autres cadres (secteur privé)	1330278	LR	18/6/2017
+41	LOIR ET CHER	03	3ème circonscription	LEROY	Maurice	2/2/1959	M	39	Autres professions libérales	609	UDI	18/6/2017
+42	LOIRE	01	1ère circonscription	JUANICO	Régis	5/2/1972	M	47	Fonctionnaires de catégorie A	833782	SOC	18/6/2017
+42	LOIRE	02	2ème circonscription	MIS	Jean-Michel	28/7/1967	M	19	Autres cadres (secteur privé)	1519780	REM	18/6/2017
+42	LOIRE	03	3ème circonscription	FAURE-MUNTIAN	Valéria	2/9/1984	Mme	17	Agents d'assurances	1519781	REM	18/6/2017
+42	LOIRE	04	4ème circonscription	CINIERI	Dino	9/7/1955	M	59	Retr.artis.commerc.chefs d'entrep.	590	LR	18/6/2017
+42	LOIRE	05	5ème circonscription	SARLES	Nathalie	17/4/1962	Mme	23	Salariés du secteur médical	998461	MDM	18/6/2017
+42	LOIRE	06	6ème circonscription	BOROWCZYK	Julien	2/5/1979	M	24	Médecins	1519782	REM	18/6/2017
+43	HAUTE LOIRE	01	1ère circonscription	VALENTIN	Isabelle	20/1/1962	Mme	02	Salariés agricoles	1519783	LR	18/6/2017
+43	HAUTE LOIRE	02	2ème circonscription	VIGIER	Jean-Pierre	22/10/1969	M	47	Fonctionnaires de catégorie A	1001753	LR	18/6/2017
+44	LOIRE ATLANTIQUE	01	1ère circonscription	DE RUGY	François	6/12/1973	M	54	Permanents politiques	646450	REM	18/6/2017
+44	LOIRE ATLANTIQUE	02	2ème circonscription	OPPELT	Valérie	10/12/1973	Mme	06	Administrateurs de sociétés	1519784	REM	18/6/2017
+44	LOIRE ATLANTIQUE	03	3ème circonscription	BRUNET	Anne-France	12/6/1962	Mme	31	Huissiers	1519785	REM	18/6/2017
+44	LOIRE ATLANTIQUE	04	4ème circonscription	AMADOU	Aude	29/2/1980	Mme	20	Employés (secteur privé)	1519786	REM	18/6/2017
+44	LOIRE ATLANTIQUE	05	5ème circonscription	EL HAÏRY	Sarah	16/3/1989	Mme	19	Autres cadres (secteur privé)	1519787	MDM	18/6/2017
+44	LOIRE ATLANTIQUE	06	6ème circonscription	DANIEL	Yves	31/7/1954	M	01	Agriculteurs propriétaires exploit.	158224	REM	18/6/2017
+44	LOIRE ATLANTIQUE	07	7ème circonscription	JOSSO	Sandrine	19/9/1975	Mme	39	Autres professions libérales	1519788	REM	18/6/2017
+44	LOIRE ATLANTIQUE	08	8ème circonscription	DUFEU SCHUBERT	Audrey	3/6/1980	Mme	18	Cadres supérieurs (secteur privé)	1519789	REM	18/6/2017
+44	LOIRE ATLANTIQUE	09	9ème circonscription	HAURY	Yannick	12/6/1954	M	28	Pharmaciens	838123	MDM	18/6/2017
+44	LOIRE ATLANTIQUE	10	10ème circonscription	ERRANTE	Sophie	22/7/1971	Mme	54	Permanents politiques	1004738	REM	18/6/2017
+45	LOIRET	01	1ère circonscription	RIST	Stéphanie	6/8/1973	Mme	24	Médecins	1519790	REM	18/6/2017
+45	LOIRET	02	2ème circonscription	JANVIER	Caroline	9/3/1982	Mme	19	Autres cadres (secteur privé)	1519791	REM	18/6/2017
+45	LOIRET	03	3ème circonscription	DE GANAY	Claude	5/9/1953	M	47	Fonctionnaires de catégorie A	43984	LR	18/6/2017
+45	LOIRET	04	4ème circonscription	DOOR	Jean-Pierre	1/4/1942	M	60	Retraités des professions libérales	886	LR	18/6/2017
+45	LOIRET	05	5ème circonscription	DUBOIS	Marianne	17/12/1957	Mme	57	Sans profession déclarée	157900	LR	18/6/2017
+45	LOIRET	06	6ème circonscription	RAMOS	Richard	23/3/1968	M	19	Autres cadres (secteur privé)	1007792	MDM	18/6/2017
+46	LOT	01	1ère circonscription	PRADIE	Aurélien	14/3/1986	M	18	Cadres supérieurs (secteur privé)	870016	LR	18/6/2017
+46	LOT	02	2ème circonscription	TIEGNA	Huguette	1/4/1982	Mme	13	Ingénieurs	1519792	REM	18/6/2017
+47	LOT ET GARONNE 	01	1ère circonscription	LAUZZANA	Michel	20/3/1957	M	24	Médecins	157430	REM	18/6/2017
+47	LOT ET GARONNE 	02	2ème circonscription	FRESCHI	Alexandre	17/5/1979	M	47	Fonctionnaires de catégorie A	1345442	REM	18/6/2017
+47	LOT ET GARONNE 	03	3ème circonscription	DAMAISIN	Olivier	5/8/1966	M	16	Représentants de commerce	796406	REM	18/6/2017
+48	LOZERE	01	1ère circonscription	MOREL A L'HUISSIER	Pierre	21/12/1958	M	29	Avocats	1348497	LR	18/6/2017
+49	MAINE ET LOIRE 	01	1ère circonscription	ORPHELIN	Matthieu	3/12/1972	M	50	Cadres sup. (entreprises publiques)	1180919	REM	18/6/2017
+49	MAINE ET LOIRE 	02	2ème circonscription	DUPONT	Stella	3/11/1973	Mme	57	Sans profession déclarée	270123	REM	18/6/2017
+49	MAINE ET LOIRE 	03	3ème circonscription	TAUGOURDEAU	Jean-Charles	17/7/1953	M	05	Industriels-Chefs entreprise	873	LR	18/6/2017
+49	MAINE ET LOIRE 	04	4ème circonscription	SAINT-PAUL	Laëtitia	21/1/1981	Mme	47	Fonctionnaires de catégorie A	1519793	REM	18/6/2017
+49	MAINE ET LOIRE 	05	5ème circonscription	MASSEGLIA	Denis	11/4/1981	M	13	Ingénieurs	1519794	REM	18/6/2017
+49	MAINE ET LOIRE 	06	6ème circonscription	DUBRE-CHIRAT	Nicole	18/12/1951	Mme	63	Retraités fonct.publique (sf enseig.)	1519795	REM	18/6/2017
+49	MAINE ET LOIRE 	07	7ème circonscription	BOLO	Philippe	25/3/1967	M	13	Ingénieurs	1014756	MDM	18/6/2017
+50	MANCHE	01	1ère circonscription	GOSSELIN	Philippe	23/10/1966	M	44	Professions rattachées à enseignt.	156244	LR	18/6/2017
+50	MANCHE	02	2ème circonscription	SORRE	Bertrand	8/5/1965	M	43	Enseignants 1er deg.-directeurs école	325714	REM	18/6/2017
+50	MANCHE	03	3ème circonscription	TRAVERT	Stéphane	12/10/1969	M	18	Cadres supérieurs (secteur privé)	1180809	REM	18/6/2017
+50	MANCHE	04	4ème circonscription	KRIMI	Sonia	20/12/1982	Mme	18	Cadres supérieurs (secteur privé)	1519796	DIV	18/6/2017
+51	MARNE	01	1ère circonscription	BEAUVAIS	Valérie	8/3/1963	Mme	57	Sans profession déclarée	1359902	LR	18/6/2017
+51	MARNE	02	2ème circonscription	KURIC	Aina	15/5/1987	Mme	05	Industriels-Chefs entreprise	1519797	REM	18/6/2017
+51	MARNE	03	3ème circonscription	GIRARDIN	Éric	12/2/1962	M	05	Industriels-Chefs entreprise	1519798	REM	18/6/2017
+51	MARNE	04	4ème circonscription	MAGNIER	Lise	31/12/1984	Mme	47	Fonctionnaires de catégorie A	1358010	LR	18/6/2017
+51	MARNE	05	5ème circonscription	DE COURSON	Charles	2/4/1952	M	63	Retraités fonct.publique (sf enseig.)	864	UDI	18/6/2017
+52	HAUTE MARNE	01	1ère circonscription	ABBA	Bérangère	22/10/1976	Mme	20	Employés (secteur privé)	1514418	REM	18/6/2017
+52	HAUTE MARNE	02	2ème circonscription	CORNUT-GENTILLE	François	22/5/1958	M	57	Sans profession déclarée	155098	LR	18/6/2017
+53	MAYENNE	01	1ère circonscription	GAROT	Guillaume	29/5/1966	M	51	Cadres (entreprises publiques)	554756	SOC	18/6/2017
+53	MAYENNE	02	2ème circonscription	BANNIER	Géraldine	22/11/1979	Mme	42	Professeurs du secondaire et techn.	1363890	MDM	18/6/2017
+53	MAYENNE	03	3ème circonscription	FAVENNEC	Yannick	12/8/1958	M	54	Permanents politiques	845	UDI	18/6/2017
+54	MEURTHE ET MOSELLE	01	1ère circonscription	GRANDJEAN	Carole	18/5/1993	Mme	18	Cadres supérieurs (secteur privé)	1519799	REM	18/6/2017
+54	MEURTHE ET MOSELLE	02	2ème circonscription	GARCIA	Laurent	31/5/1970	M	13	Ingénieurs	405675	MDM	18/6/2017
+54	MEURTHE ET MOSELLE	03	3ème circonscription	PALUSZKIEWICZ	Xavier	13/12/1972	M	20	Employés (secteur privé)	1369223	REM	18/6/2017
+54	MEURTHE ET MOSELLE	04	4ème circonscription	BAZIN	Thibault	27/10/1984	M	19	Autres cadres (secteur privé)	1033288	LR	18/6/2017
+54	MEURTHE ET MOSELLE	05	5ème circonscription	POTIER	Dominique	17/3/1964	M	01	Agriculteurs propriétaires exploit.	154473	SOC	18/6/2017
+54	MEURTHE ET MOSELLE	06	6ème circonscription	FIAT	Caroline	28/1/1977	Mme	23	Salariés du secteur médical	1519800	FI	18/6/2017
+55	MEUSE	01	1ère circonscription	PANCHER	Bertrand	5/6/1958	M	06	Administrateurs de sociétés	94168	UDI	18/6/2017
+55	MEUSE	02	2ème circonscription	CARIOU	Emilie	14/10/1971	Mme	47	Fonctionnaires de catégorie A	1519801	REM	18/6/2017
+56	MORBIHAN	01	1ère circonscription	PELLOIS	Hervé	17/4/1951	M	18	Cadres supérieurs (secteur privé)	34271	REM	18/6/2017
+56	MORBIHAN	02	2ème circonscription	PAHUN	Jimmy	15/5/1962	M	56	Autres professions	1519802	DIV	18/6/2017
+56	MORBIHAN	03	3ème circonscription	LE PEIH	Nicole	28/9/1959	Mme	01	Agriculteurs propriétaires exploit.	688563	REM	18/6/2017
+56	MORBIHAN	04	4ème circonscription	MOLAC	Paul	21/5/1962	M	42	Professeurs du secondaire et techn.	1192002	REM	11/6/2017
+56	MORBIHAN	05	5ème circonscription	ROUILLARD	Gwendal	20/4/1976	M	54	Permanents politiques	1037263	REM	18/6/2017
+56	MORBIHAN	06	6ème circonscription	JACQUES	Jean-Michel	29/2/1968	M	39	Autres professions libérales	1519803	REM	18/6/2017
+57	MOSELLE	01	1ère circonscription	BELHADDAD	Belkhir	9/7/1969	M	05	Industriels-Chefs entreprise	1040860	REM	18/6/2017
+57	MOSELLE	02	2ème circonscription	MENDES	Ludovic	11/4/1987	M	18	Cadres supérieurs (secteur privé)	1519804	REM	18/6/2017
+57	MOSELLE	03	3ème circonscription	LIOGER	Richard	18/9/1957	M	41	Professeurs de faculté	1040855	REM	18/6/2017
+57	MOSELLE	04	4ème circonscription	DI FILIPPO	Fabien	23/8/1986	M	19	Autres cadres (secteur privé)	1040653	LR	18/6/2017
+57	MOSELLE	05	5ème circonscription	GRIES-TRISSE	Nicole	29/6/1963	Mme	23	Salariés du secteur médical	1519805	REM	18/6/2017
+57	MOSELLE	06	6ème circonscription	AREND	Christophe	12/8/1975	M	26	Dentistes	1379197	REM	18/6/2017
+57	MOSELLE	07	7ème circonscription	ZANNIER	Hélène	19/9/1972	Mme	47	Fonctionnaires de catégorie A	1376821	REM	18/6/2017
+57	MOSELLE	08	8ème circonscription	HAMMOUCHE	Brahim	17/5/1971	M	24	Médecins	1519806	MDM	18/6/2017
+57	MOSELLE	09	9ème circonscription	RAUCH	Isabelle	10/8/1968	Mme	39	Autres professions libérales	398216	REM	18/6/2017
+58	NIEVRE	01	1ère circonscription	GOULET	Perrine	19/3/1978	Mme	19	Autres cadres (secteur privé)	1519807	REM	18/6/2017
+58	NIEVRE	02	2ème circonscription	PERROT	Patrice	24/2/1964	M	05	Industriels-Chefs entreprise	1519808	REM	18/6/2017
+59	NORD	01	1ère circonscription	QUATENNENS	Adrien	23/5/1990	M	20	Employés (secteur privé)	1519809	FI	18/6/2017
+59	NORD	02	2ème circonscription	BERNALICIS	Ugo	25/9/1989	M	47	Fonctionnaires de catégorie A	1519810	FI	18/6/2017
+59	NORD	03	3ème circonscription	DI POMPEO	Christophe	15/7/1964	M	41	Professeurs de faculté	64459	REM	18/6/2017
+59	NORD	04	4ème circonscription	LISO	Brigitte	29/7/1959	Mme	09	Commercants	1519811	REM	18/6/2017
+59	NORD	05	5ème circonscription	HUYGHE	Sébastien	25/10/1969	M	30	Notaires	819	LR	18/6/2017
+59	NORD	06	6ème circonscription	LECOCQ	Charlotte	17/7/1977	Mme	05	Industriels-Chefs entreprise	1519812	REM	18/6/2017
+59	NORD	07	7ème circonscription	VERCAMER	Francis	10/5/1958	M	13	Ingénieurs	821	UDI	18/6/2017
+59	NORD	08	8ème circonscription	OSSON	Catherine	7/2/1974	Mme	43	Enseignants 1er deg.-directeurs école	1389992	REM	18/6/2017
+59	NORD	09	9ème circonscription	PETIT	Valérie	23/6/1976	Mme	44	Professions rattachées à enseignt.	1519813	REM	18/6/2017
+59	NORD	10	10ème circonscription	LEDOUX	Vincent	21/6/1966	M	42	Professeurs du secondaire et techn.	152032	LR	18/6/2017
+59	NORD	11	11ème circonscription	PIETRASZEWSKI	Laurent	19/11/1966	M	19	Autres cadres (secteur privé)	1519814	REM	18/6/2017
+59	NORD	12	12ème circonscription	CATTELOT	Anne Laure	25/10/1988	Mme	54	Permanents politiques	1519815	REM	18/6/2017
+59	NORD	13	13ème circonscription	HUTIN	Christian	18/1/1961	M	24	Médecins	9816	DVG	18/6/2017
+59	NORD	14	14ème circonscription	CHRISTOPHE	Paul	10/2/1971	M	47	Fonctionnaires de catégorie A	1054223	LR	18/6/2017
+59	NORD	15	15ème circonscription	DE TEMMERMAN	Jennifer	16/2/1977	Mme	44	Professions rattachées à enseignt.	1519816	REM	18/6/2017
+59	NORD	16	16ème circonscription	BRUNEEL	Alain	7/7/1952	M	61	Retraités salariés privés	1519817	COM	18/6/2017
+59	NORD	17	17ème circonscription	HOUBRON	Dimitri	12/2/1991	M	32	Conseillers juridiques	1519818	REM	18/6/2017
+59	NORD	18	18ème circonscription	BRICOUT	Guy	18/2/1944	M	63	Retraités fonct.publique (sf enseig.)	3227	UDI	18/6/2017
+59	NORD	19	19ème circonscription	CHENU	Sébastien	13/4/1973	M	54	Permanents politiques	2034	FN	18/6/2017
+59	NORD	20	20ème circonscription	ROUSSEL	Fabien	16/4/1969	M	54	Permanents politiques	1388709	COM	18/6/2017
+59	NORD	21	21ème circonscription	DESCAMPS	Béatrice	24/4/1961	Mme	43	Enseignants 1er deg.-directeurs école	1053526	UDI	18/6/2017
+60	OISE	01	1ère circonscription	DASSAULT	Olivier	1/6/1951	M	05	Industriels-Chefs entreprise	904	LR	18/6/2017
+60	OISE	02	2ème circonscription	THILL	Agnès	2/6/1964	Mme	43	Enseignants 1er deg.-directeurs école	1519819	REM	18/6/2017
+60	OISE	03	3ème circonscription	BOIS	Pascal	3/12/1959	M	19	Autres cadres (secteur privé)	86406	REM	18/6/2017
+60	OISE	04	4ème circonscription	WOERTH	Eric	29/1/1956	M	54	Permanents politiques	907	LR	18/6/2017
+60	OISE	05	5ème circonscription	VATIN	Pierre	21/8/1967	M	54	Permanents politiques	1519820	LR	18/6/2017
+60	OISE	06	6ème circonscription	BUREAU-BONNARD	Carole	9/8/1965	Mme	39	Autres professions libérales	1519821	REM	18/6/2017
+60	OISE	07	7ème circonscription	MINOT	Maxime	20/7/1987	M	20	Employés (secteur privé)	1056012	LR	18/6/2017
+61	ORNE	01	1ère circonscription	PUEYO	Joaquim	30/5/1950	M	63	Retraités fonct.publique (sf enseig.)	3284	SOC	18/6/2017
+61	ORNE	02	2ème circonscription	LOUWAGIE	Véronique	20/3/1961	Mme	34	Experts comptables	66939	LR	18/6/2017
+61	ORNE	03	3ème circonscription	NURY	Jérôme	25/8/1972	M	56	Autres professions	1182292	LR	18/6/2017
+62	PAS DE CALAIS	01	1ère circonscription	DUVERGE	Bruno	3/4/1957	M	18	Cadres supérieurs (secteur privé)	870132	MDM	18/6/2017
+62	PAS DE CALAIS	02	2ème circonscription	MAQUET	Jacqueline	13/5/1949	Mme	54	Permanents politiques	833249	REM	18/6/2017
+62	PAS DE CALAIS	03	3ème circonscription	EVRARD	José	17/7/1945	M	63	Retraités fonct.publique (sf enseig.)	1063506	FN	18/6/2017
+62	PAS DE CALAIS	04	4ème circonscription	FASQUELLE	Daniel	16/1/1963	M	54	Permanents politiques	56893	LR	18/6/2017
+62	PAS DE CALAIS	05	5ème circonscription	PONT	Jean-Pierre	9/5/1950	M	24	Médecins	1875	REM	18/6/2017
+62	PAS DE CALAIS	06	6ème circonscription	BOURGUIGNON	Brigitte	21/3/1959	Mme	54	Permanents politiques	81118	REM	18/6/2017
+62	PAS DE CALAIS	07	7ème circonscription	DUMONT	Pierre-Henri	7/10/1987	M	54	Permanents politiques	1403474	LR	18/6/2017
+62	PAS DE CALAIS	08	8ème circonscription	POTTERIE	Benoit	23/7/1967	M	09	Commercants	1519822	REM	18/6/2017
+62	PAS DE CALAIS	09	9ème circonscription	DEPREZ-AUDEBERT	Marguerite	17/5/1952	Mme	61	Retraités salariés privés	1509685	MDM	18/6/2017
+62	PAS DE CALAIS	10	10ème circonscription	PAJOT	Ludovic	18/11/1993	M	56	Autres professions	1400007	FN	18/6/2017
+62	PAS DE CALAIS	11	11ème circonscription	LE PEN	Marine	5/8/1968	Mme	29	Avocats	834072	FN	18/6/2017
+62	PAS DE CALAIS	12	12ème circonscription	BILDE	Bruno	22/9/1976	M	29	Avocats	830826	FN	18/6/2017
+63	PUY DE DOME	01	1ère circonscription	THOMAS	Valérie	21/1/1968	Mme	39	Autres professions libérales	1519823	REM	18/6/2017
+63	PUY DE DOME	02	2ème circonscription	PIRES BEAUNE	Christine	6/10/1964	Mme	47	Fonctionnaires de catégorie A	1068939	SOC	18/6/2017
+63	PUY DE DOME	03	3ème circonscription	VICHNIEVSKY	Laurence	5/2/1955	Mme	45	Magistrats	1181136	MDM	18/6/2017
+63	PUY DE DOME	04	4ème circonscription	FANGET	Michel	3/5/1950	M	24	Médecins	372885	MDM	18/6/2017
+63	PUY DE DOME	05	5ème circonscription	CHASSAIGNE	André	2/7/1950	M	62	Retraités de l'enseignement	932	COM	18/6/2017
+64	PYRENEES ATLANTIQUES	01	1ère circonscription	POUEYTO	Josy	13/1/1954	Mme	63	Retraités fonct.publique (sf enseig.)	1185762	MDM	18/6/2017
+64	PYRENEES ATLANTIQUES	02	2ème circonscription	MATTEI	Jean-Paul	21/3/1954	M	30	Notaires	171964	MDM	18/6/2017
+64	PYRENEES ATLANTIQUES	03	3ème circonscription	HABIB	David	16/3/1961	M	54	Permanents politiques	936	SOC	18/6/2017
+64	PYRENEES ATLANTIQUES	04	4ème circonscription	LASSALLE	Jean	3/5/1955	M	54	Permanents politiques	937	DVD	18/6/2017
+64	PYRENEES ATLANTIQUES	05	5ème circonscription	LASSERRE-DAVID	Florence	29/6/1974	Mme	20	Employés (secteur privé)	764898	MDM	18/6/2017
+64	PYRENEES ATLANTIQUES	06	6ème circonscription	BRU	Vincent	29/4/1955	M	41	Professeurs de faculté	172057	MDM	18/6/2017
+65	HAUTES PYRENEES	01	1ère circonscription	SEMPASTOUS	Jean-Bernard	5/8/1964	M	42	Professeurs du secondaire et techn.	219168	REM	18/6/2017
+65	HAUTES PYRENEES	02	2ème circonscription	DUBIE	Jeanine	3/1/1958	Mme	47	Fonctionnaires de catégorie A	869920	RDG	18/6/2017
+66	PYRENEES ORIENTALES	01	1ère circonscription	GRAU	Romain	21/6/1974	M	05	Industriels-Chefs entreprise	1178027	REM	18/6/2017
+66	PYRENEES ORIENTALES	02	2ème circonscription	ALIOT	Louis	4/9/1969	M	56	Autres professions	46978	FN	18/6/2017
+66	PYRENEES ORIENTALES	03	3ème circonscription	GAYTE	Laurence	25/9/1965	Mme	18	Cadres supérieurs (secteur privé)	1183415	REM	18/6/2017
+66	PYRENEES ORIENTALES	04	4ème circonscription	CAZENOVE	Sébastien	28/12/1976	M	48	Fonctionnaires de catégorie B	1519824	REM	18/6/2017
+67	BAS RHIN	01	1ère circonscription	MICHELS	Thierry	27/8/1960	M	18	Cadres supérieurs (secteur privé)	1519825	REM	18/6/2017
+67	BAS RHIN	02	2ème circonscription	WASERMAN	Sylvain	8/12/1967	M	05	Industriels-Chefs entreprise	1084250	REM	18/6/2017
+67	BAS RHIN	03	3ème circonscription	STUDER	Bruno	18/6/1978	M	42	Professeurs du secondaire et techn.	1519826	REM	18/6/2017
+67	BAS RHIN	04	4ème circonscription	WONNER	Martine	27/3/1964	Mme	18	Cadres supérieurs (secteur privé)	1519827	REM	18/6/2017
+67	BAS RHIN	05	5ème circonscription	HERTH	Antoine	14/2/1963	M	01	Agriculteurs propriétaires exploit.	951	LR	18/6/2017
+67	BAS RHIN	06	6ème circonscription	FURST	Laurent	19/5/1965	M	50	Cadres sup. (entreprises publiques)	31074	LR	18/6/2017
+67	BAS RHIN	07	7ème circonscription	HETZEL	Patrick	2/7/1964	M	41	Professeurs de faculté	1192006	LR	18/6/2017
+67	BAS RHIN	08	8ème circonscription	REISS	Frédéric	12/11/1949	M	62	Retraités de l'enseignement	954	LR	18/6/2017
+67	BAS RHIN	09	9ème circonscription	THIEBAUT	Vincent	23/5/1972	M	19	Autres cadres (secteur privé)	1519828	REM	18/6/2017
+68	HAUT RHIN	01	1ère circonscription	STRAUMANN	Eric	17/8/1964	M	42	Professeurs du secondaire et techn.	170349	LR	18/6/2017
+68	HAUT RHIN	02	2ème circonscription	CATTIN	Jacques	4/6/1958	M	01	Agriculteurs propriétaires exploit.	170167	LR	18/6/2017
+68	HAUT RHIN	03	3ème circonscription	REITZER	Jean-Luc	29/12/1951	M	18	Cadres supérieurs (secteur privé)	958	LR	18/6/2017
+68	HAUT RHIN	04	4ème circonscription	SCHELLENBERGER	Raphaël	14/2/1990	M	54	Permanents politiques	1426803	LR	18/6/2017
+68	HAUT RHIN	05	5ème circonscription	BECHT	Olivier	28/4/1976	M	45	Magistrats	362658	DVD	18/6/2017
+68	HAUT RHIN	06	6ème circonscription	FUCHS	Bruno	7/4/1959	M	05	Industriels-Chefs entreprise	1519829	REM	18/6/2017
+69	RHONE	01	1ère circonscription	RUDIGOZ	Thomas	11/1/1971	M	57	Sans profession déclarée	1088602	REM	18/6/2017
+69	RHONE	02	2ème circonscription	JULIEN-LAFERRIERE	Hubert	27/2/1966	M	41	Professeurs de faculté	1499633	REM	18/6/2017
+69	RHONE	03	3ème circonscription	TOURAINE	Jean-Louis	8/10/1945	M	63	Retraités fonct.publique (sf enseig.)	183489	REM	18/6/2017
+69	RHONE	04	4ème circonscription	BRUGNERA	Anne	28/11/1970	Mme	47	Fonctionnaires de catégorie A	1088554	REM	18/6/2017
+69	RHONE	05	5ème circonscription	BROCARD	Blandine	3/11/1981	Mme	20	Employés (secteur privé)	1429360	REM	18/6/2017
+69	RHONE	06	6ème circonscription	BONNELL	Bruno	6/10/1958	M	05	Industriels-Chefs entreprise	1519830	REM	18/6/2017
+69	RHONE	07	7ème circonscription	KHEDHER	ANISSA	1/4/1980	Mme	47	Fonctionnaires de catégorie A	1089086	REM	18/6/2017
+69	RHONE	08	8ème circonscription	VERCHERE	Patrice	29/12/1973	M	54	Permanents politiques	523947	LR	18/6/2017
+69	RHONE	09	9ème circonscription	PERRUT	Bernard	24/1/1957	M	57	Sans profession déclarée	971	LR	18/6/2017
+69	RHONE	10	10ème circonscription	GASSILLOUD	Thomas	21/5/1981	M	05	Industriels-Chefs entreprise	1090875	REM	18/6/2017
+69	RHONE	11	11ème circonscription	FUGIT	Jean-Luc	27/11/1969	M	41	Professeurs de faculté	1519831	REM	18/6/2017
+69	RHONE	12	12ème circonscription	ISAAC-SIBILLE	Cyrille	30/4/1958	M	24	Médecins	1519832	MDM	18/6/2017
+69	RHONE	13	13ème circonscription	CAZARIAN	Danièle	31/8/1965	Mme	06	Administrateurs de sociétés	1089118	REM	18/6/2017
+69	RHONE	14	14ème circonscription	BLEIN	Yves	12/10/1954	M	18	Cadres supérieurs (secteur privé)	169861	REM	18/6/2017
+70	HAUTE SAONE	01	1ère circonscription	BESSOT BALLOT	Barbara	13/4/1972	Mme	51	Cadres (entreprises publiques)	1519833	REM	18/6/2017
+70	HAUTE SAONE	02	2ème circonscription	LEJEUNE	Christophe	22/3/1969	M	39	Autres professions libérales	400279	REM	18/6/2017
+71	SAONE ET LOIRE 	01	1ère circonscription	DIRX	Benjamin	25/1/1979	M	05	Industriels-Chefs entreprise	1519834	REM	18/6/2017
+71	SAONE ET LOIRE 	02	2ème circonscription	CORNELOUP	Josiane	30/9/1959	Mme	28	Pharmaciens	77447	LR	18/6/2017
+71	SAONE ET LOIRE 	03	3ème circonscription	REBEYROTTE	Rémy	27/3/1966	M	42	Professeurs du secondaire et techn.	29545	REM	18/6/2017
+71	SAONE ET LOIRE 	04	4ème circonscription	UNTERMAIER	Cécile	28/12/1951	Mme	45	Magistrats	1185777	SOC	18/6/2017
+71	SAONE ET LOIRE 	05	5ème circonscription	GAUVAIN	Raphaël	10/4/1973	M	29	Avocats	1519835	REM	18/6/2017
+72	SARTHE	01	1ère circonscription	PICHEREAU	Damien	28/1/1988	M	20	Employés (secteur privé)	1519836	REM	18/6/2017
+72	SARTHE	02	2ème circonscription	KARAMANLI	Marietta	18/12/1964	Mme	42	Professeurs du secondaire et techn.	44490	SOC	18/6/2017
+72	SARTHE	03	3ème circonscription	FONTENEL-PERSONNE	Pascale	26/5/1962	Mme	05	Industriels-Chefs entreprise	1519837	REM	18/6/2017
+72	SARTHE	04	4ème circonscription	LE FOLL	Stéphane	3/2/1960	M	42	Professeurs du secondaire et techn.	526701	SOC	18/6/2017
+72	SARTHE	05	5ème circonscription	GRELIER	Jean-Carles	15/3/1966	M	19	Autres cadres (secteur privé)	486234	LR	18/6/2017
+73	SAVOIE	01	1ère circonscription	DEGOIS	Typhanie	6/1/1993	Mme	40	Etudiants	1519838	REM	18/6/2017
+73	SAVOIE	02	2ème circonscription	ROLLAND	Vincent	1/2/1970	M	18	Cadres supérieurs (secteur privé)	992	LR	18/6/2017
+73	SAVOIE	03	3ème circonscription	BONNIVARD	Emilie	2/8/1980	Mme	19	Autres cadres (secteur privé)	1443042	LR	18/6/2017
+73	SAVOIE	04	4ème circonscription	MIGNOLA	Patrick	8/8/1971	M	05	Industriels-Chefs entreprise	168242	MDM	18/6/2017
+74	HAUTE SAVOIE	01	1ère circonscription	RIOTTON	Véronique	2/11/1969	Mme	19	Autres cadres (secteur privé)	1519839	REM	18/6/2017
+74	HAUTE SAVOIE	02	2ème circonscription	LARDET	Frédérique	1/9/1966	Mme	57	Sans profession déclarée	1519840	REM	18/6/2017
+74	HAUTE SAVOIE	03	3ème circonscription	SADDIER	Martial	15/10/1969	M	57	Sans profession déclarée	996	LR	18/6/2017
+74	HAUTE SAVOIE	04	4ème circonscription	DUBY-MULLER	Virginie	16/8/1979	Mlle	18	Cadres supérieurs (secteur privé)	1105578	LR	18/6/2017
+74	HAUTE SAVOIE	05	5ème circonscription	LENNE	Marion	20/11/1974	Mme	19	Autres cadres (secteur privé)	1447428	REM	18/6/2017
+74	HAUTE SAVOIE	06	6ème circonscription	ROSEREN	Xavier	12/1/1970	M	09	Commercants	321222	REM	18/6/2017
+75	PARIS	01	1ère circonscription	MAILLARD	Sylvain	28/4/1974	M	05	Industriels-Chefs entreprise	1499798	REM	11/6/2017
+75	PARIS	02	2ème circonscription	LE GENDRE	Gilles	13/5/1958	M	05	Industriels-Chefs entreprise	1519841	REM	18/6/2017
+75	PARIS	03	3ème circonscription	GUERINI	Stanislas	14/5/1982	M	18	Cadres supérieurs (secteur privé)	1519842	REM	18/6/2017
+75	PARIS	04	4ème circonscription	KUSTER	Brigitte	12/4/1959	Mme	57	Sans profession déclarée	336769	LR	18/6/2017
+75	PARIS	05	5ème circonscription	GRIVEAUX	Benjamin	29/12/1977	M	54	Permanents politiques	1519843	REM	18/6/2017
+75	PARIS	06	6ème circonscription	PERSON	Pierre	22/1/1989	M	19	Autres cadres (secteur privé)	1519844	REM	18/6/2017
+75	PARIS	07	7ème circonscription	RUPIN	Pacôme	25/1/1985	M	54	Permanents politiques	1499766	REM	18/6/2017
+75	PARIS	08	8ème circonscription	AVIA	Laetitia	29/10/1985	Mme	29	Avocats	1519845	REM	18/6/2017
+75	PARIS	09	9ème circonscription	TAN	Buon	10/3/1967	M	09	Commercants	1519846	REM	18/6/2017
+75	PARIS	10	10ème circonscription	LANG	Anne-Christine	10/8/1961	Mme	47	Fonctionnaires de catégorie A	336771	REM	18/6/2017
+75	PARIS	11	11ème circonscription	DE SARNEZ	Marielle	27/3/1951	Mme	56	Autres professions	26	MDM	18/6/2017
+75	PARIS	12	12ème circonscription	GREGOIRE	Olivia	30/9/1978	Mme	18	Cadres supérieurs (secteur privé)	1519847	REM	18/6/2017
+75	PARIS	13	13ème circonscription	RENSON	Hugues	11/2/1978	M	50	Cadres sup. (entreprises publiques)	1519848	REM	18/6/2017
+75	PARIS	14	14ème circonscription	GOASGUEN	Claude	12/3/1945	M	29	Avocats	1012	LR	18/6/2017
+75	PARIS	15	15ème circonscription	PAU-LANGEVIN	George	19/10/1948	Mme	29	Avocats	867298	SOC	18/6/2017
+75	PARIS	16	16ème circonscription	MAHJOUBI	Mounir	1/3/1984	M	39	Autres professions libérales	1519849	REM	18/6/2017
+75	PARIS	17	17ème circonscription	OBONO	Danièle	12/7/1980	Mme	47	Fonctionnaires de catégorie A	1519850	FI	18/6/2017
+75	PARIS	18	18ème circonscription	BOURNAZEL	Pierre-Yves	31/8/1977	M	39	Autres professions libérales	1108155	LR	18/6/2017
+76	SEINE MARITIME 	01	1ère circonscription	ADAM	Damien	28/6/1989	M	18	Cadres supérieurs (secteur privé)	1519851	REM	18/6/2017
+76	SEINE MARITIME 	02	2ème circonscription	VIDAL	Annie	17/9/1956	Mme	47	Fonctionnaires de catégorie A	1519852	REM	18/6/2017
+76	SEINE MARITIME 	03	3ème circonscription	WULFRANC	Hubert	17/12/1956	M	44	Professions rattachées à enseignt.	167315	COM	18/6/2017
+76	SEINE MARITIME 	04	4ème circonscription	SYLLA	Sira	14/3/1980	Mme	29	Avocats	1519853	REM	18/6/2017
+76	SEINE MARITIME 	05	5ème circonscription	BOUILLON	Christophe	4/3/1969	M	56	Autres professions	167715	SOC	18/6/2017
+76	SEINE MARITIME 	06	6ème circonscription	JUMEL	Sébastien	20/12/1971	M	54	Permanents politiques	42234	COM	18/6/2017
+76	SEINE MARITIME 	07	7ème circonscription	FIRMIN LE BODO	Agnès	20/11/1968	Mme	28	Pharmaciens	551130	LR	18/6/2017
+76	SEINE MARITIME 	08	8ème circonscription	LECOQ	Jean-Paul	13/10/1958	M	48	Fonctionnaires de catégorie B	42736	COM	18/6/2017
+76	SEINE MARITIME 	09	9ème circonscription	KERBARH	Stéphanie	31/7/1975	Mme	05	Industriels-Chefs entreprise	1519854	REM	18/6/2017
+76	SEINE MARITIME 	10	10ème circonscription	BATUT	Xavier	26/12/1976	M	19	Autres cadres (secteur privé)	1519855	REM	18/6/2017
+77	SEINE ET MARNE 	01	1ère circonscription	LUQUET	Aude	18/8/1967	Mme	56	Autres professions	538622	MDM	18/6/2017
+77	SEINE ET MARNE 	02	2ème circonscription	LACROUTE	Valérie	29/10/1965	Mme	56	Autres professions	1113941	LR	18/6/2017
+77	SEINE ET MARNE 	03	3ème circonscription	JEGO	Yves	17/4/1961	M	29	Avocats	1034	UDI	18/6/2017
+77	SEINE ET MARNE 	04	4ème circonscription	JACOB	Christian	4/12/1959	M	56	Autres professions	539949	LR	18/6/2017
+77	SEINE ET MARNE 	05	5ème circonscription	RIESTER	Franck	3/1/1974	M	05	Industriels-Chefs entreprise	530514	LR	18/6/2017
+77	SEINE ET MARNE 	06	6ème circonscription	PARIGI	Jean-François	25/1/1960	M	56	Autres professions	870101	LR	18/6/2017
+77	SEINE ET MARNE 	07	7ème circonscription	KOKOUENDO	Rodrigue	8/3/1974	M	19	Autres cadres (secteur privé)	1114599	REM	18/6/2017
+77	SEINE ET MARNE 	08	8ème circonscription	FAUVERGUE	Jean-Michel	31/1/1957	M	47	Fonctionnaires de catégorie A	1519856	REM	18/6/2017
+77	SEINE ET MARNE 	09	9ème circonscription	PEYRON	Michèle	22/7/1961	Mme	19	Autres cadres (secteur privé)	1519857	REM	18/6/2017
+77	SEINE ET MARNE 	10	10ème circonscription	DO	Stéphanie	20/12/1979	Mme	47	Fonctionnaires de catégorie A	1519858	REM	18/6/2017
+77	SEINE ET MARNE 	11	11ème circonscription	FAURE	Olivier	18/8/1968	M	18	Cadres supérieurs (secteur privé)	1113606	SOC	18/6/2017
+78	YVELINES	01	1ère circonscription	BAICHERE	Didier	20/8/1970	M	18	Cadres supérieurs (secteur privé)	1461278	REM	18/6/2017
+78	YVELINES	02	2ème circonscription	BARROT	Jean-Noël	13/5/1983	M	41	Professeurs de faculté	1505230	REM	18/6/2017
+78	YVELINES	03	3ème circonscription	PIRON	Béatrice	30/8/1965	Mme	05	Industriels-Chefs entreprise	1519859	REM	18/6/2017
+78	YVELINES	04	4ème circonscription	LEBEC	Marie	17/12/1990	Mme	19	Autres cadres (secteur privé)	1519860	REM	18/6/2017
+78	YVELINES	05	5ème circonscription	BRAUN-PIVET	Yaël	7/12/1970	Mme	56	Autres professions	1519861	REM	18/6/2017
+78	YVELINES	06	6ème circonscription	POUZYREFF	Natalia	18/2/1961	Mme	42	Professeurs du secondaire et techn.	1519862	REM	18/6/2017
+78	YVELINES	07	7ème circonscription	DE VAUCOULEURS	Michèle	12/2/1964	Mme	19	Autres cadres (secteur privé)	1119355	MDM	18/6/2017
+78	YVELINES	08	8ème circonscription	VIALAY	Michel	6/1/1960	M	18	Cadres supérieurs (secteur privé)	198680	LR	18/6/2017
+78	YVELINES	09	9ème circonscription	MILLIENNE	Bruno	28/11/1959	M	18	Cadres supérieurs (secteur privé)	1459708	MDM	18/6/2017
+78	YVELINES	10	10ème circonscription	BERGE	Aurore	13/11/1986	Mme	18	Cadres supérieurs (secteur privé)	1459876	REM	18/6/2017
+78	YVELINES	11	11ème circonscription	HAÏ	Nadia	8/3/1980	Mme	19	Autres cadres (secteur privé)	1519863	REM	18/6/2017
+78	YVELINES	12	12ème circonscription	GRANJUS	Florence	17/5/1962	Mme	50	Cadres sup. (entreprises publiques)	1519864	REM	18/6/2017
+79	DEUX SEVRES	01	1ère circonscription	CHICHE	Guillaume	30/3/1986	M	19	Autres cadres (secteur privé)	1519865	REM	18/6/2017
+79	DEUX SEVRES	02	2ème circonscription	BATHO	Delphine	23/3/1973	Mme	47	Fonctionnaires de catégorie A	867025	SOC	18/6/2017
+79	DEUX SEVRES	03	3ème circonscription	FIEVET	Jean-Marie	19/6/1964	M	48	Fonctionnaires de catégorie B	1519866	REM	18/6/2017
+80	SOMME	01	1ère circonscription	RUFFIN	François	18/10/1975	M	37	Journalistes et autres médias	1519867	FI	18/6/2017
+80	SOMME	02	2ème circonscription	POMPILI	Barbara	13/6/1975	Mme	56	Autres professions	1192011	REM	18/6/2017
+80	SOMME	03	3ème circonscription	MAQUET	Emmanuel	2/6/1968	M	33	Agents généraux d'assurances	165829	LR	18/6/2017
+80	SOMME	04	4ème circonscription	LECLABART	Jean-Claude	4/12/1954	M	58	Retraités agricoles	96882	REM	18/6/2017
+80	SOMME	05	5ème circonscription	DEMILLY	Stéphane	26/6/1963	M	39	Autres professions libérales	1061	UDI	11/6/2017
+81	TARN	01	1ère circonscription	FOLLIOT	Philippe	14/7/1963	M	54	Permanents politiques	1065	DVD	18/6/2017
+81	TARN	02	2ème circonscription	VERDIER-JOUCLAS	Marie-Christine	19/3/1965	Mme	56	Autres professions	1519868	REM	18/6/2017
+81	TARN	03	3ème circonscription	TERLIER	Jean	2/3/1977	M	29	Avocats	1500779	REM	18/6/2017
+82	TARN ET GARONNE	01	1ère circonscription	RABAULT	Valérie	25/4/1973	Mme	13	Ingénieurs	1192013	SOC	18/6/2017
+82	TARN ET GARONNE	02	2ème circonscription	PINEL	Sylvia	28/9/1977	Mme	56	Autres professions	867297	RDG	18/6/2017
+83	VAR	01	1ère circonscription	LEVY	Geneviève	24/2/1948	Mme	60	Retraités des professions libérales	1069	LR	18/6/2017
+83	VAR	02	2ème circonscription	MUSCHOTTI	Cécile	30/10/1987	Mme	42	Professeurs du secondaire et techn.	1133328	REM	18/6/2017
+83	VAR	03	3ème circonscription	MASSON	Jean-Louis	5/2/1954	M	63	Retraités fonct.publique (sf enseig.)	165004	LR	18/6/2017
+83	VAR	04	4ème circonscription	MAUBORGNE	Sereine	3/5/1972	Mme	39	Autres professions libérales	1519869	REM	18/6/2017
+83	VAR	05	5ème circonscription	MICHEL-KLEISBAUER	Philippe	6/3/1969	M	32	Conseillers juridiques	1519870	MDM	18/6/2017
+83	VAR	06	6ème circonscription	GOMEZ-BASSAC	Valérie	16/7/1969	Mme	29	Avocats	1519871	REM	18/6/2017
+83	VAR	07	7ème circonscription	GUEREL	Emilie	18/12/1983	Mme	42	Professeurs du secondaire et techn.	1519872	REM	18/6/2017
+83	VAR	08	8ème circonscription	MATRAS	Fabien	12/9/1984	M	56	Autres professions	1181667	REM	18/6/2017
+84	VAUCLUSE	01	1ère circonscription	CESARINI	Jean-François	30/9/1970	M	05	Industriels-Chefs entreprise	1519873	REM	18/6/2017
+84	VAUCLUSE	02	2ème circonscription	BOUCHET	Jean-Claude	2/5/1957	M	56	Autres professions	3936	LR	18/6/2017
+84	VAUCLUSE	03	3ème circonscription	POIRSON	Brune	1/9/1982	Mme	39	Autres professions libérales	1519874	REM	18/6/2017
+84	VAUCLUSE	04	4ème circonscription	BOMPARD	Jacques	24/2/1943	M	60	Retraités des professions libérales	3761	EXD	18/6/2017
+84	VAUCLUSE	05	5ème circonscription	AUBERT	Julien	11/6/1978	M	46	Grands corps de l'état	1192016	LR	18/6/2017
+85	VENDEE	01	1ère circonscription	LATOMBE	Philippe	21/4/1975	M	18	Cadres supérieurs (secteur privé)	1519875	MDM	18/6/2017
+85	VENDEE	02	2ème circonscription	GALLERNEAU	Patricia	9/9/1954	Mme	63	Retraités fonct.publique (sf enseig.)	1509743	MDM	18/6/2017
+85	VENDEE	03	3ème circonscription	BUCHOU	Stéphane	14/3/1974	M	18	Cadres supérieurs (secteur privé)	1138269	REM	18/6/2017
+85	VENDEE	04	4ème circonscription	LEGUILLE-BALLOY	Martine	6/9/1957	Mme	29	Avocats	1519876	REM	18/6/2017
+85	VENDEE	05	5ème circonscription	HENRIET	Pierre	26/11/1991	M	42	Professeurs du secondaire et techn.	1479683	REM	18/6/2017
+86	VIENNE	01	1ère circonscription	SAVATIER	Jacques	23/10/1952	M	63	Retraités fonct.publique (sf enseig.)	1519877	REM	18/6/2017
+86	VIENNE	02	2ème circonscription	HOULIÉ	Sacha	8/10/1988	M	29	Avocats	1519878	REM	18/6/2017
+86	VIENNE	03	3ème circonscription	CLEMENT	Jean-Michel	31/10/1954	M	29	Avocats	119867	REM	18/6/2017
+86	VIENNE	04	4ème circonscription	TURQUOIS	Nicolas	26/7/1972	M	01	Agriculteurs propriétaires exploit.	1481480	MDM	18/6/2017
+87	HAUTE VIENNE	01	1ère circonscription	BEAUDOUIN-HUBIERE	Sophie	20/11/1972	Mme	57	Sans profession déclarée	1519879	REM	18/6/2017
+87	HAUTE VIENNE	02	2ème circonscription	DJEBBARI-BONNET	Jean-Baptiste	26/2/1982	M	05	Industriels-Chefs entreprise	1519880	REM	18/6/2017
+87	HAUTE VIENNE	03	3ème circonscription	MAGNE	Marie-Ange	20/11/1987	Mme	56	Autres professions	1519881	REM	18/6/2017
+88	VOSGES	01	1ère circonscription	VIRY	Stéphane	14/10/1969	M	29	Avocats	1485562	LR	18/6/2017
+88	VOSGES	02	2ème circonscription	CHERPION	Gérard	15/3/1948	M	60	Retraités des professions libérales	1094	LR	18/6/2017
+88	VOSGES	03	3ème circonscription	NAEGELEN	Christophe	30/12/1983	M	05	Industriels-Chefs entreprise	1519882	DVD	18/6/2017
+88	VOSGES	04	4ème circonscription	GAULTIER	Jean-Jacques	13/7/1963	M	24	Médecins	1096	LR	18/6/2017
+89	YONNE	01	1ère circonscription	LARRIVE	Guillaume	24/1/1977	M	46	Grands corps de l'état	1148568	LR	18/6/2017
+89	YONNE	02	2ème circonscription	VILLIERS	André	13/12/1954	M	01	Agriculteurs propriétaires exploit.	163430	UDI	18/6/2017
+89	YONNE	03	3ème circonscription	CROUZET	Michèle	31/8/1967	Mme	05	Industriels-Chefs entreprise	1149477	REM	18/6/2017
+90	TERRITOIRE DE BELFORT	01	1ère circonscription	BOUCARD	Ian	5/5/1988	M	19	Autres cadres (secteur privé)	1491468	LR	18/6/2017
+90	TERRITOIRE DE BELFORT	02	2ème circonscription	ZUMKELLER	Michel	21/1/1966	M	54	Permanents politiques	1101	UDI	18/6/2017
+91	ESSONNE	01	1ère circonscription	VALLS	Manuel	13/8/1962	M	56	Autres professions	1102	DVG	18/6/2017
+91	ESSONNE	02	2ème circonscription	MARLIN	Franck	30/9/1964	M	46	Grands corps de l'état	1103	LR	18/6/2017
+91	ESSONNE	03	3ème circonscription	ROMEIRO DIAS	Laëtitia	15/1/1981	Mme	19	Autres cadres (secteur privé)	1519883	REM	18/6/2017
+91	ESSONNE	04	4ème circonscription	RIXAIN	Marie-Pierre	18/1/1977	Mme	39	Autres professions libérales	1519884	REM	18/6/2017
+91	ESSONNE	05	5ème circonscription	VILLANI	Cédric	5/10/1973	M	41	Professeurs de faculté	1519885	REM	18/6/2017
+91	ESSONNE	06	6ème circonscription	DE MONTCHALIN	Amélie	19/6/1985	Mme	18	Cadres supérieurs (secteur privé)	1519886	REM	18/6/2017
+91	ESSONNE	07	7ème circonscription	REDA	Robin	10/5/1991	M	56	Autres professions	1493365	LR	18/6/2017
+91	ESSONNE	08	8ème circonscription	DUPONT-AIGNAN	Nicolas	7/3/1961	M	47	Fonctionnaires de catégorie A	1109	DLF	18/6/2017
+91	ESSONNE	09	9ème circonscription	GUÉVENOUX	Marie	2/11/1976	Mme	57	Sans profession déclarée	1519887	REM	18/6/2017
+91	ESSONNE	10	10ème circonscription	RAPHAN	Pierre-Alain	6/4/1983	M	39	Autres professions libérales	1519888	REM	18/6/2017
+92	HAUTS DE SEINE 	01	1ère circonscription	FAUCILLON	Elsa	6/8/1981	Mme	20	Employés (secteur privé)	1495105	COM	18/6/2017
+92	HAUTS DE SEINE 	02	2ème circonscription	TAQUET	Adrien	3/1/1977	M	37	Journalistes et autres médias	1519889	REM	18/6/2017
+92	HAUTS DE SEINE 	03	3ème circonscription	HENNION	Christine	23/8/1955	Mme	18	Cadres supérieurs (secteur privé)	1519890	REM	18/6/2017
+92	HAUTS DE SEINE 	04	4ème circonscription	FLORENNES	Isabelle	2/8/1967	Mme	47	Fonctionnaires de catégorie A	1157615	REM	18/6/2017
+92	HAUTS DE SEINE 	05	5ème circonscription	CALVEZ	Céline	24/7/1979	Mme	39	Autres professions libérales	1519891	REM	18/6/2017
+92	HAUTS DE SEINE 	06	6ème circonscription	LE GRIP	Constance	14/11/1960	Mme	54	Permanents politiques	1184650	LR	18/6/2017
+92	HAUTS DE SEINE 	07	7ème circonscription	MARILOSSIAN	Jacques	26/7/1958	M	18	Cadres supérieurs (secteur privé)	1182534	REM	18/6/2017
+92	HAUTS DE SEINE 	08	8ème circonscription	MAIRE	Jacques	4/4/1962	M	47	Fonctionnaires de catégorie A	5278	REM	18/6/2017
+92	HAUTS DE SEINE 	09	9ème circonscription	SOLERE	Thierry	17/8/1971	M	18	Cadres supérieurs (secteur privé)	106246	LR	18/6/2017
+92	HAUTS DE SEINE 	10	10ème circonscription	ATTAL	Gabriel	16/3/1989	M	39	Autres professions libérales	1516656	REM	18/6/2017
+92	HAUTS DE SEINE 	11	11ème circonscription	ROSSI	Laurianne	18/5/1984	Mme	51	Cadres (entreprises publiques)	1519892	REM	18/6/2017
+92	HAUTS DE SEINE 	12	12ème circonscription	BOURLANGES	Jean-Louis	13/7/1946	M	63	Retraités fonct.publique (sf enseig.)	1519893	MDM	18/6/2017
+92	HAUTS DE SEINE 	13	13ème circonscription	DUMAS	Frédérique	18/5/1963	Mme	05	Industriels-Chefs entreprise	1509552	REM	18/6/2017
+93	SEINE SAINT-DENIS	01	1ère circonscription	COQUEREL	Eric	30/12/1958	M	05	Industriels-Chefs entreprise	1180678	FI	18/6/2017
+93	SEINE SAINT-DENIS	02	2ème circonscription	PEU	Stéphane	24/7/1962	M	52	Employés (autres entrep. publiques)	1158295	FI	18/6/2017
+93	SEINE SAINT-DENIS	03	3ème circonscription	ANATO	Patrice	14/3/1976	M	19	Autres cadres (secteur privé)	1519894	REM	18/6/2017
+93	SEINE SAINT-DENIS	04	4ème circonscription	BUFFET	Marie-George	7/5/1949	Mme	54	Permanents politiques	1128	COM	18/6/2017
+93	SEINE SAINT-DENIS	05	5ème circonscription	LAGARDE	Jean-Christophe	24/10/1967	M	56	Autres professions	1129	UDI	18/6/2017
+93	SEINE SAINT-DENIS	06	6ème circonscription	LACHAUD	Bastien	5/8/1980	M	42	Professeurs du secondaire et techn.	1519895	FI	18/6/2017
+93	SEINE SAINT-DENIS	07	7ème circonscription	CORBIERE	Alexis	17/8/1968	M	42	Professeurs du secondaire et techn.	352807	FI	18/6/2017
+93	SEINE SAINT-DENIS	08	8ème circonscription	CHARRIÈRE	Sylvie	15/5/1961	Mme	47	Fonctionnaires de catégorie A	1519896	REM	18/6/2017
+93	SEINE SAINT-DENIS	09	9ème circonscription	RUBIN	Sabine	13/8/1960	Mme	47	Fonctionnaires de catégorie A	1519897	FI	18/6/2017
+93	SEINE SAINT-DENIS	10	10ème circonscription	RAMADIER	Alain	8/7/1958	M	19	Autres cadres (secteur privé)	859997	LR	18/6/2017
+93	SEINE SAINT-DENIS	11	11ème circonscription	AUTAIN	Clémentine	26/5/1973	Mme	37	Journalistes et autres médias	336839	FI	18/6/2017
+93	SEINE SAINT-DENIS	12	12ème circonscription	TESTE	Stéphane	10/5/1968	M	43	Enseignants 1er deg.-directeurs école	467641	REM	18/6/2017
+94	VAL DE MARNE	01	1ère circonscription	DESCROZAILLE	Frédéric	16/4/1967	M	19	Autres cadres (secteur privé)	1519898	REM	18/6/2017
+94	VAL DE MARNE	02	2ème circonscription	MBAYE	Jean François	1/1/1979	M	51	Cadres (entreprises publiques)	1519899	REM	18/6/2017
+94	VAL DE MARNE	03	3ème circonscription	SAINT-MARTIN	Laurent	22/6/1985	M	18	Cadres supérieurs (secteur privé)	1519900	REM	18/6/2017
+94	VAL DE MARNE	04	4ème circonscription	PETIT	Maud	15/11/1971	Mme	20	Employés (secteur privé)	1497294	MDM	18/6/2017
+94	VAL DE MARNE	05	5ème circonscription	CARREZ	Gilles	29/8/1948	M	63	Retraités fonct.publique (sf enseig.)	1142	LR	18/6/2017
+94	VAL DE MARNE	06	6ème circonscription	GOUFFIER-CHA	Guillaume	1/2/1986	M	56	Autres professions	1517818	REM	18/6/2017
+94	VAL DE MARNE	07	7ème circonscription	BRIDEY	Jean-Jacques	7/5/1953	M	18	Cadres supérieurs (secteur privé)	1566	REM	18/6/2017
+94	VAL DE MARNE	08	8ème circonscription	HERBILLON	Michel	6/3/1951	M	56	Autres professions	1145	LR	18/6/2017
+94	VAL DE MARNE	09	9ème circonscription	CARVOUNAS	Luc	8/6/1971	M	57	Sans profession déclarée	1831	SOC	18/6/2017
+94	VAL DE MARNE	10	10ème circonscription	PANOT	Mathilde	15/1/1989	Mme	18	Cadres supérieurs (secteur privé)	1519901	FI	18/6/2017
+94	VAL DE MARNE	11	11ème circonscription	GAILLOT	Albane	7/7/1971	Mme	19	Autres cadres (secteur privé)	1519902	REM	18/6/2017
+95	VAL D'OISE	01	1ère circonscription	MULLER-QUOY	Isabelle	8/11/1967	Mme	41	Professeurs de faculté	856395	REM	18/6/2017
+95	VAL D'OISE	02	2ème circonscription	VUILLETET	Guillaume	20/6/1967	M	18	Cadres supérieurs (secteur privé)	833904	REM	18/6/2017
+95	VAL D'OISE	03	3ème circonscription	RILHAC	Cecile	21/4/1974	Mme	44	Professions rattachées à enseignt.	1519903	REM	18/6/2017
+95	VAL D'OISE	04	4ème circonscription	MOUTCHOU	Naïma	4/11/1980	Mme	29	Avocats	1519904	REM	18/6/2017
+95	VAL D'OISE	05	5ème circonscription	LAZAAR	Fiona	19/9/1985	Mme	19	Autres cadres (secteur privé)	1519905	REM	18/6/2017
+95	VAL D'OISE	06	6ème circonscription	ELIMAS	Nathalie	5/6/1973	Mme	43	Enseignants 1er deg.-directeurs école	1498510	MDM	18/6/2017
+95	VAL D'OISE	07	7ème circonscription	DA SILVA	Dominique	30/6/1968	M	05	Industriels-Chefs entreprise	1161577	REM	18/6/2017
+95	VAL D'OISE	08	8ème circonscription	PUPPONI	François	31/7/1962	M	47	Fonctionnaires de catégorie A	162947	SOC	18/6/2017
+95	VAL D'OISE	09	9ème circonscription	PARK	Zivka	22/1/1985	Mme	19	Autres cadres (secteur privé)	1519906	REM	18/6/2017
+95	VAL D'OISE	10	10ème circonscription	TACHE	Aurelien	26/5/1984	M	47	Fonctionnaires de catégorie A	1519907	REM	18/6/2017
+ZA	GUADELOUPE	01	1ère circonscription	SERVA	Olivier	21/6/1974	M	34	Experts comptables	1198720	REM	18/6/2017
+ZA	GUADELOUPE	02	2ème circonscription	BENIN	Justine	12/3/1975	Mme	48	Fonctionnaires de catégorie B	870537	DVG	18/6/2017
+ZA	GUADELOUPE	03	3ème circonscription	MATHIASIN	Max	24/2/1956	M	52	Employés (autres entrep. publiques)	870404	DVG	18/6/2017
+ZA	GUADELOUPE	04	4ème circonscription	VAINQUEUR-CHRISTOPHE	Hélène	6/5/1956	Mme	28	Pharmaciens	1180598	SOC	18/6/2017
+ZB	MARTINIQUE	01	1ère circonscription	MANIN	Josette	16/3/1950	Mme	61	Retraités salariés privés	1519702	DVG	18/6/2017
+ZB	MARTINIQUE	02	2ème circonscription	AZEROT	Bruno Nestor	22/7/1961	M	09	Commercants	833628	DVG	18/6/2017
+ZB	MARTINIQUE	03	3ème circonscription	LETCHIMY	Serge	13/1/1953	M	63	Retraités fonct.publique (sf enseig.)	140651	DVG	18/6/2017
+ZB	MARTINIQUE	04	4ème circonscription	NILOR	Jean-Philippe	15/5/1965	M	57	Sans profession déclarée	571799	REG	18/6/2017
+ZC	GUYANE	01	1ère circonscription	SERVILLE	Gabriel	27/9/1959	M	44	Professions rattachées à enseignt.	871837	DVG	18/6/2017
+ZC	GUYANE	02	2ème circonscription	ADAM	Lénaïck	19/2/1992	M	50	Cadres sup. (entreprises publiques)	1509529	REM	18/6/2017
+ZD	LA REUNION	01	1ère circonscription	BAREIGTS	Ericka	16/4/1967	Mme	47	Fonctionnaires de catégorie A	1180638	SOC	18/6/2017
+ZD	LA REUNION	02	2ème circonscription	BELLO	Huguette	24/8/1950	Mme	62	Retraités de l'enseignement	810	DVG	18/6/2017
+ZD	LA REUNION	03	3ème circonscription	BASSIRE	Nathalie	22/1/1968	Mme	62	Retraités de l'enseignement	1509536	LR	18/6/2017
+ZD	LA REUNION	04	4ème circonscription	LORION	David	15/10/1964	M	41	Professeurs de faculté	872544	LR	18/6/2017
+ZD	LA REUNION	05	5ème circonscription	RATENON	Jean-Hugues	25/6/1967	M	56	Autres professions	871964	DVG	18/6/2017
+ZD	LA REUNION	06	6ème circonscription	RAMASSAMY	Nadia	17/5/1961	Mme	24	Médecins	1180659	LR	18/6/2017
+ZD	LA REUNION	07	7ème circonscription	ROBERT	Thierry	1/4/1977	M	05	Industriels-Chefs entreprise	1192026	MDM	18/6/2017
+ZM	MAYOTTE	01	1ère circonscription	ALI	Ramlati	28/5/1961	Mme	24	Médecins	1152266	SOC	18/6/2017
+ZM	MAYOTTE	02	2ème circonscription	KAMARDINE	Mansour	23/3/1959	M	29	Avocats	798	LR	18/6/2017
+ZN	NOUVELLE CALEDONIE	01	1ère circonscription	DUNOYER	Philippe	11/1/1968	M	47	Fonctionnaires de catégorie A	1201896	DVD	18/6/2017
+ZN	NOUVELLE CALEDONIE	02	2ème circonscription	GOMES	Philippe	27/10/1958	M	54	Permanents politiques	1192028	UDI	18/6/2017
+ZP	POLYNESIE FRANCAISE	01	1ère circonscription	SAGE	Maina	10/5/1975	Mme	56	Autres professions	1511210	UDI	18/6/2017
+ZP	POLYNESIE FRANCAISE	02	2ème circonscription	SANQUER	Nicole	16/6/1972	Mme	42	Professeurs du secondaire et techn.	1202443	DVD	18/6/2017
+ZP	POLYNESIE FRANCAISE	03	3ème circonscription	BROTHERSON	Moetai Charles	22/10/1969	M	20	Employés (secteur privé)	1202251	REG	18/6/2017
+ZS	SAINT PIERRE ET MIQUELON	01	Saint-Pierre-et-Miquelon	GIRARDIN	Annick	3/8/1964	Mme	47	Fonctionnaires de catégorie A	1154458	RDG	18/6/2017
+ZW	WALLIS ET FUTUNA	01	1ère circonscription	POLUTELE	Napole	25/6/1964	M	42	Professeurs du secondaire et techn.	1519520	DVG	11/6/2017
+ZX	SAINT-MARTIN/SAINT-BARTHELEMY	01	1ère circonscription	JAVOIS	Claire	6/9/1957	Mme	18	Cadres supérieurs (secteur privé)	1519705	LR	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	01	1ère circonscription	LESCURE	Roland	26/11/1966	M	18	Cadres supérieurs (secteur privé)	1519706	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	02	2ème circonscription	FORTEZA	Paula	8/8/1986	Mme	18	Cadres supérieurs (secteur privé)	1519707	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	03	3ème circonscription	HOLROYD	Alexandre	17/5/1987	M	57	Sans profession déclarée	1519708	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	04	4ème circonscription	ANGLADE	Pieyre-Alexandre	2/11/1986	M	56	Autres professions	1519709	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	05	5ème circonscription	CAZEBONNE	Samantha	10/8/1971	Mme	44	Professions rattachées à enseignt.	1519710	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	06	6ème circonscription	SON-FORGET	Joachim	15/4/1983	M	24	Médecins	1519711	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	07	7ème circonscription	PETIT	Frédéric	10/2/1961	M	13	Ingénieurs	1519712	MDM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	08	8ème circonscription	HABIB	Meyer	28/4/1961	M	05	Industriels-Chefs entreprise	1195859	UDI	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	09	9ème circonscription	EL GUERRAB	M'Jid	25/4/1983	M	19	Autres cadres (secteur privé)	1519713	DIV	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	10	10ème circonscription	LAKRAFI	Amal Amélia	20/3/1978	Mme	05	Industriels-Chefs entreprise	1519714	REM	18/6/2017
+ZZ	FRANCAIS DE L'ETRANGER	11	11ème circonscription	GENETET	Anne	20/4/1963	Mme	24	Médecins	1519715	REM	18/6/2017

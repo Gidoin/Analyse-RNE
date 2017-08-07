@@ -1,0 +1,880 @@
+Titre du rapport
+Code du département	Libellé du département	Nom de l'élu	Prénom de l'élu	Date de naissance	Code sexe	Code profession	Libellé de la profession	Date de début du mandat	Date de fin du mandat	Motif de fin de mandat	N° Identification d'un élu	Nuance politique (Sénateur)
+01	AIN	BERTHOU	Jacques	3/3/1940	M	64	Retraités des entreprises publiques	21/9/2008	30/9/2014	FM	106690	DVG
+01	AIN	CHAIZE	Patrick	22/3/1963	M	56	Autres professions	28/9/2014	30/9/2014	FM	876374	UMP
+01	AIN	CHAIZE	Patrick	22/3/1963	M	56	Autres professions	1/10/2014			876374	UMP
+01	AIN	EMIN	Jean-Paul	17/6/1939	M	56	Autres professions	28/9/1998	20/9/2008	FM	173	UMP
+01	AIN	GOY-CHAVENT	Sylvie	23/5/1963	F	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	1174432	UMP
+01	AIN	GOY-CHAVENT	Sylvie	23/5/1963	F	42	Professeurs du secondaire et techn.	1/10/2014			1174432	UDI
+01	AIN	MAZUIR	Rachel	12/2/1940	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	534594	SOC
+01	AIN	MAZUIR	Rachel	12/2/1940	M	62	Retraités de l'enseignement	1/10/2014			534594	SOC
+01	AIN	PEPIN	Jean	23/11/1939	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	166	UMP
+02	AISNE	ANDRE	Pierre	29/6/1947	M	50	Cadres sup. (entreprises publiques)	28/9/1998	20/9/2008	FM	167	UMP
+02	AISNE	ANDRE	Pierre	29/6/1947	M	50	Cadres sup. (entreprises publiques)	21/9/2008	30/9/2014	FM	167	UMP
+02	AISNE	DAUDIGNY	Yves	23/2/1947	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	3414	SOC
+02	AISNE	DAUDIGNY	Yves	23/2/1947	M	62	Retraités de l'enseignement	1/10/2014			3414	SOC
+02	AISNE	GIROD	Paul	27/6/1931	M	58	Retraités agricoles	28/9/1998	20/9/2008	FM	168	UMP
+02	AISNE	GRUNY	Pascale	18/2/1960	F	19	Autres cadres (secteur privé)	1/10/2014			801251	UMP
+02	AISNE	LEFEVRE	Antoine	18/2/1966	M	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	81773	UMP
+02	AISNE	LEFEVRE	Antoine	18/2/1966	M	57	Sans profession déclarée	1/10/2014			81773	UMP
+03	ALLIER	BARRAUX	Bernard	5/2/1935	M	65	Autres retraités	28/9/1998	20/9/2008	FM	170	UMP
+03	ALLIER	DERIOT	Gérard	1/11/1944	M	60	Retraités des professions libérales	28/9/1998	20/9/2008	FM	171	UMP
+03	ALLIER	DERIOT	Gérard	1/11/1944	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	171	UMP
+03	ALLIER	DERIOT	Gérard	1/11/1944	M	60	Retraités des professions libérales	1/10/2014			171	UMP
+03	ALLIER	MALHURET	Claude	8/3/1950	M	24	Médecins	1/10/2014			150149	UMP
+03	ALLIER	SCHURCH	Mireille	4/1/1949	F	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	150307	COM
+04	ALPES DE HAUTE PROVENCE	DOMEIZEL	Claude	16/5/1940	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	172	SOC
+04	ALPES DE HAUTE PROVENCE	DOMEIZEL	Claude	16/5/1940	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	172	SOC
+04	ALPES DE HAUTE PROVENCE	ROUX	Jean-Yves	18/1/1970	M	14	Agents technique et techniciens	1/10/2014			521	SOC
+05	HAUTES ALPES	BERNARD-REYMOND	Pierre	16/1/1944	M	18	Cadres supérieurs (secteur privé)	25/1/2007	20/9/2008	FM	94535	UMP
+05	HAUTES ALPES	BERNARD-REYMOND	Pierre	16/1/1944	M	18	Cadres supérieurs (secteur privé)	21/9/2008	30/9/2014	FM	94535	DVD
+05	HAUTES ALPES	DUSSERRE	Jean-Yves	1/1/1953	M	54	Permanents politiques	1/10/2014	28/12/2014	DC	150066	UMP
+05	HAUTES ALPES	MORHET-RICHAUD	Patricia	28/7/1961	F	20	Employés (secteur privé)	28/12/2014			275871	UMP
+06	ALPES MARITIMES	BALARELLO	José	24/12/1926	M	29	Avocats	28/9/1998	20/9/2008	FM	175	UMP
+06	ALPES MARITIMES	DAUNIS	Marc	22/4/1955	M	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	97987	SOC
+06	ALPES MARITIMES	DAUNIS	Marc	22/4/1955	M	42	Professeurs du secondaire et techn.	1/10/2014			97987	SOC
+06	ALPES MARITIMES	ESTROSI-SASSONE	Dominique	14/11/1958	F	57	Sans profession déclarée	1/10/2014			1181113	UMP
+06	ALPES MARITIMES	GINESY	Charles	12/5/1922	M	65	Autres retraités	28/9/1998	20/9/2008	FM	176	UMP
+06	ALPES MARITIMES	GIUDICELLI	Colette	24/11/1943	F	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	46466	UMP
+06	ALPES MARITIMES	GIUDICELLI	Colette	24/11/1943	F	57	Sans profession déclarée	1/10/2014			46466	UMP
+06	ALPES MARITIMES	LAFFITTE	Pierre	1/1/1925	M	65	Autres retraités	28/9/1998	20/9/2008	FM	177	DVD
+06	ALPES MARITIMES	LELEUX	Jean-Pierre	8/5/1947	M	13	Ingénieurs	21/9/2008	30/9/2014	FM	149878	UMP
+06	ALPES MARITIMES	LELEUX	Jean-Pierre	8/5/1947	M	13	Ingénieurs	1/10/2014			149878	UMP
+06	ALPES MARITIMES	MASSON-MARET	Hélène	4/4/1947	F	44	Professions rattachées à enseignt.	5/2/2013	30/9/2014	FM	821091	UMP
+06	ALPES MARITIMES	NEGRE	Louis	8/2/1947	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	51706	UMP
+06	ALPES MARITIMES	NEGRE	Louis	8/2/1947	M	62	Retraités de l'enseignement	1/10/2014			51706	UMP
+06	ALPES MARITIMES	VESTRI	René	25/10/1938	M	59	Retr.artis.commerc.chefs d'entrep.	21/9/2008	6/2/2013	DC	53464	UMP
+07	ARDECHE	CHASTAN	Yves	20/4/1948	M	65	Autres retraités	21/9/2008	30/9/2014	FM	3736	SOC
+07	ARDECHE	DARNAUD	Mathieu	11/7/1975	M	57	Sans profession déclarée	1/10/2014			180033	UMP
+07	ARDECHE	GENEST	Jacques	6/8/1950	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			3728	UMP
+07	ARDECHE	TESTON	Michel	20/7/1944	M	18	Cadres supérieurs (secteur privé)	28/9/1998	20/9/2008	FM	179	SOC
+07	ARDECHE	TESTON	Michel	20/7/1944	M	18	Cadres supérieurs (secteur privé)	21/9/2008	30/9/2014	FM	179	SOC
+07	ARDECHE	TORRE	Henri	12/4/1933	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	180	UMP
+08	ARDENNES	HURE	Benoît	5/6/1953	M	01	Agriculteurs propriétaires exploit.	19/10/2004	20/9/2008	FM	31291	UMP
+08	ARDENNES	HURE	Benoît	5/6/1953	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	31291	UMP
+08	ARDENNES	HURE	Benoît	5/6/1953	M	01	Agriculteurs propriétaires exploit.	1/10/2014			31291	UMP
+08	ARDENNES	LAMENIE	Marc	11/7/1956	M	56	Autres professions	26/8/2007	20/9/2008	FM	31670	UMP
+08	ARDENNES	LAMENIE	Marc	11/7/1956	M	56	Autres professions	21/9/2008	30/9/2014	FM	31670	UMP
+08	ARDENNES	LAMENIE	Marc	11/7/1956	M	56	Autres professions	1/10/2014			31670	UMP
+09	ARIEGE	BEL	Jean-Pierre	30/12/1951	M	56	Autres professions	28/9/1998	20/9/2008	FM	183	SOC
+09	ARIEGE	BEL	Jean-Pierre	30/12/1951	M	56	Autres professions	21/9/2008	30/9/2014	FM	183	SOC
+09	ARIEGE	DURAN	Alain	2/1/1958	M	43	Enseignants 1er deg.-directeurs école	1/10/2014			90795	SOC
+10	AUBE	ADNOT	Philippe	25/8/1945	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	184	DVD
+10	AUBE	ADNOT	Philippe	25/8/1945	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	184	DVD
+10	AUBE	ADNOT	Philippe	25/8/1945	M	01	Agriculteurs propriétaires exploit.	1/10/2014			184	DVD
+10	AUBE	BAROIN	François	21/6/1965	M	29	Avocats	1/10/2014			751	UMP
+10	AUBE	GAILLARD	Yann	9/10/1936	M	63	Retraités fonct.publique (sf enseig.)	28/9/1998	20/9/2008	FM	185	UMP
+10	AUBE	GAILLARD	Yann	9/10/1936	M	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	185	UMP
+11	AUDE	COURTEAU	Roland	24/2/1943	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	187	SOC
+11	AUDE	COURTEAU	Roland	24/2/1943	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	187	SOC
+11	AUDE	COURTEAU	Roland	24/2/1943	M	62	Retraités de l'enseignement	1/10/2014			187	SOC
+11	AUDE	JOURDA	Gisèle	24/3/1955	F	47	Fonctionnaires de catégorie A	1/10/2014			639109	SOC
+11	AUDE	RAINAUD	Marcel	1/4/1940	M	62	Retraités de l'enseignement	5/9/2006	20/9/2008	FM	4994	SOC
+11	AUDE	RAINAUD	Marcel	1/4/1940	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	4994	SOC
+12	AVEYRON	ESCOFFIER	Anne-Marie	15/8/1942	F	63	Retraités fonct.publique (sf enseig.)	21/9/2008	22/7/2012	AU	869934	DVG
+12	AVEYRON	ESCOFFIER	Anne-Marie	15/8/1942	F	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	869934	DVG
+12	AVEYRON	FAUCONNIER	Alain	20/2/1945	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	12995	SOC
+12	AVEYRON	LUCHE	Jean-Claude	7/8/1952	M	19	Autres cadres (secteur privé)	1/10/2014			25007	UDI
+12	AVEYRON	MARC	Alain	29/1/1957	M	62	Retraités de l'enseignement	1/10/2014			25093	UMP
+12	AVEYRON	MAZARS	Stéphane	25/3/1969	M	29	Avocats	21/9/2008	4/5/2014	AU	902109	DVG
+12	AVEYRON	PUECH	Jean	22/2/1942	M	42	Professeurs du secondaire et techn.	28/9/1998	20/9/2008	FM	188	UMP
+12	AVEYRON	SEILLIER	Bernard	12/7/1941	M	46	Grands corps de l'état	28/9/1998	20/9/2008	FM	189	DVD
+13	BOUCHES DU RHONE	AMIEL	Michel	3/7/1954	M	24	Médecins	1/10/2014			1414	DVG
+13	BOUCHES DU RHONE	ANDREONI	Serge	15/3/1940	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	3213	DVG
+13	BOUCHES DU RHONE	BRET	Robert	10/4/1949	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	191	COM
+13	BOUCHES DU RHONE	GAUDIN	Jean-Claude	8/10/1939	M	62	Retraités de l'enseignement	27/9/1998	20/9/2008	FM	192	UMP
+13	BOUCHES DU RHONE	GAUDIN	Jean-Claude	8/10/1939	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	192	UMP
+13	BOUCHES DU RHONE	GAUDIN	Jean-Claude	8/10/1939	M	62	Retraités de l'enseignement	1/10/2014			192	UMP
+13	BOUCHES DU RHONE	GHALI	Samia	10/6/1968	F	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	335549	SOC
+13	BOUCHES DU RHONE	GHALI	Samia	10/6/1968	F	63	Retraités fonct.publique (sf enseig.)	1/10/2014			335549	SOC
+13	BOUCHES DU RHONE	GILLES	Bruno	26/12/1960	M	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	738	UMP
+13	BOUCHES DU RHONE	GILLES	Bruno	26/12/1960	M	57	Sans profession déclarée	1/10/2014			738	UMP
+13	BOUCHES DU RHONE	GIRAUD	Francis	4/7/1932	M	62	Retraités de l'enseignement	27/9/1998	20/9/2008	FM	193	UMP
+13	BOUCHES DU RHONE	GUERINI	Jean-Noël	1/1/1951	M	56	Autres professions	27/9/1998	20/9/2008	FM	194	SOC
+13	BOUCHES DU RHONE	GUERINI	Jean-Noël	1/1/1951	M	56	Autres professions	21/9/2008	30/9/2014	FM	194	SOC
+13	BOUCHES DU RHONE	GUERINI	Jean-Noël	1/1/1951	M	56	Autres professions	1/10/2014			194	DVG
+13	BOUCHES DU RHONE	JOISSAINS	Sophie	25/10/1969	F	18	Cadres supérieurs (secteur privé)	21/9/2008	30/9/2014	FM	904327	UMP
+13	BOUCHES DU RHONE	JOISSAINS	Sophie	25/10/1969	F	18	Cadres supérieurs (secteur privé)	1/10/2014			904327	UDI
+13	BOUCHES DU RHONE	JOUVE	Mireille	30/12/1960	F	43	Enseignants 1er deg.-directeurs école	1/10/2014			339508	DIV
+13	BOUCHES DU RHONE	PASQUET	Isabelle	8/3/1962	F	51	Cadres (entreprises publiques)	21/9/2008	30/9/2014	FM	905191	COM
+13	BOUCHES DU RHONE	PICHERAL	Jean-François	26/2/1934	M	24	Médecins	27/9/1998	20/9/2008	FM	195	SOC
+13	BOUCHES DU RHONE	POVINELLI	Roland	9/8/1941	M	18	Cadres supérieurs (secteur privé)	21/9/2008	30/9/2014	FM	1681	SOC
+13	BOUCHES DU RHONE	RAVIER	Stéphane	4/8/1969	M	52	Employés (autres entrep. publiques)	1/10/2014			904523	FN
+13	BOUCHES DU RHONE	SIFFRE	Jacques	4/4/1937	M	24	Médecins	24/12/2004	20/9/2008	FM	838448	SOC
+13	BOUCHES DU RHONE	VALLET	André	29/1/1935	M	65	Autres retraités	27/9/1998	20/9/2008	FM	196	UDF
+14	CALVADOS	ALLIZARD	Pascal	19/12/1962	M	51	Cadres (entreprises publiques)	1/10/2014			8604	UMP
+14	CALVADOS	AUBEY	François	20/9/1960	M	47	Fonctionnaires de catégorie A	1/10/2014	11/6/2015	DO	8888	SOC
+14	CALVADOS	DUPONT	Ambroise	11/5/1937	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	197	UMP
+14	CALVADOS	DUPONT	Ambroise	11/5/1937	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	197	UMP
+14	CALVADOS	DUPONT	Jean-Léonce	31/1/1955	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	198	UDF
+14	CALVADOS	DUPONT	Jean-Léonce	31/1/1955	M	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	198	MAJ
+14	CALVADOS	DUPONT	Jean-Léonce	31/1/1955	M	57	Sans profession déclarée	1/10/2014			198	UDI
+14	CALVADOS	FERET	Corinne	17/9/1961	F	48	Fonctionnaires de catégorie B	11/6/2015			831411	SOC
+14	CALVADOS	GARREC	René	24/12/1934	M	46	Grands corps de l'état	28/9/1998	20/9/2008	FM	199	UMP
+14	CALVADOS	GARREC	René	24/12/1934	M	46	Grands corps de l'état	21/9/2008	30/9/2014	FM	199	UMP
+15	CANTAL	BESSE	Roger	18/8/1929	M	65	Autres retraités	28/9/1998	20/9/2008	FM	200	UMP
+15	CANTAL	COSTES	Josiane	23/8/1947	F	62	Retraités de l'enseignement	18/6/2017			911110	RDG
+15	CANTAL	DELCROS	Bernard	12/2/1953	M	42	Professeurs du secondaire et techn.	6/9/2015			44374	DVD
+15	CANTAL	JARLIER	Pierre	14/7/1954	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	201	UMP
+15	CANTAL	JARLIER	Pierre	14/7/1954	M	54	Permanents politiques	21/9/2008	30/9/2014	FM	201	UMP
+15	CANTAL	JARLIER	Pierre	14/7/1954	M	54	Permanents politiques	1/10/2014	11/6/2015	DO	201	UDI
+15	CANTAL	MEZARD	Jacques	3/12/1947	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	45206	RDG
+15	CANTAL	MEZARD	Jacques	3/12/1947	M	60	Retraités des professions libérales	1/10/2014	17/6/2017	AU	45206	RDG
+16	CHARENTE	ARNAUD	Philippe	1/2/1949	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	202	UDF
+16	CHARENTE	BONNEFOY	Nicole	11/8/1958	F	54	Permanents politiques	21/9/2008	30/9/2014	FM	26780	SOC
+16	CHARENTE	BONNEFOY	Nicole	11/8/1958	F	54	Permanents politiques	1/10/2014			26780	SOC
+16	CHARENTE	BOUTANT	Michel	23/11/1956	M	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	813300	SOC
+16	CHARENTE	BOUTANT	Michel	23/11/1956	M	42	Professeurs du secondaire et techn.	1/10/2014			813300	SOC
+16	CHARENTE	DE RICHEMONT	Henri	6/12/1946	M	29	Avocats	28/9/1998	20/9/2008	FM	203	UMP
+17	CHARENTE MARITIME	BELOT	Claude	11/7/1936	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	204	UMP
+17	CHARENTE MARITIME	BELOT	Claude	11/7/1936	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	204	UMP
+17	CHARENTE MARITIME	BRANGER	Jean-Guy	15/4/1935	M	65	Autres retraités	28/9/1998	20/9/2008	FM	205	UMP
+17	CHARENTE MARITIME	DOUBLET	Michel	26/9/1939	M	65	Autres retraités	28/9/1998	20/9/2008	FM	206	UMP
+17	CHARENTE MARITIME	DOUBLET	Michel	26/9/1939	M	65	Autres retraités	21/9/2008	24/4/2014	DV	206	UMP
+17	CHARENTE MARITIME	IMBERT	Corinne	20/11/1958	F	28	Pharmaciens	1/10/2014			634581	DVD
+17	CHARENTE MARITIME	LALANDE	Bernard	6/4/1954	M	34	Experts comptables	1/10/2014			1521	SOC
+17	CHARENTE MARITIME	LAURENT	Daniel	4/2/1949	M	05	Industriels-Chefs entreprise	21/9/2008	30/9/2014	FM	1598	UMP
+17	CHARENTE MARITIME	LAURENT	Daniel	4/2/1949	M	05	Industriels-Chefs entreprise	1/10/2014			1598	UMP
+18	CHER	PILLET	François	13/5/1950	M	60	Retraités des professions libérales	17/12/2007	20/9/2008	FM	91029	UMP
+18	CHER	PILLET	François	13/5/1950	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	91029	UMP
+18	CHER	PILLET	François	13/5/1950	M	60	Retraités des professions libérales	1/10/2014			91029	UMP
+18	CHER	POINTEREAU	Rémy	30/3/1953	M	01	Agriculteurs propriétaires exploit.	18/9/2005	20/9/2008	FM	5042	UMP
+18	CHER	POINTEREAU	Rémy	30/3/1953	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	5042	UMP
+18	CHER	POINTEREAU	Rémy	30/3/1953	M	01	Agriculteurs propriétaires exploit.	1/10/2014			5042	UMP
+19	CORREZE	BORDAS	Patricia	5/6/1956	F	49	Fonctionnaires de catégorie C	21/9/2008	30/9/2014	FM	769685	SOC
+19	CORREZE	BOURZAI	Bernadette	28/5/1945	F	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	1174433	SOC
+19	CORREZE	CHASSEING	Daniel	10/4/1945	M	24	Médecins	1/10/2014			74043	UMP
+19	CORREZE	MOULY	Georges	21/2/1931	M	65	Autres retraités	27/9/1998	20/9/2008	FM	209	UMP
+19	CORREZE	MURAT	Bernard	19/2/1946	M	18	Cadres supérieurs (secteur privé)	28/9/1998	20/9/2008	FM	210	UMP
+19	CORREZE	NOUGEIN	Claude	4/12/1946	M	05	Industriels-Chefs entreprise	1/10/2014			82874	UMP
+19	CORREZE	TEULADE	René	17/6/1931	M	62	Retraités de l'enseignement	21/9/2008	13/2/2014	DC	145869	SOC
+21	COTE D'OR	DE BROISSIA	Louis	1/6/1943	M	65	Autres retraités	27/9/1998	20/9/2008	FM	211	UMP
+21	COTE D'OR	GRILLOT	Louis	18/4/1932	M	06	Administrateurs de sociétés	27/9/1998	20/9/2008	FM	212	UMP
+21	COTE D'OR	HOUPERT	Alain	13/8/1957	M	24	Médecins	21/9/2008	30/9/2014	FM	462	UMP
+21	COTE D'OR	HOUPERT	Alain	13/8/1957	M	24	Médecins	1/10/2014			462	UMP
+21	COTE D'OR	LAJOUX	Isabelle	20/5/1960	F	20	Employés (secteur privé)	3/5/2014	30/9/2014	FM	144698	SOC
+21	COTE D'OR	LOISIER	Anne-Catherine	13/3/1969	F	19	Autres cadres (secteur privé)	1/10/2014			431	UMP
+21	COTE D'OR	PATRIAT	François	21/3/1943	M	27	Vétérinaires	21/9/2008	30/9/2014	FM	455	SOC
+21	COTE D'OR	PATRIAT	François	21/3/1943	M	27	Vétérinaires	1/10/2014			455	SOC
+21	COTE D'OR	REBSAMEN	François	25/6/1951	M	46	Grands corps de l'état	21/9/2008	2/4/2014	AU	461	SOC
+21	COTE D'OR	REVOL	Henri	14/2/1936	M	65	Autres retraités	28/9/1998	20/9/2008	FM	213	UMP
+22	COTES D'ARMOR	BOTREL	Yannick	9/12/1951	M	56	Autres professions	21/9/2008	30/9/2014	FM	44391	SOC
+22	COTES D'ARMOR	BOTREL	Yannick	9/12/1951	M	56	Autres professions	1/10/2014			44391	SOC
+22	COTES D'ARMOR	CHEVE	Jacqueline	21/8/1961	F	47	Fonctionnaires de catégorie A	21/9/2008	15/3/2010	DC	177939	SOC
+22	COTES D'ARMOR	JOSSELIN	Charles	31/3/1938	M	56	Autres professions	24/9/2006	20/9/2008	FM	53761	SOC
+22	COTES D'ARMOR	KERDRAON	Ronan	16/7/1962	M	42	Professeurs du secondaire et techn.	16/3/2010	30/9/2014	FM	741918	SOC
+22	COTES D'ARMOR	LE CAM	Gérard	24/2/1954	M	42	Professeurs du secondaire et techn.	28/9/1998	20/9/2008	FM	214	COM
+22	COTES D'ARMOR	LE CAM	Gérard	24/2/1954	M	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	214	COM
+22	COTES D'ARMOR	PRUNAUD	Christine	4/9/1950	F	20	Employés (secteur privé)	1/10/2014			177678	COM
+22	COTES D'ARMOR	SAUNIER	Claude	26/2/1943	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	215	SOC
+22	COTES D'ARMOR	VASPART	Michel	22/2/1948	M	05	Industriels-Chefs entreprise	1/10/2014			46450	UMP
+23	CREUSE	JEANSANNETAS	Eric	21/10/1962	M	43	Enseignants 1er deg.-directeurs école	1/10/2014			774107	SOC
+23	CREUSE	LOZACH	Jean-Jacques	8/2/1954	M	42	Professeurs du secondaire et techn.	21/9/2008	30/9/2014	FM	774109	SOC
+23	CREUSE	LOZACH	Jean-Jacques	8/2/1954	M	42	Professeurs du secondaire et techn.	1/10/2014			774109	SOC
+23	CREUSE	MOREIGNE	Michel	6/5/1934	M	24	Médecins	28/9/1998	20/9/2008	FM	218	SOC
+23	CREUSE	NICOUX	Renée	26/3/1951	F	62	Retraités de l'enseignement	10/9/2009	30/9/2014	FM	832676	SOC
+24	DORDOGNE	BERIT-DEBAT	Claude	19/2/1946	M	61	Retraités salariés privés	21/9/2008	30/9/2014	FM	143907	SOC
+24	DORDOGNE	BERIT-DEBAT	Claude	19/2/1946	M	61	Retraités salariés privés	1/10/2014			143907	SOC
+24	DORDOGNE	CAZEAU	Bernard	27/4/1939	M	60	Retraités des professions libérales	27/9/1998	20/9/2008	FM	219	SOC
+24	DORDOGNE	CAZEAU	Bernard	27/4/1939	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	219	SOC
+24	DORDOGNE	CAZEAU	Bernard	27/4/1939	M	60	Retraités des professions libérales	1/10/2014			219	SOC
+24	DORDOGNE	MORTEMOUSQUE	Dominique	2/6/1950	M	58	Retraités agricoles	8/6/2002	20/9/2008	FM	220	UMP
+25	DOUBS	BOURQUIN	Martial	23/7/1952	M	20	Employés (secteur privé)	21/9/2008	30/9/2014	FM	45280	SOC
+25	DOUBS	BOURQUIN	Martial	23/7/1952	M	20	Employés (secteur privé)	1/10/2014			45280	SOC
+25	DOUBS	GROSPERRIN	Jacques	17/10/1955	M	41	Professeurs de faculté	1/10/2014			44530	UMP
+25	DOUBS	GRUILLOT	Georges	14/8/1931	M	65	Autres retraités	28/9/1998	20/9/2008	FM	221	UMP
+25	DOUBS	HUMBERT	Jean-François	17/10/1952	M	56	Autres professions	28/9/1998	20/9/2008	FM	222	UMP
+25	DOUBS	HUMBERT	Jean-François	17/10/1952	M	56	Autres professions	21/9/2008	30/9/2014	FM	222	UMP
+25	DOUBS	JEANNEROT	Claude	10/4/1945	M	64	Retraités des entreprises publiques	21/9/2008	30/9/2014	FM	44548	SOC
+25	DOUBS	LONGEOT	Jean-François	27/12/1956	M	47	Fonctionnaires de catégorie A	1/10/2014			44145	DVD
+25	DOUBS	SOUVET	Louis	19/10/1931	M	65	Autres retraités	28/9/1998	20/9/2008	FM	223	UMP
+26	DROME	BESSON	Jean	1/7/1948	M	64	Retraités des entreprises publiques	28/9/1998	20/9/2008	FM	224	SOC
+26	DROME	BESSON	Jean	1/7/1948	M	64	Retraités des entreprises publiques	21/9/2008	30/9/2014	FM	224	SOC
+26	DROME	BOUCHET	Gilbert	8/1/1947	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			142553	UMP
+26	DROME	GUILLAUME	Didier	11/5/1959	M	56	Autres professions	21/9/2008	30/9/2014	FM	142831	SOC
+26	DROME	GUILLAUME	Didier	11/5/1959	M	56	Autres professions	1/10/2014			142831	SOC
+26	DROME	MONIER	Marie-Pierre	28/2/1958	F	42	Professeurs du secondaire et techn.	1/10/2014			1277852	DVG
+26	DROME	PIRAS	Bernard	5/6/1942	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	225	SOC
+26	DROME	PIRAS	Bernard	5/6/1942	M	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	225	SOC
+27	EURE	BOURDIN	Joël	25/1/1938	M	41	Professeurs de faculté	28/9/1998	20/9/2008	FM	226	UMP
+27	EURE	BOURDIN	Joël	25/1/1938	M	41	Professeurs de faculté	21/9/2008	30/9/2014	FM	226	UMP
+27	EURE	DURANTON	Nicole	13/10/1958	F	57	Sans profession déclarée	1/10/2014			1279452	UMP
+27	EURE	MAUREY	Hervé	7/5/1961	M	54	Permanents politiques	21/9/2008	30/9/2014	FM	142481	MAJ
+27	EURE	MAUREY	Hervé	7/5/1961	M	54	Permanents politiques	1/10/2014			142481	UDI
+27	EURE	MIRAUX	Jean-Luc	17/4/1953	M	47	Fonctionnaires de catégorie A	28/9/1998	20/9/2008	FM	165	UMP
+27	EURE	PONIATOWSKI	Ladislas	10/11/1946	M	56	Autres professions	28/9/1998	20/9/2008	FM	154	UMP
+27	EURE	PONIATOWSKI	Ladislas	10/11/1946	M	56	Autres professions	21/9/2008	30/9/2014	FM	154	UMP
+27	EURE	PONIATOWSKI	Ladislas	10/11/1946	M	56	Autres professions	1/10/2014			154	UMP
+28	EURE ET LOIR	BILLARD	Joël	21/3/1953	M	65	Autres retraités	14/10/2001	20/9/2008	FM	155	UMP
+28	EURE ET LOIR	BILLARD	Joël	21/3/1953	M	65	Autres retraités	21/9/2008	30/9/2014	FM	155	UMP
+28	EURE ET LOIR	CORNU	Gérard	6/2/1952	M	60	Retraités des professions libérales	28/9/1998	20/9/2008	FM	156	UMP
+28	EURE ET LOIR	CORNU	Gérard	6/2/1952	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	156	UMP
+28	EURE ET LOIR	CORNU	Gérard	6/2/1952	M	60	Retraités des professions libérales	1/10/2014			156	UMP
+28	EURE ET LOIR	DE MONTGOLFIER	Albéric	6/7/1964	M	54	Permanents politiques	21/9/2008	30/9/2014	FM	343658	UMP
+28	EURE ET LOIR	DE MONTGOLFIER	Albéric	6/7/1964	M	54	Permanents politiques	1/10/2014			343658	UMP
+28	EURE ET LOIR	DESEYNE	Chantal	29/1/1957	F	44	Professions rattachées à enseignt.	1/10/2014			141550	UMP
+29	FINISTERE	BLONDIN	Maryvonne	20/1/1947	F	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	1455	SOC
+29	FINISTERE	BLONDIN	Maryvonne	20/1/1947	F	62	Retraités de l'enseignement	1/10/2014			1455	SOC
+29	FINISTERE	BOYER	Yolande	19/11/1950	F	42	Professeurs du secondaire et techn.	28/9/1998	20/9/2008	FM	157	SOC
+29	FINISTERE	CANEVET	Michel	14/12/1960	M	50	Cadres sup. (entreprises publiques)	1/10/2014			3146	UDI
+29	FINISTERE	FICHET	Jean-Luc	15/7/1953	M	56	Autres professions	21/9/2008	30/9/2014	FM	2158	SOC
+29	FINISTERE	LE PENSEC	Louis	8/1/1937	M	65	Autres retraités	28/9/1998	20/9/2008	FM	159	SOC
+29	FINISTERE	MARC	François	19/3/1950	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	160	SOC
+29	FINISTERE	MARC	François	19/3/1950	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	160	SOC
+29	FINISTERE	MARC	François	19/3/1950	M	62	Retraités de l'enseignement	1/10/2014			160	SOC
+29	FINISTERE	PAUL	Philippe	25/1/1965	M	19	Autres cadres (secteur privé)	21/9/2008	30/9/2014	FM	2945	UMP
+29	FINISTERE	PAUL	Philippe	25/1/1965	M	19	Autres cadres (secteur privé)	1/10/2014			2945	UMP
+2A	CORSE SUD	ALFONSI	Nicolas	13/4/1936	M	29	Avocats	2/12/2001	20/9/2008	FM	161	PRG
+2A	CORSE SUD	ALFONSI	Nicolas	13/4/1936	M	29	Avocats	21/9/2008	30/9/2014	FM	161	RDG
+2A	CORSE SUD	PANUNZI	Jean-Jacques	5/4/1956	M	47	Fonctionnaires de catégorie A	1/10/2014			67137	UMP
+2B	HAUTE CORSE	CASTELLI	Joseph	4/6/1948	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			8944	DVG
+2B	HAUTE CORSE	VENDASI	François	24/6/1940	M	05	Industriels-Chefs entreprise	19/6/2005	20/9/2008	FM	7653	RDG
+2B	HAUTE CORSE	VENDASI	François	24/6/1940	M	05	Industriels-Chefs entreprise	21/9/2008	30/9/2014	FM	7653	RDG
+30	GARD	FOURNIER	Jean-Paul	16/10/1945	M	59	Retr.artis.commerc.chefs d'entrep.	21/9/2008	30/9/2014	FM	47662	UMP
+30	GARD	FOURNIER	Jean-Paul	16/10/1945	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			47662	UMP
+30	GARD	JOURNET	Alain	25/6/1941	M	39	Autres professions libérales	28/9/1998	20/9/2008	FM	163	SOC
+30	GARD	LAURENT-PERRIGOT	Françoise	27/2/1950	F	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	1174434	SOC
+30	GARD	LOPEZ	Vivette	27/12/1954	F	63	Retraités fonct.publique (sf enseig.)	1/10/2014			1163100	UMP
+30	GARD	ROUVIERE	André	22/4/1936	M	65	Autres retraités	28/9/1998	20/9/2008	FM	164	SOC
+30	GARD	SUTOUR	Simon	18/8/1952	M	63	Retraités fonct.publique (sf enseig.)	28/9/1998	20/9/2008	FM	153	SOC
+30	GARD	SUTOUR	Simon	18/8/1952	M	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	153	SOC
+30	GARD	SUTOUR	Simon	18/8/1952	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			153	SOC
+31	HAUTE GARONNE	AUBAN	Bertrand	18/1/1947	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	142	SOC
+31	HAUTE GARONNE	AUBAN	Bertrand	18/1/1947	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	142	SOC
+31	HAUTE GARONNE	BERGE LAVIGNE	Maryse	29/1/1941	F	43	Enseignants 1er deg.-directeurs école	28/9/1998	20/9/2008	FM	143	SOC
+31	HAUTE GARONNE	CHATILLON	Alain	15/3/1943	M	05	Industriels-Chefs entreprise	21/9/2008	30/9/2014	FM	82604	DVD
+31	HAUTE GARONNE	CHATILLON	Alain	15/3/1943	M	05	Industriels-Chefs entreprise	1/10/2014			82604	DVD
+31	HAUTE GARONNE	LABORDE	Françoise	8/7/1958	F	43	Enseignants 1er deg.-directeurs école	21/9/2008	30/9/2014	FM	695283	RDG
+31	HAUTE GARONNE	LABORDE	Françoise	8/7/1958	F	43	Enseignants 1er deg.-directeurs école	1/10/2014			695283	RDG
+31	HAUTE GARONNE	MEDEVIELLE	Pierre	17/4/1960	M	28	Pharmaciens	1/10/2014			42512	DVD
+31	HAUTE GARONNE	MICOULEAU	Brigitte	10/9/1951	F	19	Autres cadres (secteur privé)	1/10/2014			754435	UMP
+31	HAUTE GARONNE	MIRASSOU	Jean-Jacques	1/11/1952	M	26	Dentistes	21/9/2008	30/9/2014	FM	45675	SOC
+31	HAUTE GARONNE	PLANCADE	Jean-Pierre	2/8/1949	M	19	Autres cadres (secteur privé)	28/9/1998	20/9/2008	FM	144	SOC
+31	HAUTE GARONNE	PLANCADE	Jean-Pierre	2/8/1949	M	19	Autres cadres (secteur privé)	21/9/2008	30/9/2014	FM	144	DVG
+31	HAUTE GARONNE	RAYNAL	Claude	10/10/1957	M	45	Magistrats	1/10/2014			44499	SOC
+31	HAUTE GARONNE	ROUJAS	Gérard	8/9/1943	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	145	SOC
+32	GERS	DE MONTESQUIOU	Aymeri	7/7/1942	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	146	UDF
+32	GERS	DE MONTESQUIOU	Aymeri	7/7/1942	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	146	UMP
+32	GERS	DE MONTESQUIOU	Aymeri	7/7/1942	M	01	Agriculteurs propriétaires exploit.	1/10/2014	11/6/2015	DO	146	UDI
+32	GERS	MONTAUGE	Franck	14/9/1961	M	13	Ingénieurs	28/9/2014			696422	SOC
+32	GERS	RISPAT	Yves	17/9/1931	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	147	UMP
+32	GERS	VALL	Raymond	13/1/1942	M	61	Retraités salariés privés	21/9/2008	30/9/2014	FM	162461	RDG
+32	GERS	VALL	Raymond	13/1/1942	M	61	Retraités salariés privés	6/9/2015			162461	RDG
+33	GIRONDE	ANZIANI	Alain	30/5/1951	M	29	Avocats	21/9/2008	30/9/2014	FM	526755	SOC
+33	GIRONDE	ANZIANI	Alain	30/5/1951	M	29	Avocats	1/10/2014			526755	SOC
+33	GIRONDE	CARTRON	Françoise	27/3/1949	F	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	162109	SOC
+33	GIRONDE	CARTRON	Françoise	27/3/1949	F	62	Retraités de l'enseignement	1/10/2014			162109	SOC
+33	GIRONDE	CESAR	Gérard	19/12/1934	M	01	Agriculteurs propriétaires exploit.	28/9/1998	20/9/2008	FM	1174435	UMP
+33	GIRONDE	CESAR	Gérard	19/12/1934	M	01	Agriculteurs propriétaires exploit.	21/9/2008	30/9/2014	FM	1174435	DVD
+33	GIRONDE	CESAR	Gérard	19/12/1934	M	01	Agriculteurs propriétaires exploit.	1/10/2014			1174435	UMP
+33	GIRONDE	DES ESGAULX	Marie-Hélène	26/5/1950	F	29	Avocats	21/9/2008	30/9/2014	FM	647	UMP
+33	GIRONDE	DES ESGAULX	Marie-Hélène	26/5/1950	F	29	Avocats	1/10/2014			647	UMP
+33	GIRONDE	DUSSAUT	Bernard	14/11/1941	M	59	Retr.artis.commerc.chefs d'entrep.	28/9/1998	20/9/2008	FM	149	SOC
+33	GIRONDE	MADRELLE	Philippe	21/4/1937	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	150	SOC
+33	GIRONDE	MADRELLE	Philippe	21/4/1937	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	150	SOC
+33	GIRONDE	MADRELLE	Philippe	21/4/1937	M	62	Retraités de l'enseignement	1/10/2014			150	SOC
+33	GIRONDE	PINTAT	Xavier	15/3/1954	M	50	Cadres sup. (entreprises publiques)	28/9/1998	20/9/2008	FM	151	UMP
+33	GIRONDE	PINTAT	Xavier	15/3/1954	M	50	Cadres sup. (entreprises publiques)	21/9/2008	30/9/2014	FM	151	UMP
+33	GIRONDE	PINTAT	Xavier	15/3/1954	M	50	Cadres sup. (entreprises publiques)	1/10/2014			151	UMP
+33	GIRONDE	VALADE	Jacques	4/5/1930	M	41	Professeurs de faculté	28/9/1998	20/9/2008	FM	152	UMP
+34	HERAULT	BRUGUIERE	Marie-Thérèse	26/10/1942	F	63	Retraités fonct.publique (sf enseig.)	21/9/2008	30/9/2014	FM	863212	MAJ
+34	HERAULT	CABANEL	Henri	9/3/1959	M	01	Agriculteurs propriétaires exploit.	1/10/2014			47048	SOC
+34	HERAULT	COMMEINHES	François	10/11/1949	M	25	Chirurgiens	1/10/2014			89124	UMP
+34	HERAULT	COUDERC	Raymond	16/9/1946	M	62	Retraités de l'enseignement	26/8/2007	20/9/2008	FM	88135	UMP
+34	HERAULT	COUDERC	Raymond	16/9/1946	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	88135	UMP
+34	HERAULT	DELFAU	Gérard	21/10/1937	M	41	Professeurs de faculté	28/9/1998	20/9/2008	FM	141	PRG
+34	HERAULT	GRAND	Jean-Pierre	18/11/1950	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			641	DVD
+34	HERAULT	NAVARRO	Robert	1/5/1952	M	64	Retraités des entreprises publiques	21/9/2008	30/9/2014	FM	46275	SOC
+34	HERAULT	NAVARRO	Robert	1/5/1952	M	64	Retraités des entreprises publiques	1/10/2014			46275	DVG
+34	HERAULT	TROPEANO	Robert	20/4/1939	M	47	Fonctionnaires de catégorie A	8/7/2006	20/9/2008	FM	47014	SOC
+34	HERAULT	TROPEANO	Robert	20/4/1939	M	47	Fonctionnaires de catégorie A	21/9/2008	30/9/2014	FM	47014	DVG
+35	ILLE ET VILAINE	DE LEGGE	Dominique	18/2/1952	M	65	Autres retraités	21/9/2008	30/9/2014	FM	161107	UMP
+35	ILLE ET VILAINE	DE LEGGE	Dominique	18/2/1952	M	65	Autres retraités	1/10/2014			161107	UMP
+35	ILLE ET VILAINE	ESNEU	Michel	18/7/1943	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	129	UMP
+35	ILLE ET VILAINE	FREVILLE	Yves	1/12/1934	M	41	Professeurs de faculté	28/9/1998	20/9/2008	FM	130	UMP
+35	ILLE ET VILAINE	GATEL	Françoise	14/3/1953	F	64	Retraités des entreprises publiques	1/10/2014			161241	UDI
+35	ILLE ET VILAINE	HERVE	Edmond	3/12/1942	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	1174437	SOC
+35	ILLE ET VILAINE	KLES	Virginie	18/8/1961	F	27	Vétérinaires	21/9/2008	30/9/2014	FM	161240	DVG
+35	ILLE ET VILAINE	LE MENN	Jacky	10/3/1941	M	50	Cadres sup. (entreprises publiques)	21/9/2008	30/9/2014	FM	558501	SOC
+35	ILLE ET VILAINE	NOGRIX	Philippe	3/6/1942	M	18	Cadres supérieurs (secteur privé)	28/9/1998	20/9/2008	FM	132	UDF
+35	ILLE ET VILAINE	ROBERT	Sylvie	28/8/1963	F	18	Cadres supérieurs (secteur privé)	1/10/2014			641795	SOC
+35	ILLE ET VILAINE	TEXIER	Yannick	20/5/1948	M	39	Autres professions libérales	28/9/1998	20/9/2008	FM	160992	UMP
+35	ILLE ET VILAINE	TOURENNE	Jean-Louis	25/8/1944	M	62	Retraités de l'enseignement	1/10/2014			161153	SOC
+36	INDRE	GERBAUD	François	10/4/1927	M	37	Journalistes et autres médias	28/9/1998	20/9/2008	FM	134	UMP
+36	INDRE	GERBAUD	Frédérique	3/7/1959	F	50	Cadres sup. (entreprises publiques)	28/9/2014			980305	UMP
+36	INDRE	MAYET	Jean-François	30/1/1940	M	59	Retr.artis.commerc.chefs d'entrep.	21/9/2008	30/9/2014	FM	43560	UMP
+36	INDRE	MAYET	Jean-François	30/1/1940	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			43560	UMP
+36	INDRE	PINTON	Louis	24/10/1948	M	60	Retraités des professions libérales	22/11/2007	20/9/2008	FM	39568	UMP
+36	INDRE	PINTON	Louis	24/10/1948	M	60	Retraités des professions libérales	21/9/2008	30/9/2014	FM	39568	UMP
+36	INDRE	PINTON	Louis	24/10/1948	M	60	Retraités des professions libérales	1/10/2014	17/11/2016	DC	39568	UMP
+37	INDRE ET LOIRE 	BEAUFILS	Marie-France	22/11/1946	F	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	135	COM
+37	INDRE ET LOIRE 	BEAUFILS	Marie-France	22/11/1946	F	62	Retraités de l'enseignement	25/9/2011			135	COM
+37	INDRE ET LOIRE 	DAUGE	Yves	26/1/1935	M	63	Retraités fonct.publique (sf enseig.)	28/9/2001	24/9/2011	FM	136	SOC
+37	INDRE ET LOIRE 	FILLEUL	Jean-Jacques	22/6/1943	M	62	Retraités de l'enseignement	25/9/2011			160604	SOC
+37	INDRE ET LOIRE 	GERMAIN	Jean	11/9/1947	M	62	Retraités de l'enseignement	25/9/2011	7/4/2015	DC	160515	SOC
+37	INDRE ET LOIRE 	LECLERC	Dominique	17/3/1944	M	28	Pharmaciens	28/9/2001	24/9/2011	FM	137	UMP
+37	INDRE ET LOIRE 	RIOCREUX	Stéphanie	20/5/1966	F	57	Sans profession déclarée	25/9/2011			98533	SOC
+38	ISERE	CHIRON	Jacques	3/10/1949	M	56	Autres professions	25/9/2011			23100	SOC
+38	ISERE	DAVID	Annie	17/1/1963	F	56	Autres professions	28/9/2001	24/9/2011	FM	138	COM
+38	ISERE	DAVID	Annie	17/1/1963	F	56	Autres professions	25/9/2011			138	COM
+38	ISERE	FAURE	Jean	14/1/1937	M	57	Sans profession déclarée	28/9/2001	24/9/2011	FM	139	UMP
+38	ISERE	GIRAUD	Eliane	12/3/1952	F	47	Fonctionnaires de catégorie A	10/5/2014	17/6/2017	AU	24054	SOC
+38	ISERE	MERMAZ	Louis	20/8/1931	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	140	SOC
+38	ISERE	SAUGEY	Bernard	3/3/1943	M	61	Retraités salariés privés	28/9/2001	24/9/2011	FM	126	UMP
+38	ISERE	SAUGEY	Bernard	3/3/1943	M	61	Retraités salariés privés	25/9/2011			126	UMP
+38	ISERE	SAVIN	Michel	25/11/1958	M	49	Fonctionnaires de catégorie C	25/9/2011			28123	UMP
+38	ISERE	VALLINI	André	15/7/1956	M	29	Avocats	25/9/2011	10/5/2014	AU	623	SOC
+38	ISERE	VALLINI	André	15/7/1956	M	29	Avocats	18/6/2017			623	SOC
+39	JURA	BAILLY	Gérard	28/1/1940	M	58	Retraités agricoles	28/9/2001	24/9/2011	FM	111	UMP
+39	JURA	BAILLY	Gérard	28/1/1940	M	58	Retraités agricoles	25/9/2011			111	UMP
+39	JURA	BARBIER	Gilbert	3/3/1940	M	63	Retraités fonct.publique (sf enseig.)	28/9/2001	24/9/2011	FM	112	UMP
+39	JURA	BARBIER	Gilbert	3/3/1940	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011			112	UMP
+40	LANDES	CARRERE	Jean-Louis	4/12/1944	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	113	SOC
+40	LANDES	CARRERE	Jean-Louis	4/12/1944	M	62	Retraités de l'enseignement	25/9/2011			113	SOC
+40	LANDES	LABEYRIE	Philippe	29/4/1938	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	114	SOC
+40	LANDES	MICHEL	Danielle	3/4/1947	F	65	Autres retraités	25/9/2011			159210	SOC
+41	LOIR ET CHER	FAUCHON	Pierre	13/7/1929	M	65	Autres retraités	28/9/2001	22/1/2011	AU	115	MAJ
+41	LOIR ET CHER	GOURAULT	Jacqueline	20/11/1950	F	42	Professeurs du secondaire et techn.	28/9/2001	24/9/2011	FM	116	UDF
+41	LOIR ET CHER	GOURAULT	Jacqueline	20/11/1950	F	42	Professeurs du secondaire et techn.	25/9/2011			116	MODM
+41	LOIR ET CHER	LORGEOUX	Jeanny	2/1/1950	M	61	Retraités salariés privés	25/9/2011			51312	SOC
+42	LOIRE	CUKIERMAN	Cécile	26/4/1976	F	42	Professeurs du secondaire et techn.	25/9/2011			834059	COM
+42	LOIRE	FOURNIER	Bernard	13/9/1946	M	56	Autres professions	28/9/2001	24/9/2011	FM	117	UMP
+42	LOIRE	FOURNIER	Bernard	13/9/1946	M	56	Autres professions	25/9/2011			117	UMP
+42	LOIRE	FRECON	Jean-Claude	3/9/1944	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	118	SOC
+42	LOIRE	FRECON	Jean-Claude	3/9/1944	M	54	Permanents politiques	25/9/2011	11/12/2016	DC	118	SOC
+42	LOIRE	LONGERE	Christiane	13/4/1953	F	61	Retraités salariés privés	17/4/2010	24/9/2011	FM	158837	UMP
+42	LOIRE	MATHON	Josiane	23/8/1954	F	20	Employés (secteur privé)	28/9/2001	24/9/2011	FM	119	COM
+42	LOIRE	RIVOLLIER	Evelyne	13/5/1958	F	18	Cadres supérieurs (secteur privé)	25/9/2011			998366	COM
+42	LOIRE	THIOLLIERE	Michel	10/4/1955	M	42	Professeurs du secondaire et techn.	28/9/2001	17/4/2010	AU	120	UMP
+42	LOIRE	VINCENT	Maurice	20/9/1955	M	41	Professeurs de faculté	25/9/2011			12592	SOC
+43	HAUTE LOIRE	BOYER	Jean	4/1/1937	M	58	Retraités agricoles	23/9/2001	24/9/2011	FM	121	MAJ
+43	HAUTE LOIRE	BOYER	Jean	4/1/1937	M	58	Retraités agricoles	25/9/2011	3/11/2014	DV	121	MAJ
+43	HAUTE LOIRE	CIGOLOTTI	Olivier	16/8/1963	M	18	Cadres supérieurs (secteur privé)	25/1/2015			158356	UDI
+43	HAUTE LOIRE	GOUTEYRON	Adrien	13/5/1933	M	65	Autres retraités	23/9/2001	24/9/2011	FM	122	UMP
+43	HAUTE LOIRE	ROCHE	Gérard	29/12/1942	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011			1188254	UDI
+44	LOIRE ATLANTIQUE	AUTAIN	François	16/6/1935	M	24	Médecins	28/9/2001	24/9/2011	FM	124	DVG
+44	LOIRE ATLANTIQUE	DANTEC	Ronan	5/8/1963	M	56	Autres professions	25/9/2011			646459	VEC
+44	LOIRE ATLANTIQUE	GAUTIER	Charles	25/1/1945	M	13	Ingénieurs	28/9/2001	24/9/2011	FM	125	SOC
+44	LOIRE ATLANTIQUE	GAUTIER	Gisèle	9/12/1938	F	57	Sans profession déclarée	28/9/2001	24/9/2011	FM	110	UMP
+44	LOIRE ATLANTIQUE	GUERRIAU	Joël	9/11/1957	M	57	Sans profession déclarée	25/9/2011			184868	MAJ
+44	LOIRE ATLANTIQUE	MEUNIER	Michelle	24/1/1956	F	44	Professions rattachées à enseignt.	25/9/2011			184850	SOC
+44	LOIRE ATLANTIQUE	PAPON	Monique	5/10/1934	F	65	Autres retraités	28/9/2001	24/9/2011	FM	95	UMP
+44	LOIRE ATLANTIQUE	TRILLARD	André	24/10/1947	M	27	Vétérinaires	28/9/2001	24/9/2011	FM	96	UMP
+44	LOIRE ATLANTIQUE	TRILLARD	André	24/10/1947	M	27	Vétérinaires	25/9/2011			96	UMP
+44	LOIRE ATLANTIQUE	VAUGRENARD	Yannick	25/6/1950	M	61	Retraités salariés privés	25/9/2011			27702	SOC
+45	LOIRET	CARDOUX	Jean-Noël	18/12/1946	M	60	Retraités des professions libérales	25/9/2011			157824	UMP
+45	LOIRET	DOLIGE	Eric	25/5/1943	M	59	Retr.artis.commerc.chefs d'entrep.	28/9/2001	24/9/2011	FM	97	UMP
+45	LOIRET	DOLIGE	Eric	25/5/1943	M	59	Retr.artis.commerc.chefs d'entrep.	25/9/2011			97	UMP
+45	LOIRET	ROZIER	Janine	13/4/1938	F	65	Autres retraités	28/9/2001	24/9/2011	FM	98	UMP
+45	LOIRET	SUEUR	Jean-Pierre	28/2/1947	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	99	SOC
+45	LOIRET	SUEUR	Jean-Pierre	28/2/1947	M	62	Retraités de l'enseignement	25/9/2011			99	SOC
+46	LOT	MILHAU	Jean	18/12/1929	M	65	Autres retraités	25/9/2008	24/9/2011	FM	8795	RDG
+46	LOT	MIQUEL	Gérard	17/6/1946	M	58	Retraités agricoles	23/9/2001	24/9/2011	FM	3302	SOC
+46	LOT	MIQUEL	Gérard	17/6/1946	M	58	Retraités agricoles	25/9/2011			3302	SOC
+46	LOT	REQUIER	Jean-Claude	4/10/1947	M	62	Retraités de l'enseignement	25/9/2011			8870	RDG
+47	LOT ET GARONNE 	CAMANI	Pierre	19/2/1952	M	47	Fonctionnaires de catégorie A	25/9/2011			1188255	SOC
+47	LOT ET GARONNE 	FRANÇOIS-PONCET	Jean	8/12/1928	M	06	Administrateurs de sociétés	28/9/2001	24/9/2011	FM	102	UMP
+47	LOT ET GARONNE 	SOULAGE	Daniel	14/2/1942	M	01	Agriculteurs propriétaires exploit.	28/9/2001	24/9/2011	FM	103	MAJ
+47	LOT ET GARONNE 	TANDONNET	Henri	14/12/1949	M	60	Retraités des professions libérales	25/9/2011			157283	MAJ
+48	LOZERE	BERTRAND	Alain	23/2/1951	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011	22/12/2011	AU	589373	SOC
+48	LOZERE	BERTRAND	Alain	23/2/1951	M	63	Retraités fonct.publique (sf enseig.)	18/3/2012			589373	SOC
+48	LOZERE	BLANC	Jacques	21/10/1939	M	60	Retraités des professions libérales	28/9/2001	24/9/2011	FM	104	UMP
+49	MAINE ET LOIRE 	BECHU	Christophe	11/6/1974	M	56	Autres professions	25/9/2011			16394	UMP
+49	MAINE ET LOIRE 	BOUCHOUX	Corinne	5/1/1964	F	44	Professions rattachées à enseignt.	25/9/2011			1188256	VEC
+49	MAINE ET LOIRE 	DEROCHE	Catherine	24/2/1953	F	57	Sans profession déclarée	12/10/2010	24/9/2011	FM	156948	UMP
+49	MAINE ET LOIRE 	DEROCHE	Catherine	24/2/1953	F	57	Sans profession déclarée	25/9/2011			156948	UMP
+49	MAINE ET LOIRE 	GAUDIN	Christian	13/1/1950	M	41	Professeurs de faculté	28/9/2001	11/10/2010	DV	105	UDF
+49	MAINE ET LOIRE 	LARDEUX	André	22/8/1946	M	42	Professeurs du secondaire et techn.	28/9/2001	24/9/2011	FM	106	UMP
+49	MAINE ET LOIRE 	RAOUL	Daniel	28/7/1941	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	107	SOC
+49	MAINE ET LOIRE 	RAOUL	Daniel	28/7/1941	M	62	Retraités de l'enseignement	25/9/2011			107	SOC
+50	MANCHE	BAS	Philippe	20/7/1958	M	46	Grands corps de l'état	25/9/2011			870028	UMP
+50	MANCHE	BIZET	Jean	30/8/1947	M	27	Vétérinaires	28/9/2001	24/9/2011	FM	108	UMP
+50	MANCHE	BIZET	Jean	30/8/1947	M	27	Vétérinaires	25/9/2011			108	UMP
+50	MANCHE	GODEFROY	Jean-Pierre	23/9/1944	M	64	Retraités des entreprises publiques	28/9/2001	24/9/2011	FM	109	SOC
+50	MANCHE	GODEFROY	Jean-Pierre	23/9/1944	M	64	Retraités des entreprises publiques	25/9/2011			109	SOC
+50	MANCHE	LE GRAND	Jean-François	8/6/1942	M	27	Vétérinaires	28/9/2001	24/9/2011	FM	227	UMP
+51	MARNE	DETRAIGNE	Yves	21/12/1954	M	46	Grands corps de l'état	28/9/2001	24/9/2011	FM	228	UDF
+51	MARNE	DETRAIGNE	Yves	21/12/1954	M	46	Grands corps de l'état	25/9/2011			228	MAJ
+51	MARNE	FERAT	Françoise	5/3/1949	F	57	Sans profession déclarée	28/9/2001	24/9/2011	FM	230	UDF
+51	MARNE	FERAT	Françoise	5/3/1949	F	57	Sans profession déclarée	25/9/2011			230	MAJ
+51	MARNE	OUDIT	Mireille	10/10/1945	F	58	Retraités agricoles	3/11/2010	24/9/2011	FM	155844	UMP
+51	MARNE	SAVARY	René-Paul	3/1/1953	M	24	Médecins	25/9/2011			17743	UMP
+52	HAUTE MARNE	GUENE	Charles	6/4/1952	M	60	Retraités des professions libérales	28/9/2001	24/9/2011	FM	231	UMP
+52	HAUTE MARNE	GUENE	Charles	6/4/1952	M	60	Retraités des professions libérales	25/9/2011			231	UMP
+52	HAUTE MARNE	SIDO	Bruno	19/2/1951	M	01	Agriculteurs propriétaires exploit.	28/9/2001	24/9/2011	FM	232	UMP
+52	HAUTE MARNE	SIDO	Bruno	19/2/1951	M	01	Agriculteurs propriétaires exploit.	25/9/2011			232	UMP
+53	MAYENNE	ARTHUIS	Jean	7/10/1944	M	34	Experts comptables	28/9/2001	24/9/2011	FM	233	DVD
+53	MAYENNE	ARTHUIS	Jean	7/10/1944	M	34	Experts comptables	25/9/2011	30/6/2014	DV	233	MAJ
+53	MAYENNE	DOINEAU	Elisabeth	7/4/1961	F	57	Sans profession déclarée	1/10/2014			1505288	UDI
+53	MAYENNE	ZOCCHETTO	François	14/12/1958	M	29	Avocats	28/9/2001	24/9/2011	FM	234	DVD
+53	MAYENNE	ZOCCHETTO	François	14/12/1958	M	29	Avocats	25/9/2011			234	MAJ
+54	MEURTHE ET MOSELLE	DIDIER	Evelyne	14/3/1948	F	62	Retraités de l'enseignement	23/9/2001	24/9/2011	FM	236	COM
+54	MEURTHE ET MOSELLE	DIDIER	Evelyne	14/3/1948	F	62	Retraités de l'enseignement	25/9/2011			236	COM
+54	MEURTHE ET MOSELLE	HUSSON	Jean-François	17/4/1961	M	56	Autres professions	25/9/2011			219001	UMP
+54	MEURTHE ET MOSELLE	NACHBAR	Philippe	26/9/1950	M	60	Retraités des professions libérales	23/9/2001	24/9/2011	FM	237	UMP
+54	MEURTHE ET MOSELLE	NACHBAR	Philippe	26/9/1950	M	60	Retraités des professions libérales	25/9/2011			237	UMP
+54	MEURTHE ET MOSELLE	PANIS	Jacqueline	18/4/1948	F	02	Salariés agricoles	21/6/2007	24/9/2011	FM	355631	UMP
+54	MEURTHE ET MOSELLE	REINER	Daniel	17/1/1941	M	62	Retraités de l'enseignement	23/9/2001	24/9/2011	FM	238	SOC
+54	MEURTHE ET MOSELLE	REINER	Daniel	17/1/1941	M	62	Retraités de l'enseignement	25/9/2011			238	SOC
+55	MEUSE	BIWER	Claude	15/5/1936	M	58	Retraités agricoles	28/9/2001	24/9/2011	FM	239	MAJ
+55	MEUSE	LEONARD	Claude	11/3/1948	M	60	Retraités des professions libérales	29/3/2011	24/9/2011	FM	153916	UMP
+55	MEUSE	LEONARD	Claude	11/3/1948	M	60	Retraités des professions libérales	25/9/2011	16/6/2012	AU	153916	UMP
+55	MEUSE	LONGUET	Gérard	24/2/1946	M	46	Grands corps de l'état	28/9/2001	29/3/2011	DV	240	UMP
+55	MEUSE	LONGUET	Gérard	24/2/1946	M	46	Grands corps de l'état	25/9/2011	2/11/2011	AU	240	UMP
+55	MEUSE	LONGUET	Gérard	24/2/1946	M	46	Grands corps de l'état	25/9/2011			240	UMP
+55	MEUSE	NAMY	Christian	19/10/1938	M	60	Retraités des professions libérales	25/9/2011			94083	UMP
+56	MORBIHAN	DE ROHAN	Josselin	5/6/1938	M	65	Autres retraités	23/9/2001	24/9/2011	FM	243	UMP
+56	MORBIHAN	HERVIAUX	Odette	6/1/1948	F	42	Professeurs du secondaire et techn.	23/9/2001	24/9/2011	FM	241	SOC
+56	MORBIHAN	HERVIAUX	Odette	6/1/1948	F	42	Professeurs du secondaire et techn.	25/9/2011			241	SOC
+56	MORBIHAN	KERGUERIS	Joseph	2/10/1938	M	65	Autres retraités	23/9/2001	24/9/2011	FM	242	UDF
+56	MORBIHAN	LABBE	Joël	18/10/1952	M	48	Fonctionnaires de catégorie B	25/9/2011			30099	VEC
+56	MORBIHAN	LE SCOUARNEC	Michel	12/7/1949	M	62	Retraités de l'enseignement	25/9/2011			153711	COM
+57	MOSELLE	ABATE	Patrick	28/12/1956	M	42	Professeurs du secondaire et techn.	22/12/2014	17/6/2017	FM	1185	COM
+57	MOSELLE	GROSDIDIER	François	25/2/1961	M	47	Fonctionnaires de catégorie A	25/9/2011			832	UMP
+57	MOSELLE	LEROY	Philippe	3/2/1940	M	63	Retraités fonct.publique (sf enseig.)	28/9/2001	24/9/2011	FM	244	UMP
+57	MOSELLE	LEROY	Philippe	3/2/1940	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011			244	UMP
+57	MOSELLE	MASSERET	Jean-Pierre	23/8/1944	M	63	Retraités fonct.publique (sf enseig.)	28/9/2001	24/9/2011	FM	245	SOC
+57	MOSELLE	MASSERET	Jean-Pierre	23/8/1944	M	63	Retraités fonct.publique (sf enseig.)	1/9/2014			245	SOC
+57	MOSELLE	MASSON	Jean-Louis	25/3/1947	M	13	Ingénieurs	28/9/2001	24/9/2011	FM	246	DVD
+57	MOSELLE	MASSON	Jean-Louis	25/3/1947	M	13	Ingénieurs	25/9/2011			246	DVD
+57	MOSELLE	PRINTZ	Gisèle	27/6/1933	F	61	Retraités salariés privés	28/9/2001	24/9/2011	FM	425504	SOC
+57	MOSELLE	PRINTZ	Gisèle	27/6/1933	F	61	Retraités salariés privés	25/9/2011	31/8/2014	DV	425504	SOC
+57	MOSELLE	TODESCHINI	Jean-Marc	12/3/1952	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	248	SOC
+57	MOSELLE	TODESCHINI	Jean-Marc	12/3/1952	M	62	Retraités de l'enseignement	25/9/2011	22/12/2014	AU	248	SOC
+57	MOSELLE	TODESCHINI	Jean-Marc	12/3/1952	M	62	Retraités de l'enseignement	18/6/2017			248	SOC
+58	NIEVRE	BOULAUD	Didier	4/9/1950	M	65	Autres retraités	23/9/2001	24/9/2011	FM	249	SOC
+58	NIEVRE	BOULAUD	Didier	4/9/1950	M	65	Autres retraités	25/9/2011	30/9/2012	DV	249	SOC
+58	NIEVRE	EMERY-DUMAS	Anne	30/8/1959	F	57	Sans profession déclarée	2/12/2012			1193954	SOC
+58	NIEVRE	GORCE	Gaëtan	2/12/1958	M	46	Grands corps de l'état	25/9/2011			825	SOC
+58	NIEVRE	SIGNE	René-Pierre	16/9/1930	M	24	Médecins	23/9/2001	24/9/2011	FM	250	SOC
+59	NORD	BAILLY	Dominique	2/1/1960	M	56	Autres professions	25/9/2011			8138	SOC
+59	NORD	BATAILLE	Delphine	16/9/1969	F	56	Autres professions	25/9/2011			833737	SOC
+59	NORD	BLANDIN	Marie-Christine	22/9/1952	F	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	251	VEC
+59	NORD	BLANDIN	Marie-Christine	22/9/1952	F	62	Retraités de l'enseignement	25/9/2011	1/7/2017	DV	251	ECO
+59	NORD	BOCQUET	Eric	8/11/1957	M	42	Professeurs du secondaire et techn.	25/9/2011			152133	COM
+59	NORD	DELEBARRE	Michel	27/4/1946	M	65	Autres retraités	25/9/2011			828	SOC
+59	NORD	DEMESSINE	Michelle	18/6/1947	F	54	Permanents politiques	28/9/2001	24/9/2011	FM	252	COM
+59	NORD	DEMESSINE	Michelle	18/6/1947	F	54	Permanents politiques	25/9/2011			252	COM
+59	NORD	DESCAMPS	Béatrice	22/6/1951	F	62	Retraités de l'enseignement	19/7/2007	14/12/2010	AU	152132	UMP
+59	NORD	DESMARESCAUX	Sylvie	6/9/1950	F	56	Autres professions	28/9/2001	24/9/2011	FM	254	DVD
+59	NORD	DUFOUR-TONINI	Anne-Lise	2/3/1970	F	47	Fonctionnaires de catégorie A	4/7/2017			704343	SOC
+59	NORD	ESSAI	Nouvel	31/7/1960	M	06	Administrateurs de sociétés	30/12/2004	12/1/2010	DC	1179834	DVD
+59	NORD	FRIMAT	Bernard	12/10/1940	M	41	Professeurs de faculté	22/1/2002	24/9/2011	FM	253	SOC
+59	NORD	LECERF	Jean-René	10/4/1951	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	255	UMP
+59	NORD	LECERF	Jean-René	10/4/1951	M	54	Permanents politiques	25/9/2011	21/4/2015	DV	255	UMP
+59	NORD	LEGENDRE	Jacques	2/12/1941	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	256	UMP
+59	NORD	LEGENDRE	Jacques	2/12/1941	M	62	Retraités de l'enseignement	25/9/2011			256	UMP
+59	NORD	LETARD	Valérie	13/10/1962	F	56	Autres professions	14/12/2010	24/9/2011	FM	257	UDF
+59	NORD	LETARD	Valérie	13/10/1962	F	56	Autres professions	25/9/2011			257	MAJ
+59	NORD	MASCLET	Patrick	31/5/1952	M	42	Professeurs du secondaire et techn.	22/4/2015	4/6/2017	DC	152472	UMP
+59	NORD	MAUROY	Pierre	5/7/1928	M	65	Autres retraités	28/9/2001	24/9/2011	FM	258	SOC
+59	NORD	POYART	Alain	18/11/1947	M	63	Retraités fonct.publique (sf enseig.)	15/6/2017			7190	UMP
+59	NORD	RAOULT	Paul	26/11/1944	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	259	SOC
+59	NORD	RENAR	Ivan	26/4/1937	M	42	Professeurs du secondaire et techn.	28/9/2001	24/9/2011	FM	260	COM
+59	NORD	TURK	Alex	25/1/1950	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	261	DVD
+59	NORD	TURK	Alex	25/1/1950	M	54	Permanents politiques	25/9/2011			261	DVD
+59	NORD	VANDIERENDONCK	René	1/4/1951	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011			10484	SOC
+60	OISE	BOSINO	Jean-Pierre	15/1/1959	M	21	Ouvriers (secteur privé)	10/5/2014	17/6/2017	AU	1393501	COM
+60	OISE	CAYEUX	Caroline	1/11/1948	F	01	Agriculteurs propriétaires exploit.	25/9/2011			4641	UMP
+60	OISE	MARINI	Philippe	28/1/1950	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	262	UMP
+60	OISE	MARINI	Philippe	28/1/1950	M	54	Permanents politiques	25/9/2011	7/1/2015	DV	262	UMP
+60	OISE	ROME	Yves	25/4/1950	M	56	Autres professions	25/9/2011			4059	SOC
+60	OISE	ROSSIGNOL	Laurence	22/12/1957	F	32	Conseillers juridiques	25/9/2011	10/5/2014	AU	1180759	SOC
+60	OISE	ROSSIGNOL	Laurence	22/12/1957	F	32	Conseillers juridiques	18/6/2017			1180759	SOC
+60	OISE	VANTOMME	André	16/2/1948	M	47	Fonctionnaires de catégorie A	28/9/2001	24/9/2011	FM	263	SOC
+60	OISE	VASSELLE	Alain	27/6/1947	M	01	Agriculteurs propriétaires exploit.	28/9/2001	24/9/2011	FM	264	UMP
+60	OISE	VASSELLE	Alain	27/6/1947	M	01	Agriculteurs propriétaires exploit.	8/1/2015			264	UMP
+61	ORNE	GOULET	Nathalie	24/5/1958	F	57	Sans profession déclarée	26/2/2007	24/9/2011	FM	866489	UMP
+61	ORNE	GOULET	Nathalie	24/5/1958	F	57	Sans profession déclarée	25/9/2011			866489	MAJ
+61	ORNE	LAMBERT	Alain	20/7/1946	M	45	Magistrats	26/9/2004	15/10/2010	DV	10118	UMP
+61	ORNE	LENOIR	Jean-Claude	27/12/1944	M	54	Permanents politiques	25/9/2011	24/9/2011	FM	912	UMP
+61	ORNE	LENOIR	Jean-Claude	27/12/1944	M	54	Permanents politiques	25/9/2011			912	UMP
+62	PAS DE CALAIS	BOUCHART	Natacha	29/5/1963	F	56	Autres professions	25/9/2011	11/1/2016	DV	329619	UMP
+62	PAS DE CALAIS	BOUT	Brigitte	26/1/1941	F	61	Retraités salariés privés	7/6/2002	24/9/2011	FM	268	UMP
+62	PAS DE CALAIS	DANGLOT	Jean-Claude	20/9/1950	M	49	Fonctionnaires de catégorie C	2/1/2007	24/9/2011	FM	78732	COM
+62	PAS DE CALAIS	DURIEZ	Odette	7/5/1948	F	20	Employés (secteur privé)	25/9/2011	28/2/2013	DV	48496	SOC
+62	PAS DE CALAIS	GENISSON	Catherine	22/4/1949	F	24	Médecins	25/9/2011			915	SOC
+62	PAS DE CALAIS	HENNERON	Françoise	3/2/1948	F	61	Retraités salariés privés	28/9/2001	24/9/2011	FM	269	UMP
+62	PAS DE CALAIS	LEROY	Jean-Claude	3/6/1952	M	54	Permanents politiques	25/9/2011			916	SOC
+62	PAS DE CALAIS	PERCHERON	Daniel	31/8/1942	M	54	Permanents politiques	28/9/2001	24/9/2011	FM	270	SOC
+62	PAS DE CALAIS	PERCHERON	Daniel	31/8/1942	M	54	Permanents politiques	25/9/2011			270	SOC
+62	PAS DE CALAIS	POHER	Hervé	19/5/1952	M	24	Médecins	25/9/2011			109825	SOC
+62	PAS DE CALAIS	RAPIN	Jean-François	11/5/1966	M	24	Médecins	12/1/2016			172949	UMP
+62	PAS DE CALAIS	SAN VICENTE	Michèle	19/5/1955	F	54	Permanents politiques	28/9/2001	24/9/2011	FM	271	SOC
+62	PAS DE CALAIS	SERGENT	Michel	27/12/1943	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	272	SOC
+62	PAS DE CALAIS	VANLERENBERGHE	Jean-Marie	29/3/1939	M	13	Ingénieurs	28/9/2001	24/9/2011	FM	273	UDF
+62	PAS DE CALAIS	VANLERENBERGHE	Jean-Marie	29/3/1939	M	13	Ingénieurs	28/9/2001			273	MODM
+62	PAS DE CALAIS	WATRIN	Dominique	14/6/1953	M	20	Employés (secteur privé)	25/9/2011			2781	COM
+63	PUY DE DOME	ANDRE	Michèle	6/2/1947	F	63	Retraités fonct.publique (sf enseig.)	28/9/2001	24/9/2011	FM	274	SOC
+63	PUY DE DOME	ANDRE	Michèle	6/2/1947	F	63	Retraités fonct.publique (sf enseig.)	25/9/2011			274	SOC
+63	PUY DE DOME	GODARD	Serge	25/3/1936	M	65	Autres retraités	7/3/2010	24/9/2011	FM	172552	SOC
+63	PUY DE DOME	JUILHARD	Jean-Marc	5/2/1940	M	01	Agriculteurs propriétaires exploit.	28/9/2001	24/9/2011	FM	276	UMP
+63	PUY DE DOME	MAGNER	Jacques-Bernard	1/6/1952	M	43	Enseignants 1er deg.-directeurs école	25/9/2011			47253	SOC
+63	PUY DE DOME	NERI	Alain	1/5/1942	M	62	Retraités de l'enseignement	25/9/2011			929	SOC
+64	PYRENEES ATLANTIQUES	BOROTRA	Didier	30/8/1937	M	54	Permanents politiques	28/9/2001	25/9/2011	FM	277	UDF
+64	PYRENEES ATLANTIQUES	CAZALET	Auguste	7/9/1938	M	01	Agriculteurs propriétaires exploit.	28/9/2001	25/9/2011	FM	278	UMP
+64	PYRENEES ATLANTIQUES	ESPAGNAC	Frédérique	19/4/1972	F	56	Autres professions	25/9/2011	24/9/2011	FM	833176	SOC
+64	PYRENEES ATLANTIQUES	ESPAGNAC	Frédérique	19/4/1972	F	56	Autres professions	25/9/2011			833176	SOC
+64	PYRENEES ATLANTIQUES	JARRAUD-VERGNOLLE	Annie	7/2/1948	F	50	Cadres sup. (entreprises publiques)	17/5/2006	25/9/2011	FM	1073212	SOC
+64	PYRENEES ATLANTIQUES	LABAZEE	Georges	16/6/1943	M	62	Retraités de l'enseignement	25/9/2011	24/9/2011	FM	335393	SOC
+64	PYRENEES ATLANTIQUES	LABAZEE	Georges	16/6/1943	M	62	Retraités de l'enseignement	25/9/2011			335393	SOC
+64	PYRENEES ATLANTIQUES	LASSERRE	Jean-Jacques	11/3/1944	M	58	Retraités agricoles	25/9/2011	24/9/2011	FM	335394	DVD
+64	PYRENEES ATLANTIQUES	LASSERRE	Jean-Jacques	11/3/1944	M	58	Retraités agricoles	25/9/2011			335394	MODM
+65	HAUTES PYRENEES	DURRIEU	Josette	20/3/1937	F	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	280	SOC
+65	HAUTES PYRENEES	DURRIEU	Josette	20/3/1937	F	62	Retraités de l'enseignement	25/9/2011			280	SOC
+65	HAUTES PYRENEES	FORTASSIN	François	2/8/1939	M	62	Retraités de l'enseignement	28/9/2001	24/9/2011	FM	281	PRG
+65	HAUTES PYRENEES	FORTASSIN	François	2/8/1939	M	62	Retraités de l'enseignement	25/9/2011	15/5/2017	DC	281	RDG
+65	HAUTES PYRENEES	PELIEU	Michel	26/6/1946	M	64	Retraités des entreprises publiques	15/5/2017			76543	RDG
+66	PYRENEES ORIENTALES	ALDUY	Jean-Paul	7/5/1942	M	63	Retraités fonct.publique (sf enseig.)	23/9/2001	24/9/2011	FM	1177348	UMP
+66	PYRENEES ORIENTALES	BLANC	Paul	29/1/1937	M	60	Retraités des professions libérales	28/9/2001	24/9/2011	FM	283	UMP
+66	PYRENEES ORIENTALES	BOURQUIN	Christian	7/10/1954	M	13	Ingénieurs	25/9/2011	26/8/2014	DC	63915	DVG
+66	PYRENEES ORIENTALES	CALVET	François	1/4/1953	M	29	Avocats	25/9/2011			945	UMP
+66	PYRENEES ORIENTALES	MALHERBE	Hermeline	18/2/1969	F	18	Cadres supérieurs (secteur privé)	27/8/2014			1505390	SOC
+67	BAS RHIN	BIGOT	Jacques	31/7/1952	M	60	Retraités des professions libérales	1/10/2014			31888	SOC
+67	BAS RHIN	GRIGNON	Francis	3/1/1944	M	13	Ingénieurs	20/2/2005	30/9/2014	FM	284	UMP
+67	BAS RHIN	KELLER	Fabienne	20/10/1959	F	46	Grands corps de l'état	20/2/2005	30/9/2014	FM	31997	UMP
+67	BAS RHIN	KELLER	Fabienne	20/10/1959	F	46	Grands corps de l'état	1/10/2014			31997	UMP
+67	BAS RHIN	KENNEL	Guy-Dominique	14/4/1952	M	44	Professions rattachées à enseignt.	1/10/2014			31266	UMP
+67	BAS RHIN	KERN	Claude	13/3/1959	M	42	Professeurs du secondaire et techn.	1/10/2014			170825	UDI
+67	BAS RHIN	REICHARDT	André	5/12/1949	M	64	Retraités des entreprises publiques	15/12/2010	30/9/2014	FM	32053	UMP
+67	BAS RHIN	REICHARDT	André	5/12/1949	M	64	Retraités des entreprises publiques	1/10/2014			32053	UMP
+67	BAS RHIN	RICHERT	Philippe	22/5/1953	M	54	Permanents politiques	20/2/2005	14/12/2010	AU	287	UMP
+67	BAS RHIN	RIES	Roland	11/1/1945	M	62	Retraités de l'enseignement	20/2/2005	30/9/2014	FM	32061	SOC
+67	BAS RHIN	SITTLER	Esther	9/5/1952	F	65	Autres retraités	20/2/2005	30/9/2014	FM	170818	UMP
+68	HAUT RHIN	BOCKEL	Jean-Marie	22/6/1950	M	29	Avocats	26/9/2004	30/9/2014	FM	170289	MAJ
+68	HAUT RHIN	BOCKEL	Jean-Marie	22/6/1950	M	29	Avocats	1/10/2014			170289	UDI
+68	HAUT RHIN	BOOG	Françoise	2/8/1960	F	23	Salariés du secteur médical	28/6/2013	30/9/2014	FM	170299	UMP
+68	HAUT RHIN	DANESI	René	30/8/1947	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			1751	UDI
+68	HAUT RHIN	HAENEL	Hubert	20/5/1942	M	46	Grands corps de l'état	26/9/2004	7/3/2010	AU	289	UMP
+68	HAUT RHIN	LORRAIN	Jean-Louis	12/3/1948	M	24	Médecins	7/3/2010	28/6/2013	DC	290	UMP
+68	HAUT RHIN	MULLER	Jacques	30/10/1954	M	47	Fonctionnaires de catégorie A	20/7/2007	24/12/2010	AU	170148	VEC
+68	HAUT RHIN	SCHILLINGER	Patricia	18/1/1963	F	57	Sans profession déclarée	26/9/2004	30/9/2014	FM	95270	SOC
+68	HAUT RHIN	SCHILLINGER	Patricia	18/1/1963	F	57	Sans profession déclarée	1/10/2014			95270	SOC
+68	HAUT RHIN	TROENDLE	Catherine	20/2/1961	F	56	Autres professions	26/9/2004	30/9/2014	FM	170245	UMP
+68	HAUT RHIN	TROENDLE	Catherine	20/2/1961	F	56	Autres professions	1/10/2014			170245	UMP
+69	RHONE	BUFFET	François-Noël	28/8/1963	M	29	Avocats	26/9/2004	30/9/2014	FM	593362	UMP
+69	RHONE	BUFFET	François-Noël	28/8/1963	M	29	Avocats	1/10/2014			593362	UMP
+69	RHONE	COLLOMB	Gérard	20/6/1947	M	42	Professeurs du secondaire et techn.	26/9/2004	30/9/2014	FM	296	SOC
+69	RHONE	COLLOMB	Gérard	20/6/1947	M	42	Professeurs du secondaire et techn.	1/10/2014	17/6/2017	FM	296	SOC
+69	RHONE	DEMONTES	Christiane	14/5/1954	F	56	Autres professions	26/9/2004	30/9/2014	FM	44782	SOC
+69	RHONE	DEVINAZ	Gilbert Luc	19/7/1953	M	51	Cadres (entreprises publiques)	18/6/2017			1430028	SOC
+69	RHONE	DI FOLCO	Catherine	30/11/1960	F	57	Sans profession déclarée	1/10/2014			593763	DVD
+69	RHONE	DINI	Muguette	16/3/1940	F	57	Sans profession déclarée	26/9/2004	30/9/2014	FM	177105	UDF
+69	RHONE	FISCHER	Guy	12/1/1944	M	43	Enseignants 1er deg.-directeurs école	26/9/2004	30/9/2014	FM	292	COM
+69	RHONE	FORISSIER	Michel	12/9/1943	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			169867	UMP
+69	RHONE	GUILLEMOT	Annie	27/1/1956	F	47	Fonctionnaires de catégorie A	1/10/2014			170090	SOC
+69	RHONE	LAMURE	Elisabeth	20/11/1947	F	57	Sans profession déclarée	26/9/2004	30/9/2014	FM	170041	UMP
+69	RHONE	LAMURE	Elisabeth	20/11/1947	F	57	Sans profession déclarée	1/10/2014			170041	UMP
+69	RHONE	MERCIER	Michel	7/3/1947	M	41	Professeurs de faculté	26/9/2004	23/7/2009	AU	295	UDF
+69	RHONE	MERCIER	Michel	7/3/1947	M	41	Professeurs de faculté	26/9/2004	22/4/2014	DV	295	UDF
+69	RHONE	MERCIER	Michel	7/3/1947	M	41	Professeurs de faculté	1/10/2014			295	UDI
+69	RHONE	PIGNARD	Jean-Jacques	15/4/1947	M	42	Professeurs du secondaire et techn.	26/9/2004	16/6/2012	AU	169878	UDF
+69	RHONE	PIGNARD	Jean-Jacques	15/4/1947	M	42	Professeurs du secondaire et techn.	22/4/2014	30/9/2014	FM	169878	UDF
+70	HAUTE SAONE	JOYANDET	Alain	15/1/1954	M	05	Industriels-Chefs entreprise	1/10/2014			977	UMP
+70	HAUTE SAONE	KRATTINGER	Yves	5/11/1948	M	62	Retraités de l'enseignement	9/2/2003	30/9/2014	FM	299	SOC
+70	HAUTE SAONE	MICHEL	Jean-Pierre	5/8/1938	M	61	Retraités salariés privés	26/9/2004	30/9/2014	FM	7600	SOC
+70	HAUTE SAONE	RAISON	Michel	5/11/1949	M	58	Retraités agricoles	1/10/2014			979	UMP
+71	SAONE ET LOIRE 	BEAUMONT	René	29/2/1940	M	27	Vétérinaires	26/9/2004	30/9/2014	FM	8253	UMP
+71	SAONE ET LOIRE 	COURTOIS	Jean-Patrick	20/5/1951	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	30/9/2014	FM	300	UMP
+71	SAONE ET LOIRE 	COURTOIS	Jean-Patrick	20/5/1951	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014	11/6/2015	DO	300	UMP
+71	SAONE ET LOIRE 	DURAIN	Jérôme	2/6/1969	M	47	Fonctionnaires de catégorie A	1/10/2014			1095956	SOC
+71	SAONE ET LOIRE 	EMORINE	Jean-Paul	20/3/1944	M	58	Retraités agricoles	26/9/2004	30/9/2014	FM	301	UMP
+71	SAONE ET LOIRE 	EMORINE	Jean-Paul	20/3/1944	M	58	Retraités agricoles	1/10/2014			301	UMP
+71	SAONE ET LOIRE 	MERCIER	Marie	16/6/1958	F	24	Médecins	12/6/2015			1434676	UMP
+72	SARTHE	BOULARD	Jean-Claude	28/3/1943	M	46	Grands corps de l'état	1/10/2014			168597	SOC
+72	SARTHE	CHAUVEAU	Jean-Pierre	8/11/1942	M	61	Retraités salariés privés	18/6/2007	30/9/2014	FM	42702	UMP
+72	SARTHE	CLEACH	Marcel-Pierre	16/1/1934	M	06	Administrateurs de sociétés	26/9/2004	30/9/2014	FM	304	UMP
+72	SARTHE	DE NICOLAY	Louis-Jean	18/9/1949	M	06	Administrateurs de sociétés	1/10/2014			42646	UMP
+72	SARTHE	DU LUART	Roland	12/3/1940	M	01	Agriculteurs propriétaires exploit.	26/9/2004	30/9/2014	FM	305	UMP
+72	SARTHE	VOGEL	Jean-Pierre	7/8/1956	M	34	Experts comptables	1/10/2014			168750	UMP
+73	SAVOIE	BOUVARD	Michel	17/3/1955	M	45	Magistrats	1/10/2014	29/5/2017	DV	993	UMP
+73	SAVOIE	REPENTIN	Thierry	5/4/1963	M	46	Grands corps de l'état	26/9/2004	21/6/2012	DV	377342	SOC
+73	SAVOIE	REPENTIN	Thierry	5/4/1963	M	46	Grands corps de l'état	3/5/2014	30/9/2014	FM	377342	SOC
+73	SAVOIE	VAIRETTO	André	20/1/1960	M	44	Professions rattachées à enseignt.	26/9/2004	3/5/2014	AU	64361	SOC
+73	SAVOIE	VIAL	Jean-Pierre	17/2/1951	M	29	Avocats	26/9/2004	30/9/2014	FM	306	UMP
+73	SAVOIE	VIAL	Jean-Pierre	17/2/1951	M	29	Avocats	1/10/2014			306	UMP
+74	HAUTE SAVOIE	AMOUDRY	Jean-Paul	30/3/1950	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	30/9/2014	FM	308	MAJ
+74	HAUTE SAVOIE	CARLE	Jean-Claude	9/6/1948	M	61	Retraités salariés privés	26/9/2004	30/9/2014	FM	309	UMP
+74	HAUTE SAVOIE	CARLE	Jean-Claude	9/6/1948	M	61	Retraités salariés privés	1/10/2014			309	UMP
+74	HAUTE SAVOIE	HERISSON	Pierre	12/6/1945	M	57	Sans profession déclarée	26/9/2004	30/9/2014	FM	310	UMP
+74	HAUTE SAVOIE	HERVE	Loïc	8/6/1980	M	47	Fonctionnaires de catégorie A	28/9/2014	30/9/2014	FM	1105676	NC
+74	HAUTE SAVOIE	HERVE	Loïc	8/6/1980	M	47	Fonctionnaires de catégorie A	1/10/2014			1105676	UDI
+74	HAUTE SAVOIE	PELLEVAT	Cyril	18/2/1981	M	18	Cadres supérieurs (secteur privé)	1/10/2014			1444775	UMP
+75	PARIS	AICHI	Leila	14/5/1970	F	29	Avocats	25/9/2011			1188257	VEC
+75	PARIS	ASSOULINE	David	16/6/1959	M	42	Professeurs du secondaire et techn.	26/9/2004	24/9/2011	FM	336837	SOC
+75	PARIS	ASSOULINE	David	16/6/1959	M	42	Professeurs du secondaire et techn.	25/9/2011			336837	SOC
+75	PARIS	BORVO	Nicole	8/12/1945	F	47	Fonctionnaires de catégorie A	26/9/2006	24/9/2011	FM	311	COM
+75	PARIS	BORVO	Nicole	8/12/1945	F	47	Fonctionnaires de catégorie A	25/9/2011	19/9/2012	DV	311	COM
+75	PARIS	BOUMEDIENE-THIERY	Alima	24/7/1956	F	56	Autres professions	26/9/2004	24/9/2011	FM	837927	VEC
+75	PARIS	CAFFET	Jean-Pierre	8/11/1951	M	47	Fonctionnaires de catégorie A	26/9/2004	24/9/2011	FM	336803	SOC
+75	PARIS	CAFFET	Jean-Pierre	8/11/1951	M	47	Fonctionnaires de catégorie A	25/9/2011			336803	SOC
+75	PARIS	CHARON	Pierre	1/3/1951	M	54	Permanents politiques	25/9/2011			336722	UMP
+75	PARIS	DESESSARD	Jean	6/9/1952	M	56	Autres professions	26/9/2004	24/9/2011	FM	336735	VEC
+75	PARIS	DESESSARD	Jean	6/9/1952	M	56	Autres professions	25/9/2011			336735	VEC
+75	PARIS	DOMINATI	Philippe	12/4/1954	M	05	Industriels-Chefs entreprise	26/9/2004	24/9/2011	FM	14372	UMP
+75	PARIS	DOMINATI	Philippe	12/4/1954	M	05	Industriels-Chefs entreprise	25/9/2011			14372	UMP
+75	PARIS	DUMAS	Catherine	13/7/1957	F	47	Fonctionnaires de catégorie A	30/11/2007	24/9/2011	FM	14607	UMP
+75	PARIS	HERMANGE	Marie-Thérèse	17/9/1947	F	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	11532	UMP
+75	PARIS	JOUANNO	Chantal	12/7/1969	F	57	Sans profession déclarée	25/9/2011			1180697	UDI
+75	PARIS	KHIARI	Bariza	3/9/1946	F	56	Autres professions	26/9/2004	24/9/2011	FM	352702	SOC
+75	PARIS	KHIARI	Bariza	3/9/1946	F	56	Autres professions	25/9/2011			352702	SOC
+75	PARIS	LAURENT	Pierre	1/7/1957	M	37	Journalistes et autres médias	25/9/2011			1180707	COM
+75	PARIS	LIENEMANN	Marie-Noëlle	12/7/1951	F	42	Professeurs du secondaire et techn.	25/9/2011			7014	SOC
+75	PARIS	MADEC	Roger	27/10/1950	M	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	14780	SOC
+75	PARIS	MADEC	Roger	27/10/1950	M	57	Sans profession déclarée	25/9/2011			14780	SOC
+75	PARIS	POZZO DI BORGO	Yves	3/5/1948	M	56	Autres professions	26/9/2004	24/9/2011	FM	336741	MAJ
+75	PARIS	POZZO DI BORGO	Yves	3/5/1948	M	56	Autres professions	25/9/2011			336741	UDI
+75	PARIS	ROMANI	Roger	25/8/1934	M	05	Industriels-Chefs entreprise	1/10/2002	24/9/2011	FM	312	UMP
+76	SEINE MARITIME 	CANAYER	Agnès	21/9/1965	F	44	Professions rattachées à enseignt.	1/10/2014			1108599	UMP
+76	SEINE MARITIME 	FOUCAUD	Thierry	18/1/1954	M	61	Retraités salariés privés	26/9/2004	30/9/2014	FM	326	COM
+76	SEINE MARITIME 	FOUCAUD	Thierry	18/1/1954	M	61	Retraités salariés privés	1/10/2014			326	COM
+76	SEINE MARITIME 	GAOUYER	Marie-Françoise	17/8/1949	F	63	Retraités fonct.publique (sf enseig.)	26/9/2004	30/9/2014	FM	42704	SOC
+76	SEINE MARITIME 	GELARD	Patrice	3/8/1938	M	56	Autres professions	26/9/2004	30/9/2014	FM	324	UMP
+76	SEINE MARITIME 	LE VERN	Alain	8/5/1948	M	62	Retraités de l'enseignement	29/6/2007	1/10/2013	DV	42733	SOC
+76	SEINE MARITIME 	MARIE	Didier	19/5/1960	M	43	Enseignants 1er deg.-directeurs école	26/9/2004	30/9/2014	FM	167653	SOC
+76	SEINE MARITIME 	MARIE	Didier	19/5/1960	M	43	Enseignants 1er deg.-directeurs école	1/10/2014			167653	SOC
+76	SEINE MARITIME 	MASSION	Marc	12/11/1935	M	56	Autres professions	26/9/2004	31/12/2013	DV	325	SOC
+76	SEINE MARITIME 	MORIN-DESAILLY	Catherine	6/7/1960	F	54	Permanents politiques	26/9/2004	30/9/2014	FM	578099	DVD
+76	SEINE MARITIME 	MORIN-DESAILLY	Catherine	6/7/1960	F	54	Permanents politiques	1/10/2014			578099	UDI
+76	SEINE MARITIME 	REVET	Charles	9/11/1937	M	01	Agriculteurs propriétaires exploit.	26/9/2004	30/9/2014	FM	327	UMP
+76	SEINE MARITIME 	REVET	Charles	9/11/1937	M	01	Agriculteurs propriétaires exploit.	1/10/2014			327	UMP
+76	SEINE MARITIME 	TOCQUEVILLE	Nelly	2/5/1950	F	62	Retraités de l'enseignement	1/10/2014			167262	SOC
+77	SEINE ET MARNE 	BILLOUT	Michel	19/2/1958	M	43	Enseignants 1er deg.-directeurs école	26/9/2004	24/9/2011	FM	166856	COM
+77	SEINE ET MARNE 	BILLOUT	Michel	19/2/1958	M	43	Enseignants 1er deg.-directeurs école	25/9/2011			166856	COM
+77	SEINE ET MARNE 	BODIN	Yannick	8/8/1942	M	65	Autres retraités	26/9/2004	24/9/2011	FM	837017	SOC
+77	SEINE ET MARNE 	BRICQ	Nicole	10/6/1947	F	18	Cadres supérieurs (secteur privé)	26/9/2004	24/9/2011	FM	538318	SOC
+77	SEINE ET MARNE 	BRICQ	Nicole	10/6/1947	F	18	Cadres supérieurs (secteur privé)	25/9/2011	16/6/2012	AU	538318	SOC
+77	SEINE ET MARNE 	BRICQ	Nicole	10/6/1947	F	18	Cadres supérieurs (secteur privé)	3/5/2014			538318	SOC
+77	SEINE ET MARNE 	CHAIN-LARCHE	Anne	11/4/1958	F	28	Pharmaciens	11/10/2015			833686	UMP
+77	SEINE ET MARNE 	CUYPERS	Pierre	23/3/1944	M	01	Agriculteurs propriétaires exploit.	5/9/2011			525719	UMP
+77	SEINE ET MARNE 	EBLE	Vincent	15/10/1957	M	56	Autres professions	25/9/2011			4680	SOC
+77	SEINE ET MARNE 	HOUEL	Michel	8/11/1942	M	59	Retr.artis.commerc.chefs d'entrep.	26/9/2004	24/9/2011	FM	4714	UMP
+77	SEINE ET MARNE 	HOUEL	Michel	8/11/1942	M	59	Retr.artis.commerc.chefs d'entrep.	25/9/2011	30/11/2016	DC	4714	UMP
+77	SEINE ET MARNE 	HYEST	Jean-Jacques	2/3/1943	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	24/9/2011	FM	330	UMP
+77	SEINE ET MARNE 	HYEST	Jean-Jacques	2/3/1943	M	63	Retraités fonct.publique (sf enseig.)	25/9/2011	11/10/2015	AU	330	UMP
+77	SEINE ET MARNE 	LIPIETZ	Hélène	7/5/1958	F	29	Avocats	25/9/2011	3/5/2014	AU	832608	VEC
+77	SEINE ET MARNE 	MELOT	Colette	20/4/1947	F	42	Professeurs du secondaire et techn.	26/9/2004	24/9/2011	FM	538588	UMP
+77	SEINE ET MARNE 	MELOT	Colette	20/4/1947	F	42	Professeurs du secondaire et techn.	25/9/2011			538588	UMP
+78	YVELINES	ABOUT	Nicolas	14/7/1947	M	24	Médecins	26/9/2004	21/1/2011	DV	333	MAJ
+78	YVELINES	BRAYE	Dominique	21/10/1947	M	27	Vétérinaires	26/12/2004	24/9/2011	FM	166631	UMP
+78	YVELINES	CROS	Roselle	27/8/1947	F	18	Cadres supérieurs (secteur privé)	26/9/2004	24/9/2011	FM	185172	MAJ
+78	YVELINES	DUCHENE	Marie-Annick	23/8/1940	M	62	Retraités de l'enseignement	25/9/2011			184589	DVD
+78	YVELINES	DUPONT	Bernadette	6/12/1936	F	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	184597	UMP
+78	YVELINES	ESNOL	Philippe	2/4/1954	M	54	Permanents politiques	25/9/2011			53814	SOC
+78	YVELINES	GOURNAC	Alain	13/9/1943	M	65	Autres retraités	26/9/2004	24/9/2011	FM	335	UMP
+78	YVELINES	GOURNAC	Alain	13/9/1943	M	65	Autres retraités	25/9/2011			335	UMP
+78	YVELINES	LARCHER	Gérard	14/9/1949	M	27	Vétérinaires	1/10/2007	24/9/2011	FM	336	UMP
+78	YVELINES	LARCHER	Gérard	14/9/1949	M	27	Vétérinaires	25/9/2011			336	UMP
+78	YVELINES	PRIMAS	Sophie	7/6/1962	F	18	Cadres supérieurs (secteur privé)	25/9/2011			181995	UMP
+78	YVELINES	TASCA	Catherine	13/12/1941	F	63	Retraités fonct.publique (sf enseig.)	26/9/2004	24/9/2011	FM	837939	SOC
+78	YVELINES	TASCA	Catherine	13/12/1941	F	63	Retraités fonct.publique (sf enseig.)	25/9/2011			837939	SOC
+79	DEUX SEVRES	BECOT	Michel	10/10/1939	M	57	Sans profession déclarée	26/4/2004	30/9/2014	FM	338	UMP
+79	DEUX SEVRES	DULAIT	André	14/11/1937	M	27	Vétérinaires	26/9/2004	30/9/2014	FM	339	UMP
+79	DEUX SEVRES	MORISSET	Jean-Marie	18/8/1947	M	61	Retraités salariés privés	1/10/2014			1055	UMP
+79	DEUX SEVRES	MOUILLER	Philippe	20/9/1969	M	57	Sans profession déclarée	1/10/2014			1122003	UMP
+80	SOMME	BIGNON	Jérôme	1/1/1949	M	29	Avocats	1/10/2014			1059	UMP
+80	SOMME	DENEUX	Marcel	16/8/1928	M	01	Agriculteurs propriétaires exploit.	26/9/2004	30/9/2014	FM	341	UDF
+80	SOMME	DUBOIS	Daniel	5/2/1952	M	65	Autres retraités	26/9/2004	30/9/2014	FM	4368	MAJ
+80	SOMME	DUBOIS	Daniel	5/2/1952	M	65	Autres retraités	1/10/2014			4368	UDI
+80	SOMME	MANABLE	Christian	19/6/1948	M	62	Retraités de l'enseignement	1/10/2014			4612	SOC
+80	SOMME	MARTIN	Pierre	27/9/1943	M	65	Autres retraités	26/9/2004	30/9/2014	FM	342	UMP
+81	TARN	ALQUIER	Jacqueline	29/7/1947	F	54	Permanents politiques	26/9/2004	30/9/2014	FM	227501	SOC
+81	TARN	BONNECARRERE	Philippe	12/7/1955	M	29	Avocats	1/10/2014			165560	UDI
+81	TARN	CARCENAC	Thierry	19/12/1950	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			1064	SOC
+81	TARN	PASTOR	Jean-Marc	12/2/1950	M	01	Agriculteurs propriétaires exploit.	26/9/2004	30/9/2014	FM	344	SOC
+82	TARN ET GARONNE	BAYLET	Jean-Michel	17/11/1946	M	06	Administrateurs de sociétés	26/9/2004	30/9/2014	FM	345	RDG
+82	TARN ET GARONNE	BONHOMME	François	5/5/1969	M	56	Autres professions	1/10/2014			25126	DVD
+82	TARN ET GARONNE	COLLIN	Yvon	10/4/1944	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	30/9/2014	FM	346	RDG
+82	TARN ET GARONNE	COLLIN	Yvon	10/4/1944	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			346	DVG
+83	VAR	BRUN	Elie	15/10/1948	M	29	Avocats	19/4/2008	15/12/2010	AU	165003	UMP
+83	VAR	COLLOMBAT	Pierre-Yves	18/7/1945	M	62	Retraités de l'enseignement	26/9/2004	30/9/2014	FM	164998	SOC
+83	VAR	COLLOMBAT	Pierre-Yves	18/7/1945	M	62	Retraités de l'enseignement	1/10/2014			164998	SOC
+83	VAR	FALCO	Hubert	15/5/1947	M	59	Retr.artis.commerc.chefs d'entrep.	26/9/2004	30/9/2014	FM	164941	UMP
+83	VAR	FALCO	Hubert	15/5/1947	M	59	Retr.artis.commerc.chefs d'entrep.	1/10/2014			164941	UMP
+83	VAR	HUMMEL	Christiane	8/5/1942	F	62	Retraités de l'enseignement	26/9/2004	30/9/2014	FM	164920	UMP
+83	VAR	HUMMEL	Christiane	8/5/1942	F	62	Retraités de l'enseignement	1/10/2014			164920	UMP
+83	VAR	RACHLINE	David	2/12/1987	M	57	Sans profession déclarée	1/10/2014			1132632	FN
+83	VAR	TRUCY	François	9/6/1931	M	24	Médecins	26/9/2004	30/9/2014	FM	349	UMP
+84	VAUCLUSE	DUFAUT	Alain	2/1/1944	M	39	Autres professions libérales	26/9/2004	30/9/2014	FM	350	UMP
+84	VAUCLUSE	DUFAUT	Alain	2/1/1944	M	39	Autres professions libérales	13/2/2015			350	UMP
+84	VAUCLUSE	HAUT	Claude	22/12/1944	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	30/9/2014	FM	351	SOC
+84	VAUCLUSE	HAUT	Claude	22/12/1944	M	63	Retraités fonct.publique (sf enseig.)	1/10/2014			351	SOC
+84	VAUCLUSE	JEAN	Geneviève	28/8/1945	F	61	Retraités salariés privés	1/10/2014	12/2/2015	AU	443531	DIV
+84	VAUCLUSE	MILON	Alain	16/9/1947	M	60	Retraités des professions libérales	26/9/2004	30/9/2014	FM	4935	UMP
+84	VAUCLUSE	MILON	Alain	16/9/1947	M	60	Retraités des professions libérales	1/10/2014			4935	UMP
+85	VENDEE	BILLON	Annick	3/8/1967	F	57	Sans profession déclarée	1/10/2014			825785	UDI
+85	VENDEE	DARNICHE	Philippe	23/2/1943	M	59	Retr.artis.commerc.chefs d'entrep.	26/9/2004	30/9/2014	FM	352	DVD
+85	VENDEE	MANDELLI	Didier	7/8/1964	M	56	Autres professions	1/10/2014			164631	UMP
+85	VENDEE	MERCERON	Jean-Claude	12/1/1942	M	54	Permanents politiques	26/9/2004	30/9/2014	FM	44448	DVD
+85	VENDEE	RETAILLEAU	Bruno	20/11/1960	M	54	Permanents politiques	26/9/2004	30/9/2014	FM	13050	DVD
+85	VENDEE	RETAILLEAU	Bruno	20/11/1960	M	54	Permanents politiques	1/10/2014			13050	UMP
+86	VIENNE	FOUCHÉ	Alain	4/12/1942	M	60	Retraités des professions libérales	26/9/2004	30/9/2014	FM	356	UMP
+86	VIENNE	FOUCHÉ	Alain	4/12/1942	M	60	Retraités des professions libérales	1/10/2014			356	UMP
+86	VIENNE	RAFFARIN	Jean-Pierre	3/8/1948	M	56	Autres professions	18/9/2005	30/9/2014	FM	845021	UMP
+86	VIENNE	RAFFARIN	Jean-Pierre	3/8/1948	M	56	Autres professions	1/10/2014			845021	UMP
+87	HAUTE VIENNE	DEMERLIAT	Jean-Pierre	8/5/1943	M	57	Sans profession déclarée	26/9/2004	30/9/2014	FM	357	SOC
+87	HAUTE VIENNE	GABOUTY	Jean-Marc	17/5/1949	M	05	Industriels-Chefs entreprise	1/10/2014			164307	UDI
+87	HAUTE VIENNE	PEROL-DUMONT	Marie-Françoise	26/5/1952	F	62	Retraités de l'enseignement	1/10/2014			1091	SOC
+87	HAUTE VIENNE	PEYRONNET	Jean-Claude	7/11/1940	M	41	Professeurs de faculté	26/9/2004	30/9/2014	FM	358	SOC
+88	VOSGES	GREMILLET	Daniel	31/7/1953	M	01	Agriculteurs propriétaires exploit.	1/10/2014			1321	UMP
+88	VOSGES	PIERRE	Jackie	27/5/1946	M	61	Retraités salariés privés	26/9/2004	30/9/2014	FM	2207	UMP
+88	VOSGES	PIERRE	Jackie	27/5/1946	M	61	Retraités salariés privés	1/10/2014			2207	UMP
+88	VOSGES	PONCELET	Christian	24/3/1928	M	64	Retraités des entreprises publiques	26/9/2004	30/9/2014	FM	360	UMP
+89	YONNE	BORDIER	Pierre	21/6/1945	M	27	Vétérinaires	26/9/2004	30/9/2014	FM	5620	UMP
+89	YONNE	DE RAINCOURT	Henri	17/11/1948	M	58	Retraités agricoles	26/9/2004	23/7/2009	AU	362	UMP
+89	YONNE	DE RAINCOURT	Henri	17/11/1948	M	58	Retraités agricoles	18/6/2012	30/9/2014	FM	362	UMP
+89	YONNE	DE RAINCOURT	Henri	17/11/1948	M	58	Retraités agricoles	1/10/2014			362	UMP
+89	YONNE	LEMOYNE	Jean-Baptiste	15/9/1977	M	18	Cadres supérieurs (secteur privé)	1/10/2014			870148	DVD
+89	YONNE	VILLIERS	André	13/12/1954	M	01	Agriculteurs propriétaires exploit.	26/9/2004	18/6/2012	DV	163430	UMP
+90	TERRITOIRE DE BELFORT	ACKERMANN	Yves	1/6/1949	M	47	Fonctionnaires de catégorie A	8/9/2008	20/9/2008	FM	7411	SOC
+90	TERRITOIRE DE BELFORT	CHEVENEMENT	Jean-Pierre	9/3/1939	M	65	Autres retraités	21/9/2008	30/9/2014	FM	114096	DVG
+90	TERRITOIRE DE BELFORT	PERRIN	Cédric	20/1/1974	M	47	Fonctionnaires de catégorie A	1/10/2014			7376	UMP
+91	ESSONNE	BERSON	Michel	21/4/1945	M	61	Retraités salariés privés	25/9/2011			5546	SOC
+91	ESSONNE	BETEILLE	Laurent	19/4/1948	M	29	Avocats	26/9/2004	24/9/2011	FM	364	UMP
+91	ESSONNE	CAMPION	Claire-Lise	27/7/1951	F	56	Autres professions	26/9/2004	24/9/2011	FM	17517	SOC
+91	ESSONNE	CAMPION	Claire-Lise	27/7/1951	F	56	Autres professions	25/9/2011			17517	SOC
+91	ESSONNE	DASSAULT	Serge	4/4/1925	M	05	Industriels-Chefs entreprise	26/9/2004	24/9/2011	FM	5173	UMP
+91	ESSONNE	DASSAULT	Serge	4/4/1925	M	05	Industriels-Chefs entreprise	25/9/2011			5173	UMP
+91	ESSONNE	DELAHAYE	Vincent	23/8/1959	M	54	Permanents politiques	25/9/2011			17448	DVD
+91	ESSONNE	LABARRE	Marie-Agnès	12/6/1945	F	23	Salariés du secteur médical	26/9/2004	24/9/2011	FM	17400	COM
+91	ESSONNE	MELENCHON	Jean-Luc	19/8/1951	M	57	Sans profession déclarée	26/9/2004	7/1/2010	AU	837803	SOC
+91	ESSONNE	PLACE	Jean-Vincent	12/3/1968	M	56	Autres professions	25/9/2011	11/3/2016	AU	833907	VEC
+91	ESSONNE	PLACE	Jean-Vincent	12/3/1968	M	56	Autres professions	18/6/2017			833907	VEC
+91	ESSONNE	VERA	Bernard	5/3/1950	M	42	Professeurs du secondaire et techn.	26/9/2004	24/9/2011	FM	17500	COM
+91	ESSONNE	VERA	Bernard	5/3/1950	M	42	Professeurs du secondaire et techn.	25/9/2011	17/6/2017	AU	17500	COM
+92	HAUTS DE SEINE 	BADINTER	Robert	30/3/1928	M	41	Professeurs de faculté	26/9/2004	24/9/2011	FM	369	SOC
+92	HAUTS DE SEINE 	BADRE	Denis	3/1/1943	M	63	Retraités fonct.publique (sf enseig.)	26/9/2004	24/9/2011	FM	370	UDF
+92	HAUTS DE SEINE 	DEBRE	Isabelle	23/5/1957	F	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	98388	UMP
+92	HAUTS DE SEINE 	DEBRE	Isabelle	23/5/1957	F	57	Sans profession déclarée	25/9/2011			98388	UMP
+92	HAUTS DE SEINE 	DE ROSE	Marie-France	25/4/1943	F	57	Sans profession déclarée	25/9/2011			1157197	UMP
+92	HAUTS DE SEINE 	FOURCADE	Jean-Pierre	18/10/1929	M	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	163161	UMP
+92	HAUTS DE SEINE 	GATTOLIN	André	24/6/1960	M	35	Ingénieurs conseils	25/9/2011			1188258	VEC
+92	HAUTS DE SEINE 	GAUTIER	Jacques	18/9/1946	M	56	Autres professions	24/6/2007	24/7/2009	AU	163155	UMP
+92	HAUTS DE SEINE 	GAUTIER	Jacques	18/9/1946	M	56	Autres professions	29/7/2009	24/9/2011	FM	163155	UMP
+92	HAUTS DE SEINE 	GAUTIER	Jacques	18/9/1946	M	56	Autres professions	25/9/2011	31/12/2016	DV	163155	UMP
+92	HAUTS DE SEINE 	GONTHIER MAURIN	Brigitte	23/4/1956	F	52	Employés (autres entrep. publiques)	29/6/2007	24/9/2011	FM	867139	COM
+92	HAUTS DE SEINE 	GONTHIER MAURIN	Brigitte	23/4/1956	F	52	Employés (autres entrep. publiques)	25/9/2011			867139	COM
+92	HAUTS DE SEINE 	KALTENBACH	Philippe	9/1/1966	M	56	Autres professions	25/9/2011			163151	SOC
+92	HAUTS DE SEINE 	KAROUTCHI	Roger	26/8/1951	M	46	Grands corps de l'état	26/9/2004	28/6/2009	AU	374	UMP
+92	HAUTS DE SEINE 	KAROUTCHI	Roger	26/8/1951	M	46	Grands corps de l'état	25/9/2011			374	UMP
+92	HAUTS DE SEINE 	MARSEILLE	Hervé	20/8/1954	M	51	Cadres (entreprises publiques)	25/9/2011			163139	MAJ
+92	HAUTS DE SEINE 	PASQUA	Charles	18/4/1927	M	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	27835	DVD
+93	SEINE SAINT-DENIS	ARCHIMBAUD	Aline	2/11/1948	F	42	Professeurs du secondaire et techn.	25/9/2011			96635	VEC
+93	SEINE SAINT-DENIS	ASSASSI	Eliane	2/10/1958	F	19	Autres cadres (secteur privé)	26/9/2004	24/9/2011	FM	837953	COM
+93	SEINE SAINT-DENIS	ASSASSI	Eliane	2/10/1958	F	19	Autres cadres (secteur privé)	25/9/2011			837953	COM
+93	SEINE SAINT-DENIS	CAPO-CANELLAS	Vincent	4/5/1967	M	50	Cadres sup. (entreprises publiques)	25/9/2011			163133	MAJ
+93	SEINE SAINT-DENIS	DALLIER	Philippe	8/12/1962	M	56	Autres professions	26/9/2004	24/9/2011	FM	163103	UMP
+93	SEINE SAINT-DENIS	DALLIER	Philippe	8/12/1962	M	56	Autres professions	25/9/2011			163103	UMP
+93	SEINE SAINT-DENIS	DEMUYNCK	Christian	24/7/1947	M	62	Retraités de l'enseignement	26/9/2004	24/9/2011	FM	379	UMP
+93	SEINE SAINT-DENIS	DILAIN	Claude	12/8/1948	M	24	Médecins	25/9/2011	4/3/2015	DC	163134	SOC
+93	SEINE SAINT-DENIS	MAHEAS	Jacques	10/7/1939	M	62	Retraités de l'enseignement	26/9/2004	24/9/2011	FM	380	SOC
+93	SEINE SAINT-DENIS	RALITE	Jack	14/5/1928	M	37	Journalistes et autres médias	26/9/2004	24/9/2011	FM	381	COM
+93	SEINE SAINT-DENIS	ROGER	Gilbert	9/11/1953	M	54	Permanents politiques	25/9/2011			163132	SOC
+93	SEINE SAINT-DENIS	VOYNET	Dominique	4/11/1958	F	24	Médecins	26/9/2004	24/9/2011	FM	837955	VEC
+93	SEINE SAINT-DENIS	YONNET	Evelyne	9/10/1954	F	19	Autres cadres (secteur privé)	4/3/2015			277715	SOC
+94	VAL DE MARNE	BENBASSA	Esther	27/3/1950	F	41	Professeurs de faculté	25/9/2011			1188259	VEC
+94	VAL DE MARNE	CAMBON	Christian	8/3/1948	M	59	Retr.artis.commerc.chefs d'entrep.	26/9/2004	24/9/2011	FM	1583	UMP
+94	VAL DE MARNE	CAMBON	Christian	8/3/1948	M	59	Retr.artis.commerc.chefs d'entrep.	25/9/2011			1583	UMP
+94	VAL DE MARNE	CARVOUNAS	Luc	8/6/1971	M	57	Sans profession déclarée	25/9/2011			1831	SOC
+94	VAL DE MARNE	COHEN	Laurence	15/1/1953	F	39	Autres professions libérales	25/9/2011			1188260	COM
+94	VAL DE MARNE	FAVIER	Christian	20/2/1951	M	54	Permanents politiques	25/9/2011			1557	COM
+94	VAL DE MARNE	JEGOU	Jean-Jacques	24/3/1945	M	65	Autres retraités	26/9/2004	24/9/2011	FM	163088	UDF
+94	VAL DE MARNE	LAGAUCHE	Serge	2/1/1940	M	54	Permanents politiques	26/9/2004	24/9/2011	FM	387	SOC
+94	VAL DE MARNE	PROCACCIA	Catherine	13/10/1949	F	61	Retraités salariés privés	26/9/2004	24/9/2011	FM	1524	UMP
+94	VAL DE MARNE	PROCACCIA	Catherine	13/10/1949	F	61	Retraités salariés privés	25/9/2011			1524	UMP
+94	VAL DE MARNE	TERRADE	Odette	21/2/1949	F	20	Employés (secteur privé)	19/9/2007	24/9/2011	FM	382	COM
+94	VAL DE MARNE	VOGUET	Jean-François	8/8/1949	M	54	Permanents politiques	26/9/2004	24/9/2011	FM	21077	COM
+95	VAL D'OISE	ANGELS	Bernard	18/9/1944	M	56	Autres professions	26/9/2004	24/9/2011	FM	163029	SOC
+95	VAL D'OISE	DELATTRE	Francis	11/9/1946	M	47	Fonctionnaires de catégorie A	25/9/2011			1153	UMP
+95	VAL D'OISE	GILLOT	Dominique	11/7/1949	F	62	Retraités de l'enseignement	25/9/2011			14570	SOC
+95	VAL D'OISE	HUE	Robert	19/10/1946	M	23	Salariés du secteur médical	26/9/2004	24/9/2011	FM	162983	COM
+95	VAL D'OISE	HUE	Robert	19/10/1946	M	23	Salariés du secteur médical	25/9/2011			162983	COM
+95	VAL D'OISE	LE TEXIER	Raymonde	29/10/1939	F	65	Autres retraités	26/9/2004	24/9/2011	FM	14568	SOC
+95	VAL D'OISE	MALOVRY	Lucienne	11/4/1931	F	65	Autres retraités	26/9/2004	24/9/2011	FM	14194	UMP
+95	VAL D'OISE	PORTELLI	Hugues	22/12/1947	M	41	Professeurs de faculté	26/9/2004	24/9/2011	FM	163014	UMP
+95	VAL D'OISE	PORTELLI	Hugues	22/12/1947	M	41	Professeurs de faculté	25/9/2011			163014	UMP
+95	VAL D'OISE	RICHARD	Alain	29/8/1945	M	46	Grands corps de l'état	25/9/2011			162943	SOC
+ZA	GUADELOUPE	CORNANO	Jacques	18/11/1956	M	42	Professeurs du secondaire et techn.	25/9/2011			140686	DVG
+ZA	GUADELOUPE	DESPLAN	Félix	22/2/1943	M	65	Autres retraités	25/9/2011			140681	SOC
+ZA	GUADELOUPE	GILLOT	Jacques	4/3/1948	M	60	Retraités des professions libérales	26/9/2004	24/9/2011	FM	837957	DVG
+ZA	GUADELOUPE	GILLOT	Jacques	4/3/1948	M	60	Retraités des professions libérales	25/9/2011			837957	DVG
+ZA	GUADELOUPE	MARSIN	Daniel	13/11/1951	M	18	Cadres supérieurs (secteur privé)	26/9/2004	24/9/2011	FM	1180592	DVG
+ZA	GUADELOUPE	MICHAUX-CHEVRY	Lucette	5/3/1929	F	60	Retraités des professions libérales	26/9/2004	24/9/2011	FM	393	DVD
+ZB	MARTINIQUE	ANTISTE	Maurice	22/6/1953	M	62	Retraités de l'enseignement	25/9/2011			1188250	DVG
+ZB	MARTINIQUE	LARCHER	Serge	17/10/1945	M	62	Retraités de l'enseignement	26/9/2004	24/9/2011	FM	140674	DVG
+ZB	MARTINIQUE	LARCHER	Serge	17/10/1945	M	62	Retraités de l'enseignement	25/9/2011			140674	DVG
+ZB	MARTINIQUE	LISE	Claude	31/1/1941	M	60	Retraités des professions libérales	26/9/2004	24/9/2011	FM	557891	DVG
+ZC	GUYANE	ANTOINETTE	Jean-Etienne	29/1/1966	M	44	Professions rattachées à enseignt.	21/9/2008	30/9/2014	FM	833898	DVG
+ZC	GUYANE	KARAM	Antoine	21/2/1950	M	43	Enseignants 1er deg.-directeurs école	1/10/2014			1502892	DVG
+ZC	GUYANE	OTHILY	Georges	7/1/1944	M	08	Agents immobiliers	28/9/1998	20/9/2008	FM	396	DVG
+ZC	GUYANE	PATIENT	Georges	1/4/1949	M	54	Permanents politiques	21/9/2008	30/9/2014	FM	151255	DVG
+ZC	GUYANE	PATIENT	Georges	1/4/1949	M	54	Permanents politiques	1/10/2014			151255	DVG
+ZD	LA REUNION	FARREYROL	Jacqueline	25/2/1939	F	64	Retraités des entreprises publiques	25/9/2011	30/6/2014	DV	872232	UMP
+ZD	LA REUNION	FONTAINE	Michel	6/5/1952	M	24	Médecins	25/9/2011			1161847	UMP
+ZD	LA REUNION	HOARAU	Gélita	15/1/1956	F	54	Permanents politiques	24/2/2005	24/9/2011	FM	839355	DVG
+ZD	LA REUNION	HOARAU	Gélita	15/1/1956	F	54	Permanents politiques	25/9/2011			839355	COM
+ZD	LA REUNION	PAYET	Anne-Marie	1/8/1949	F	43	Enseignants 1er deg.-directeurs école	23/9/2001	24/9/2011	FM	8582	UDF
+ZD	LA REUNION	ROBERT	Didier	26/4/1964	M	50	Cadres sup. (entreprises publiques)	2/7/2014			47585	UMP
+ZD	LA REUNION	VERGES	Paul	5/3/1925	M	37	Journalistes et autres médias	25/9/2011	11/11/2016	DC	398	COM
+ZD	LA REUNION	VERGOZ	Michel	10/1/1950	M	28	Pharmaciens	25/9/2011			73006	SOC
+ZD	LA REUNION	VIRAPOULLÉ	Jean-Paul	15/3/1944	M	39	Autres professions libérales	23/9/2001	24/9/2011	FM	8597	UMP
+ZM	MAYOTTE	GIRAUD	Adrien	4/10/1936	M	56	Autres professions	26/9/2004	24/9/2011	FM	838094	UDF
+ZM	MAYOTTE	IBRAHIM RAMADANI	Soibahadine	5/3/1949	M	62	Retraités de l'enseignement	26/9/2004	24/9/2011	FM	837964	UMP
+ZM	MAYOTTE	MOHAMED SOILIHI	Thani	20/6/1972	M	29	Avocats	25/9/2011			1188251	DVG
+ZM	MAYOTTE	SOILIHI	Abdourahamane	4/10/1959	M	54	Permanents politiques	25/9/2011			1152138	UMP
+ZN	NOUVELLE CALEDONIE	FROGIER	Pierre	16/11/1950	M	08	Agents immobiliers	25/9/2011			787	UMP
+ZN	NOUVELLE CALEDONIE	LOUECKHOTE	Simon	7/5/1957	M	57	Sans profession déclarée	28/9/2001	24/9/2011	FM	401	UMP
+ZN	NOUVELLE CALEDONIE	VENDEGOU	Hilarion	4/9/1941	M	62	Retraités de l'enseignement	25/9/2011			1153032	UMP
+ZP	POLYNESIE FRANCAISE	DUBOIS	Vincent	5/8/1981	M	29	Avocats	1/10/2014	6/2/2015	AU	1502893	DVD
+ZP	POLYNESIE FRANCAISE	FLOSSE	Gaston	24/6/1931	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	402	UMP
+ZP	POLYNESIE FRANCAISE	FLOSSE	Gaston	24/6/1931	M	57	Sans profession déclarée	21/9/2008	30/9/2014	FM	402	DVD
+ZP	POLYNESIE FRANCAISE	IRITI	Teura	7/1/1965	F	54	Permanents politiques	1/10/2014	6/2/2015	AU	1153570	DVD
+ZP	POLYNESIE FRANCAISE	LAUREY	Nuihau	29/12/1964	M	19	Autres cadres (secteur privé)	3/5/2015			1202713	DVD
+ZP	POLYNESIE FRANCAISE	TETUANUI	Lana	23/2/1970	F	56	Autres professions	3/5/2015			1511628	DVD
+ZP	POLYNESIE FRANCAISE	TUHEIAVA	Richard	28/2/1974	M	29	Avocats	21/9/2008	30/9/2014	FM	1174428	REG
+ZS	SAINT PIERRE ET MIQUELON	CLAIREAUX	Karine	15/11/1963	F	49	Fonctionnaires de catégorie C	25/9/2011			1154433	SOC
+ZS	SAINT PIERRE ET MIQUELON	DETCHEVERRY	Denis	29/4/1953	M	54	Permanents politiques	26/9/2004	24/9/2011	FM	837965	UMP
+ZT	SAINT-MARTIN	ARNELL	Guillaume Jacques	20/1/1958	M	19	Autres cadres (secteur privé)	1/10/2014			1502894	DVG
+ZT	SAINT-MARTIN	FLEMING	Louis-Constant	1/12/1946	M	05	Industriels-Chefs entreprise	21/9/2008	31/12/2013	DV	1174429	UMP
+ZW	WALLIS ET FUTUNA	LAUFOAULU	Robert	7/7/1947	M	62	Retraités de l'enseignement	28/9/1998	20/9/2008	FM	404	UMP
+ZW	WALLIS ET FUTUNA	LAUFOAULU	Robert	7/7/1947	M	62	Retraités de l'enseignement	21/9/2008	30/9/2014	FM	404	UMP
+ZW	WALLIS ET FUTUNA	LAUFOAULU	Robert	7/7/1947	M	62	Retraités de l'enseignement	1/10/2014			404	UMP
+ZY	SAINT-BARTHELEMY	MAGRAS	Michel	6/1/1954	M	43	Enseignants 1er deg.-directeurs école	21/9/2008	30/9/2014	FM	834480	UMP
+ZY	SAINT-BARTHELEMY	MAGRAS	Michel	6/1/1954	M	43	Enseignants 1er deg.-directeurs école	1/10/2014			834480	MNR
+ZZ	FRANCAIS DE L'ETRANGER	ANGO ELA PAVLOPULOS	Kalliopi	24/9/1962	F	42	Professeurs du secondaire et techn.	25/9/2011	4/5/2014	AU	1192379	VEC
+ZZ	FRANCAIS DE L'ETRANGER	BIARNES	Pierre	17/1/1932	M	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	405	DVG
+ZZ	FRANCAIS DE L'ETRANGER	BRISEPIERRE	Paulette	21/4/1917	F	57	Sans profession déclarée	28/9/1998	20/9/2008	FM	406	UMP
+ZZ	FRANCAIS DE L'ETRANGER	CADIC	Olivier	22/4/1962	M	05	Industriels-Chefs entreprise	1/10/2014			1502895	UDI
+ZZ	FRANCAIS DE L'ETRANGER	CANTEGRIT	Jean-Pierre	2/7/1933	M	06	Administrateurs de sociétés	23/9/2001	24/9/2011	FM	407	UMP
+ZZ	FRANCAIS DE L'ETRANGER	CANTEGRIT	Jean-Pierre	2/7/1933	M	06	Administrateurs de sociétés	28/9/2001	20/9/2008	FM	407	UMP
+ZZ	FRANCAIS DE L'ETRANGER	CANTEGRIT	Jean-Pierre	2/7/1933	M	06	Administrateurs de sociétés	25/9/2011			407	UMP
+ZZ	FRANCAIS DE L'ETRANGER	CERISIER BEN GUIGA	Monique	20/6/1942	F	65	Autres retraités	23/9/2001	24/9/2011	FM	408	SOC
+ZZ	FRANCAIS DE L'ETRANGER	CERISIER BEN GUIGA	Monique	20/6/1942	F	65	Autres retraités	28/9/2001	20/9/2008	FM	408	SOC
+ZZ	FRANCAIS DE L'ETRANGER	COINTAT	Christian	1/8/1922	M	13	Ingénieurs	9/10/2001	20/9/2008	FM	414	UMP
+ZZ	FRANCAIS DE L'ETRANGER	COINTAT	Christian	11/7/1943	M	47	Fonctionnaires de catégorie A	26/9/2004	30/9/2014	FM	1174477	UMP
+ZZ	FRANCAIS DE L'ETRANGER	CONWAY-MOURET	Hélène	13/9/1960	F	41	Professeurs de faculté	25/9/2011	22/7/2012	AU	1188252	SOC
+ZZ	FRANCAIS DE L'ETRANGER	CONWAY-MOURET	Hélène	13/9/1960	F	41	Professeurs de faculté	25/9/2011			1188252	SOC
+ZZ	FRANCAIS DE L'ETRANGER	DEL PICCHIA	Robert	10/11/1942	M	65	Autres retraités	28/9/1998	20/9/2008	FM	409	UMP
+ZZ	FRANCAIS DE L'ETRANGER	DEL PICCHIA	Robert	10/11/1942	M	65	Autres retraités	21/9/2008	30/9/2014	FM	409	UMP
+ZZ	FRANCAIS DE L'ETRANGER	DEL PICCHIA	Robert	10/11/1942	M	65	Autres retraités	1/10/2014			409	UMP
+ZZ	FRANCAIS DE L'ETRANGER	DEROMEDI	Jacky	15/6/1944	F	06	Administrateurs de sociétés	1/10/2014			1502896	DVD
+ZZ	FRANCAIS DE L'ETRANGER	DUVERNOIS	Louis	17/5/1941	M	37	Journalistes et autres médias	23/9/2001	24/9/2011	FM	411	UMP
+ZZ	FRANCAIS DE L'ETRANGER	DUVERNOIS	Louis	17/5/1941	M	37	Journalistes et autres médias	28/9/2001	20/9/2008	FM	411	UMP
+ZZ	FRANCAIS DE L'ETRANGER	DUVERNOIS	Louis	17/5/1941	M	37	Journalistes et autres médias	25/9/2011			411	UMP
+ZZ	FRANCAIS DE L'ETRANGER	FERRAND	André	22/2/1936	M	54	Permanents politiques	28/9/1998	20/9/2008	FM	412	UMP
+ZZ	FRANCAIS DE L'ETRANGER	FERRAND	André	22/2/1936	M	54	Permanents politiques	21/9/2008	30/9/2014	FM	412	UMP
+ZZ	FRANCAIS DE L'ETRANGER	FRASSA	Christophe	4/2/1968	M	39	Autres professions libérales	21/9/2008	30/9/2014	FM	1174430	DVD
+ZZ	FRANCAIS DE L'ETRANGER	FRASSA	Christophe-André	4/2/1968	M	32	Conseillers juridiques	1/10/2014			1502897	UMP
+ZZ	FRANCAIS DE L'ETRANGER	GARRIAUD MAYLAM	Joëlle	20/3/1955	F	39	Autres professions libérales	26/9/2004	24/9/2011	FM	1174478	UMP
+ZZ	FRANCAIS DE L'ETRANGER	GARRIAUD MAYLAM	Joëlle	20/3/1955	F	39	Autres professions libérales	25/9/2011			1174478	UMP
+ZZ	FRANCAIS DE L'ETRANGER	GUERRY	Michel	2/12/1932	M	39	Autres professions libérales	23/9/2001	24/9/2011	FM	413	UMP
+ZZ	FRANCAIS DE L'ETRANGER	GUERRY	Michel	2/12/1932	M	39	Autres professions libérales	28/9/2001	20/9/2008	FM	413	UMP
+ZZ	FRANCAIS DE L'ETRANGER	KAMMERMANN	Christiane	10/7/1932	F	57	Sans profession déclarée	26/9/2004	20/9/2008	FM	837970	UMP
+ZZ	FRANCAIS DE L'ETRANGER	KAMMERMANN	Christiane	10/7/1932	F	57	Sans profession déclarée	26/9/2004	24/9/2011	FM	837970	UMP
+ZZ	FRANCAIS DE L'ETRANGER	KAMMERMANN	Christiane	10/7/1932	F	57	Sans profession déclarée	25/9/2011			837970	UMP
+ZZ	FRANCAIS DE L'ETRANGER	LECONTE	Jean Yves	31/10/1966	M	13	Ingénieurs	25/9/2011			1188253	SOC
+ZZ	FRANCAIS DE L'ETRANGER	LEPAGE	Claudine	10/8/1949	F	44	Professions rattachées à enseignt.	1/10/2014			1502898	SOC
+ZZ	FRANCAIS DE L'ETRANGER	LEPAGE	Claudine	19/8/1949	F	19	Autres cadres (secteur privé)	21/9/2008	30/9/2014	FM	1174431	SOC
+ZZ	FRANCAIS DE L'ETRANGER	YUNG	Richard	22/9/1947	M	56	Autres professions	26/9/2004	20/9/2008	FM	837971	SOC
+ZZ	FRANCAIS DE L'ETRANGER	YUNG	Richard	22/9/1947	M	56	Autres professions	26/9/2004	30/9/2014	FM	837971	SOC
+ZZ	FRANCAIS DE L'ETRANGER	YUNG	Richard	22/9/1947	M	56	Autres professions	1/10/2014			837971	SOC

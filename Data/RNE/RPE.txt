@@ -1,0 +1,76 @@
+Titre du rapport
+CodeCirER	LibelléCirER	Nom de l'élu	Prénom de l'élu	Date de naissance	Civilité	Code profession	Libellé de la profession	Date de début du mandat	N° Identification d'un élu	Nuance politique (Rep. P.E.)
+01	NORD-OUEST	BAY	Nicolas	21/12/1977	M	56	Autres professions	1/7/2014	1180764	FN
+01	NORD-OUEST	BRIOIS	Steeve	28/11/1972	M	51	Cadres (entreprises publiques)	1/7/2014	1441	FN
+01	NORD-OUEST	DELLI	Karima	4/3/1979	Mme	50	Cadres sup. (entreprises publiques)	1/7/2014	1177465	VEC
+01	NORD-OUEST	GODDYN	Sylvie	24/6/1964	Mme	54	Permanents politiques	1/7/2014	45873	FN
+01	NORD-OUEST	LAVRILLEUX	Jérôme	19/9/1969	M	54	Permanents politiques	1/7/2014	3577	UMP
+01	NORD-OUEST	LECHEVALIER	Christelle	27/9/1968	Mme	16	Représentants de commerce	19/6/2017	1238241	FN
+01	NORD-OUEST	PARGNEAUX	Gilles	24/3/1957	M	56	Autres professions	1/7/2014	34076	SOC
+01	NORD-OUEST	RIQUET	Dominique	18/9/1946	M	56	Autres professions	1/7/2014	10326	UDI
+01	NORD-OUEST	SAÏFI	Tokia	11/7/1959	Mme	54	Permanents politiques	1/7/2014	1501520	UMP
+01	NORD-OUEST	TROSZCZYNSKI	Mylène	16/5/1972	Mme	57	Sans profession déclarée	1/7/2014	1180761	FN
+02	OUEST	ARTHUIS	Jean	7/10/1944	M	34	Experts comptables	1/7/2014	233	UDI
+02	OUEST	BERGERON	Joëlle	28/6/1949	Mme	30	Notaires	1/7/2014	1373515	FN
+02	OUEST	CADEC	Alain	21/6/1953	M	33	Agents généraux d'assurances	1/7/2014	60370	UMP
+02	OUEST	JADOT	Yannick	27/7/1967	M	56	Autres professions	1/7/2014	1177448	VEC
+02	OUEST	JOULAUD	Marc	3/9/1967	M	54	Permanents politiques	1/7/2014	989	UMP
+02	OUEST	LEBRETON	Gilles	11/10/1958	M	41	Professeurs de faculté	1/7/2014	1451031	FN
+02	OUEST	MAUREL	Emmanuel	10/3/1973	M	44	Professions rattachées à enseignt.	1/7/2014	1501522	SOC
+02	OUEST	MORIN-CHARTIER	Elisabeth	10/10/1947	Mme	44	Professions rattachées à enseignt.	1/7/2014	1501523	UMP
+02	OUEST	THOMAS	Isabelle	26/11/1961	Mme	32	Conseillers juridiques	1/7/2014	559504	SOC
+03	EST	BILDE	Dominique	1/8/1953	Mme	09	Commercants	1/7/2014	1379953	FN
+03	EST	DANJEAN	Arnaud	11/2/1971	M	47	Fonctionnaires de catégorie A	1/7/2014	1177451	UMP
+03	EST	GRIESBECK	Nathalie	24/5/1956	Mme	41	Professeurs de faculté	1/7/2014	1786	MDM
+03	EST	JALKH	Jean-François	23/5/1957	M	37	Journalistes et autres médias	1/7/2014	4679	FN
+03	EST	MARTIN	Edouard	15/6/1963	M	20	Employés (secteur privé)	1/7/2014	1501524	SOC
+03	EST	MONTEL	Sophie	22/11/1969	Mme	19	Autres cadres (secteur privé)	1/7/2014	45362	FN
+03	EST	MORANO	Nadine	6/11/1963	Mme	05	Industriels-Chefs entreprise	1/7/2014	850	UMP
+03	EST	PHILIPPOT	Florian	24/10/1981	M	46	Grands corps de l'état	1/7/2014	1376985	FN
+03	EST	SANDER	Anne	1/10/1973	Mme	54	Permanents politiques	1/7/2014	1501525	UMP
+04	SUD-OUEST	ALLIOT-MARIE	Michèle	10/9/1946	Mme	41	Professeurs de faculté	1/7/2014	833186	UMP
+04	SUD-OUEST	ANDRIEU	Éric	14/4/1960	M	54	Permanents politiques	1/7/2014	1501526	SOC
+04	SUD-OUEST	BOVÉ	José	11/6/1953	M	01	Agriculteurs propriétaires exploit.	1/7/2014	1501527	VEC
+04	SUD-OUEST	FERRAND	Edouard	25/4/1965	M	31	Huissiers	1/7/2014	6706	FN
+04	SUD-OUEST	JAMET	France	5/2/1961	Mme	54	Permanents politiques	18/6/2017	46389	FN
+04	SUD-OUEST	MÉLIN	Joëlle	26/3/1950	Mme	24	Médecins	1/7/2014	3406	FN
+04	SUD-OUEST	PROUST	Franck	2/5/1963	M	33	Agents généraux d'assurances	1/7/2014	833812	UMP
+04	SUD-OUEST	ROCHEFORT	Robert	19/9/1955	M	50	Cadres sup. (entreprises publiques)	1/7/2014	1177458	MDM
+04	SUD-OUEST	ROZIÈRE	Virginie	18/6/1976	Mme	46	Grands corps de l'état	1/7/2014	1501529	RDG
+04	SUD-OUEST	VIEU	Marie-Pierre	1/2/1967	Mme	56	Autres professions	18/6/2017	834082	COM
+05	SUD-EST	ARNAUTU	Marie-Christine	19/10/1952	Mme	61	Retraités salariés privés	1/7/2014	4308	FN
+05	SUD-EST	DANTIN	Michel	15/1/1960	M	47	Fonctionnaires de catégorie A	1/7/2014	750145	UMP
+05	SUD-EST	D'ORNANO	Mireille	29/6/1951	Mme	20	Employés (secteur privé)	1/7/2014	22359	FN
+05	SUD-EST	GOLLNISCH	Bruno	28/1/1950	M	41	Professeurs de faculté	1/7/2014	41	FN
+05	SUD-EST	GOULARD	Sylvie	6/12/1964	Mme	47	Fonctionnaires de catégorie A	1/7/2014	1177447	MDM
+05	SUD-EST	GROSSETÊTE	Françoise	17/5/1946	Mme	54	Permanents politiques	1/7/2014	1501530	UMP
+05	SUD-EST	GUILLAUME	Sylvie	11/6/1962	Mme	56	Autres professions	1/7/2014	45181	SOC
+05	SUD-EST	LE PEN	Jean-Marie	20/6/1928	M	65	Autres retraités	1/7/2014	837980	FN
+05	SUD-EST	MARTIN	Dominique	1/10/1961	M	06	Administrateurs de sociétés	1/7/2014	24716	FN
+05	SUD-EST	MUSELIER	Renaud	6/5/1959	M	24	Médecins	1/7/2014	335740	UMP
+05	SUD-EST	PEILLON	Vincent	7/7/1960	M	42	Professeurs du secondaire et techn.	1/7/2014	836476	SOC
+05	SUD-EST	RIVASI	Michèle	9/2/1953	Mme	56	Autres professions	1/7/2014	870044	VEC
+05	SUD-EST	VERGIAT	Marie-Christine	23/9/1956	Mme	56	Autres professions	1/7/2014	1177460	DVG
+06	MASSIF-CENTRAL CENTRE	DELAHAYE	Angélique	22/2/1963	Mme	01	Agriculteurs propriétaires exploit.	1/7/2014	1180784	UMP
+06	MASSIF-CENTRAL CENTRE	DENANOT	Jean-Paul	24/4/1944	M	62	Retraités de l'enseignement	1/7/2014	164294	SOC
+06	MASSIF-CENTRAL CENTRE	HORTEFEUX	Brice	11/5/1958	M	56	Autres professions	1/7/2014	47	UMP
+06	MASSIF-CENTRAL CENTRE	LOISEAU	Philippe	24/11/1957	M	01	Agriculteurs propriétaires exploit.	1/7/2014	345742	FN
+06	MASSIF-CENTRAL CENTRE	MONOT	Bernard	3/7/1962	M	50	Cadres sup. (entreprises publiques)	1/7/2014	1501531	FN
+07	ILE-DE-FRANCE	BALAS	Guillaume	30/8/1972	M	42	Professeurs du secondaire et techn.	1/7/2014	833896	SOC
+07	ILE-DE-FRANCE	BERÈS	Pervenche	10/3/1957	Mme	47	Fonctionnaires de catégorie A	1/7/2014	1501533	SOC
+07	ILE-DE-FRANCE	BOUTONNET	Marie-Christine	10/2/1949	Mlle	19	Autres cadres (secteur privé)	1/7/2014	254184	FN
+07	ILE-DE-FRANCE	CAVADA	Jean-Marie	24/2/1940	M	64	Retraités des entreprises publiques	1/7/2014	837987	UDI
+07	ILE-DE-FRANCE	CHAUPRADE	Aymeric	13/1/1969	M	05	Industriels-Chefs entreprise	1/7/2014	1501534	FN
+07	ILE-DE-FRANCE	DATI	Rachida	27/11/1965	Mme	56	Autres professions	1/7/2014	1107978	UMP
+07	ILE-DE-FRANCE	DE SARNEZ	Marielle	27/3/1951	Mme	56	Autres professions	1/7/2014	26	MDM
+07	ILE-DE-FRANCE	DIDIER	Geoffroy	12/4/1976	M	29	Avocats	18/6/2017	1180683	UMP
+07	ILE-DE-FRANCE	DURAND	Pascal	3/10/1960	M	29	Avocats	1/7/2014	1501535	VEC
+07	ILE-DE-FRANCE	JOLY	Eva	5/12/1943	Mme	63	Retraités fonct.publique (sf enseig.)	1/7/2014	1177467	VEC
+07	ILE-DE-FRANCE	JUVIN	Philippe	1/2/1964	M	24	Médecins	1/7/2014	163156	UMP
+07	ILE-DE-FRANCE	LAMASSOURE	Alain	10/2/1944	M	56	Autres professions	1/7/2014	54	UMP
+07	ILE-DE-FRANCE	LE HYARIC	Patrick	4/2/1957	M	05	Industriels-Chefs entreprise	1/7/2014	1177468	COM
+07	ILE-DE-FRANCE	REVAULT D'ALLONNES	Christine	10/11/1971	Mme	54	Permanents politiques	1/7/2014	336999	SOC
+07	ILE-DE-FRANCE	SCHAFFHAUSER	Jean-Luc	17/12/1955	M	39	Autres professions libérales	1/7/2014	1423272	FN
+08	OUTRE-MER	MANSCOUR	Louis-Joseph	20/3/1945	M	43	Enseignants 1er deg.-directeurs école	1/7/2014	802	SOC
+08	OUTRE-MER	OMARJEE	Younous	30/9/1969	M	57	Sans profession déclarée	1/7/2014	1190936	DVG
+08	OUTRE-MER	PONGA	Maurice	5/6/1947	M	62	Retraités de l'enseignement	1/7/2014	1177470	UMP

@@ -58,23 +58,43 @@ Timothée Gidoin
 
 - **Autres, à compléter**
 
+    + Données de l'annuaire de l'administration [lien](http://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/) pour estimer la présence dans les conseils d'administration, les organismes extérieurs etc...
+    
+    + Rapport du HCEfh de février 2017 [lien](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hce_parite_au_niveau_local_2017_02_02_compresse-2.pdf) *Quel partage du pouvoir entre les femmes et les hommes élu.e.s au niveau local ?* 
+    
+    + Rapport du HCEfh de février 2015 [lien](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hce_rapport_2015-02-26-par-015vf.pdf) *Parité en politique : entre progrès et stagnations. Evaluation de la mise en œuvre des lois dites de parité dans le cadre des élections de 2014 :municipales et communautaires, européennes, sénatoriales*
+
 ### Méthodologie d'analyse sur R
 
 1. **Importer les données**
-
-```r
+- importer les fichiers textes du RNE
+```{r 
 library(readr)
+read_csv()
 ```
-
-```
-## Warning: package 'readr' was built under R version 3.3.3
-```
+- importer le fichier de déclaration (format XML) des élus de la HATVP
 
 2. **Consolider le Registre National des Elus**
 - Consolider les données de 2008 à 2017
-- Consolider les différents fichiers (EPCI, maires, sénateurs...) dans un seul fichier
+- Consolider les différents fichiers textes (EPCI, maires, sénateurs...) dans un seul fichier
 
-2. **
+3. **Nettoyage des données**
+```{r 
+library(tidyverse)
+```
+
+4. **Analyse des données**
+- Cumul des mandats dans le temps
+    * Connaitre le nombre de parlementaires cumulant des mandats depuis 2008 (3 mandatures pour les députés)
+    * Si possible, cf données disponibles notamment via site AN, essayer de remonter avant 2008 pour les députés/sénateurs
+        + *Contacter décodeurs si besoin pour savoir à quelles données ils ont eu accès pour réussir à remonter aussi loin dans l'historique*
+     * Focus hommes/femmes parmi les élus ayant cumulés dans le temps
+
+- Cumul des mandats (concomitants)
+    * Part des hommes et des femmes parmi les "cumulars" (depuis 2017)
+        + Parmi les élus h/f qui cumulent, quels types de fonctions/rémunérations
+    * Nombre de mandats cumulés => part des h/f
+        
 
 
 

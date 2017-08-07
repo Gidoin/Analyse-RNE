@@ -205,7 +205,12 @@ $(document).ready(function () {
 <li>Déclarations d’intérêts auprès de la HATVP</li>
 </ul></li>
 </ul></li>
-<li><p><strong>Autres, à compléter</strong></p></li>
+<li><p><strong>Autres, à compléter</strong></p>
+<ul>
+<li><p>Données de l’annuaire de l’administration <a href="http://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/">lien</a> pour estimer la présence dans les conseils d’administration, les organismes extérieurs etc…</p></li>
+<li><p>Rapport du HCEfh de février 2017 <a href="http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hce_parite_au_niveau_local_2017_02_02_compresse-2.pdf">lien</a> <em>Quel partage du pouvoir entre les femmes et les hommes élu.e.s au niveau local ?</em></p></li>
+<li><p>Rapport du HCEfh de février 2015 <a href="http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hce_rapport_2015-02-26-par-015vf.pdf">lien</a> <em>Parité en politique : entre progrès et stagnations. Evaluation de la mise en œuvre des lois dites de parité dans le cadre des élections de 2014 :municipales et communautaires, européennes, sénatoriales</em></p></li>
+</ul></li>
 </ul>
 </div>
 <div id="methodologie-danalyse-sur-r" class="section level3">
@@ -213,18 +218,43 @@ $(document).ready(function () {
 <ol style="list-style-type: decimal">
 <li><strong>Importer les données</strong></li>
 </ol>
-<pre class="r"><code>library(readr)</code></pre>
-<pre><code>## Warning: package 'readr' was built under R version 3.3.3</code></pre>
+<ul>
+<li><p>importer les fichiers textes du RNE</p>
+<pre class="{r"><code>library(readr)
+read_csv()</code></pre></li>
+<li><p>importer le fichier de déclaration (format XML) des élus de la HATVP</p></li>
+</ul>
 <ol start="2" style="list-style-type: decimal">
 <li><strong>Consolider le Registre National des Elus</strong></li>
 </ol>
 <ul>
 <li>Consolider les données de 2008 à 2017</li>
-<li>Consolider les différents fichiers (EPCI, maires, sénateurs…) dans un seul fichier</li>
+<li>Consolider les différents fichiers textes (EPCI, maires, sénateurs…) dans un seul fichier</li>
 </ul>
-<ol start="2" style="list-style-type: decimal">
-<li>**</li>
+<ol start="3" style="list-style-type: decimal">
+<li><p><strong>Nettoyage des données</strong></p>
+<pre class="{r"><code>library(tidyverse)</code></pre></li>
+<li><strong>Analyse des données</strong></li>
 </ol>
+<ul>
+<li>Cumul des mandats dans le temps
+<ul>
+<li>Connaitre le nombre de parlementaires cumulant des mandats depuis 2008 (3 mandatures pour les députés)</li>
+<li>Si possible, cf données disponibles notamment via site AN, essayer de remonter avant 2008 pour les députés/sénateurs
+<ul>
+<li><em>Contacter décodeurs si besoin pour savoir à quelles données ils ont eu accès pour réussir à remonter aussi loin dans l’historique</em></li>
+</ul></li>
+<li>Focus hommes/femmes parmi les élus ayant cumulés dans le temps</li>
+</ul></li>
+<li>Cumul des mandats (concomitants)
+<ul>
+<li>Part des hommes et des femmes parmi les “cumulars” (depuis 2017)
+<ul>
+<li>Parmi les élus h/f qui cumulent, quels types de fonctions/rémunérations</li>
+</ul></li>
+<li>Nombre de mandats cumulés =&gt; part des h/f</li>
+</ul></li>
+</ul>
 </div>
 
 
