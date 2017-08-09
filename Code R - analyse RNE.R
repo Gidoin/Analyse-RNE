@@ -1,3 +1,5 @@
+## Installation et chargement des packages nécessaires pour l'analyse
+
 library(xml2)
 library(XML)
 library(purrr)
@@ -10,7 +12,9 @@ install.packages("widgetframe")
 library(widgetframe)
 devtools::install_github("ramnathv/htmlwidgets")
 library(htmlwidgets)
-xml_view("http://www.hatvp.fr/livraison/merge/declarations.xml")
+cd <- read_xml("http://www.hatvp.fr/livraison/merge/declarations.xml")
+xml_tree_view(cd)
+xmlview(cd)
 ## chargement du fichier XML de la HATVP sur les déclarations des élus
 ### Code récupéré à partir de la page @hrbrmstr https://rud.is/rpubs/xml2power/
 

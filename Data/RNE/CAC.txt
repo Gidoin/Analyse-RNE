@@ -1,4 +1,3 @@
-Titre du rapport
 Code région	Libellé de la région	Nom de l'élu	Prénom de l'élu	Date de naissance	Civilité	Code profession	Libellé de la profession	Date de début du mandat	Libellé de fonction	Date de début de la fonction	N° Identification d'un élu	Nuance mandat
 94	Corse	ARMANET	Guy	27/10/1964	M	09	Commercants	13/12/2015			925266	DVG
 94	Corse	BARTOLI	Paul-Marie	16/2/1956	M	57	Sans profession déclarée	13/12/2015			1509964	DVG
