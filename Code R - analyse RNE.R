@@ -80,7 +80,7 @@ CMOM$`Code du département (Maire)` <- as.integer(CMOM$`Code du département (Ma
 
 ## Reprise des consolidations entre les fichiers
 
-CMCONSO2 <- full_join(CMCONSO1,CMOM)
+CMCONSO2 <- full_join(CMCONSO1,CMOM) # A noter: cela a remplacé le code dpt des lignes corses de CMCONSO1 par "NA"
 
 ## Erreur sur le code région à fixer
 
