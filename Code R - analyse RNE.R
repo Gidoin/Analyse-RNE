@@ -44,7 +44,7 @@ View(listeHATPV)
 listeHATPV %>% 
   arrange(desc(open_data)) # Effectivement seulement 10 entrées correspondant à 10 ministres => abandon du XML de la HATVP
 
-## Importation des fichiers texte du RNE
+## Importation des 14 fichiers texte du RNE
 CAC <- read_tsv("./data/RNE/CAC.txt", locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
 CD <- read_tsv("./data/RNE/CD.txt", locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
 CM0125 <- read_tsv("./data/RNE/CM 01 25.txt", skip=1, locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
@@ -59,4 +59,43 @@ Deputes <- read_tsv("./data/RNE/Deputes.txt", skip=1, locale = locale(encoding="
 MembresEPCI<- read_tsv("./data/RNE/Membres EPCI.txt", skip=1, locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
 RPE <- read_tsv("./data/RNE/RPE.txt", skip=1, locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
 Senateurs <- read_tsv("./data/RNE/Senateurs.txt", skip=1, locale = locale(encoding="ISO-8859-1", date_names = "fr", date_format = "%d/%m/%Y"))
-View(MembresEPCI)
+
+setwd("./Data/RNE")
+## Juxtaposer les fichiers textes 
+
+CM0125$`Code du département (Maire)` <-  as.integer(CM0125$`Code du département (Maire)`)
+CM2645$`Code du département (Maire)` <-  as.integer(CM2645$`Code du département (Maire)`)
+CM4655$`Code du département (Maire)` <-  as.integer(CM4655$`Code du département (Maire)`)
+CM5669$`Code du département (Maire)` <-  as.integer(CM5669$`Code du département (Maire)`)
+CM7085$`Code du département (Maire)` <-  as.integer(CM7085$`Code du département (Maire)`)
+CM8695$`Code du département (Maire)` <-  as.integer(CM8695$`Code du département (Maire)`)
+CMCONSO <- bind_rows(CM0125,CM2645,CM4655,CM5669,CM7085,CM8695)
+CMCONSO1 <- full_join(CMCONSO,CAC) 
+
+## Erreurs avec le type des colonnes "Code Insee de la commune" & "Code du dpt" # entre CMCONSO1 et CMOM
+str(CMCONSO1) # character
+str(CMOM)  # integer
+CMCONSO1$`Code Insee de la commune` <- as.integer(CMCONSO1$`Code Insee de la commune`)
+CMOM$`Code du département (Maire)` <- as.integer(CMOM$`Code du département (Maire)`)
+
+## Reprise des consolidations entre les fichiers
+
+CMCONSO2 <- full_join(CMCONSO1,CMOM)
+
+## Erreur sur le code région à fixer
+
+CMCONSO3 <- full_join(CMCONSO2,CR)
+CMCONSO4 <- full_join(CMCONSO3,CD)
+CMCONSO5 <- full_join(CMCONSO4,Deputes)
+CMCONSO6 <- full_join(CMCONSO5,Senateurs)
+CMCONSO7 <- full_join(CMCONSO6,RPE)
+
+
+
+
+
+
+
+
+
+
