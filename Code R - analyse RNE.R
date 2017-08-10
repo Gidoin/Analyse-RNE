@@ -89,13 +89,3 @@ CMCONSO4 <- full_join(CMCONSO3,CD)
 CMCONSO5 <- full_join(CMCONSO4,Deputes)
 CMCONSO6 <- full_join(CMCONSO5,Senateurs)
 CMCONSO7 <- full_join(CMCONSO6,RPE)
-
-
-
-
-
-
-
-
-
-
