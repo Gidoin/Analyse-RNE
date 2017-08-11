@@ -161,5 +161,5 @@ distinct(RNEcodedpt)
 RNEV1 <- bind_cols(RNEalpha, RNEcodedpt)
 RNEV1 <- bind_cols(RNEV1, RNElibdpt)
 RNEV1 <- bind_cols(RNEV1, Nuancepol)
-
+save(RNEV1,file="RNEV1.csv")
 # Après vérifications avec les fichiers txt d'origine, il semblerait que le RNE soit correctement consolidé 
