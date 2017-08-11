@@ -1,6 +1,4 @@
 ## Installation et chargement des packages nécessaires pour l'analyse
-install.packages("widgetframe")
-devtools::install_github("ramnathv/htmlwidgets")
 library(xml2)
 library(XML)
 library(purrr)
@@ -83,9 +81,13 @@ CMOM$`Code du département (Maire)` <- as.integer(CMOM$`Code du département (Ma
 CMCONSO2 <- full_join(CMCONSO1,CMOM) # A noter: cela a remplacé le code dpt des lignes corses de CMCONSO1 par "NA"
 
 ## Erreur sur le code région à fixer
+str(CMCONSO2)
+str(CR)
+CR$`Code région` <- as.integer(CR$`Code région`)
+CMCONSO3 <- full_join(CMCONSO2,CR) #issue fixed
+CMCONSO4 <- full_join(CMCONSO3,CD) #no issue
+CMCONSO5 <- full_join(CMCONSO4,Deputes) #no issue
+CMCONSO6 <- full_join(CMCONSO5,Senateurs) #no issue
+RNEbeta <- full_join(CMCONSO6,RPE) #no issue
+View(RNEbeta) # Le problème est la présence de nombreuses colonnes similaires (Ex: libellé dpt)
 
-CMCONSO3 <- full_join(CMCONSO2,CR)
-CMCONSO4 <- full_join(CMCONSO3,CD)
-CMCONSO5 <- full_join(CMCONSO4,Deputes)
-CMCONSO6 <- full_join(CMCONSO5,Senateurs)
-CMCONSO7 <- full_join(CMCONSO6,RPE)
