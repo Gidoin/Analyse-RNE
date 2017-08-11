@@ -137,3 +137,29 @@ RNEbeta31 <- gsub('NA-|-NA', '', RNEbeta31)
 Nuancepol[1] <- NULL
 colnames(Nuancepol)[1] <- "Nuance pol" # nom + explicite
 View(Nuancepol)
+
+## Revenir au RNEbeta et supprimer toutes les colonnes précitées
+RNEalpha <- RNEbeta
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(1:2)]
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(10)]
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(16:18)]
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(18)]
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(20:21)]
+colnames(RNEalpha)
+RNEalpha <- RNEalpha[, -c(22)]
+View(RNEalpha)
+
+## Merge RNEalpha avec Nuancepol, RNEcodedpt & RNElibdpt
+distinct(RNEalpha)
+distinct(RNEcodedpt)
+
+RNEV1 <- bind_cols(RNEalpha, RNEcodedpt)
+RNEV1 <- bind_cols(RNEV1, RNElibdpt)
+RNEV1 <- bind_cols(RNEV1, Nuancepol)
+
+# Après vérifications avec les fichiers txt d'origine, il semblerait que le RNE soit correctement consolidé 
